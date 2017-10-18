@@ -1,0 +1,15 @@
+***
+Bazooka
+Terrestre 2500 2 Mech 70 2 3
+Bazooka : 3 direct 1
+Mitraillette
+can_capture : "Properties"
+increased_vision_in : "Mountain" 3
+***
+Fusée éclairante
+Terrestre 5000 5 Tread 60 3 3
+Fusée éclairante : 3 indirect (1,5)
+Mitrailleuse légère
+special_weapon : weapon=1 range=(1,5) effect_range=2
+***
+

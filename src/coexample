@@ -1,0 +1,11 @@
+***
+Max
+Attaque frontale ; 1+ ; bonus : +30/+0 direct_units
+Max en force ; increase_movement : 1 direct_units
+Puissance max ; increase_movement : 1 direct_units ; bonus : +20/+0 direct_units
+***
+Misc
+Effet ; 0+ ; bonus : +0/+0 all
+COP ; bonus : +10/+10 all
+SCOP ; bonus : +20/+20 all
+***

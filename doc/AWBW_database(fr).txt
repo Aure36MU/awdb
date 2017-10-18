@@ -1,0 +1,1459 @@
+
+------ TOUS LES POUVOIRS DES COS ------
+
+***Jake***
+Prairie : 2-3-4 cases
+Toutes les unités dans la CO-zone +20/+0 sur plaines. Le bonus est en fonction de l'offensive (sinon il serait précisé "au début de chaque tour").
+
+COZone = 130/110+10 (plaines), 110/110 sinon
+Jake = 150/130+10 (plaines), 130/130 sinon
+***
+Offensive :
+Pas de pénalité de mouvement en plaine.
+Toutes les unités sur plaine +20/+0 supp.
+
+Toutes unités = 150/110+10 (plaines), 110/110 sinon
+Jake = 170/130+10 (plaines), 130/130 sinon
+***
+Hyper combat :
+Pas de pénalité de mouvement en plaine.
+Toutes les unités sur plaine +40/+0 supp.
+Unités terrestres directes +1 de mouvement. -> Véhicules terrestres +1 de mouvement ?
+
+Toutes unités = 170/110+10 (plaines), 110/110 sinon
+Jake = 190/130+10 (plaines), 130/130 sinon
+**********
+
+***Rachel***
+Camaraderie : 4-5-6 cases
+Les unités dans la CO-zone sont réparées deux fois plus rapidement (ex. : 4 PV au lieu de 2). Le coût reste identique !
+
+COZone = 110/110 sans bonus
+Rachel = 130/130 sans bonus
+***
+Bonne étoile :
+Les unités peuvent bénéficier jusqu'à 30% de luck.
+
+Toutes unités = 110+(0~30)/110
+Rachel = 130+(0~30)/130
+***
+Pilonnage :
+Les unités peuvent bénéficier jusqu'à 30% de luck.
+Tire trois missiles (équivalent aux silos) sur les unités ennemies de façon à faire le plus de dommages.
+
+Toutes unités = 110+(0~30)/110
+Rachel = 130+(0~30)/130
+**********
+
+***Andy***
+Mécano : 2-3-4 cases
+Les unités dans la CO-zone regagnent 1 PV gratuitement à chaque tour.
+
+COZone = 110/110 sans bonus
+Andy = 130/130 sans bonus
+***
+Réparafond :
+Toutes les unités regagnent 2 PV.
+Toutes les unités +10/+0 supp.
+
+Toutes unités = 120/110
+Andy = 140/130
+***
+Génie logistique :
+Toutes les unités regagnent 5 PV.
+Toutes les unités +10/+0 supp.
+Toutes les unités +1 mouvement.
+
+Toutes unités = 120/110
+Andy = 140/130
+**********
+
+***Max***
+Attaque frontale : 1-2-3 cases
+Unités d'attaque directe dans la CO-zone +30/+0.
+
+COZone = 140/110 (direct), 110/110 sinon
+Max = 160/130 (direct), 130/130 sinon
+***
+Max en force :
+Unités d'attaque directe +1 mouvement.
+
+Toutes unités = 140/110 (direct), 110/110 sinon
+Max = 160/130 (direct), 130/130 sinon
+***
+Puissance max :
+Unités d'attaque directe +1 mouvement.
+Unités d'attaque directe +20/+0 supp.
+
+Toutes unités = 160/110 (direct), 110/110 sinon
+Max = 180/130 (direct), 130/130 sinon
+**********
+
+***Sami***
+Forces spéciales : 3-4-5 cases
+Les soldats dans la CO-zone ont +20/+30.
+Les soldats dans la CO-zone bénéficient de +2 points de capture au début de chaque tour.
+
+COZone = 130/140 (soldats), 110/110 sinon
+Sami = 150/160 (soldats), 130/130 sinon
+***
+Marche forcée :
++1 de mouvement pour les unités de transport et les soldats. 
+Points de capture augmentés de 3 (5 au total).
+
+Toutes unités = 130/140 (soldats), 110/110 sinon
+Sami = 150/160 (soldats), 130/130 sinon
+***
+Conquête :
++2 de mouvement pour les unités de transport et les soldats.
+Points de capture augmentés de 8 (10 au total).
+
+Toutes unités = 130/140 (soldats), 110/110 sinon
+Sami = 150/160 (soldats), 130/130 sinon
+**********
+
+***Nell***
+Bonne fortune : 3-4-5 cases
+Les unités de la CO-zone peuvent bénéficier jusqu'à 20% de luck.
+
+COZone = 110+(0~20)/110
+Nell = 130+(0~20)/130
+***
+Bonne étoile :
+Les unités peuvent bénéficier jusqu'à 30% de luck.
+
+Toutes unités = 110+(0~30)/110
+Nell = 130+(0~30)/130
+***
+Lady la chance :
+Les unités peuvent bénéficier jusqu'à 50% de luck.
+
+Toutes unités = 110+(0~50)/110
+Nell = 130+(0~50)/130
+**********
+
+***Hachi***
+Economies : 4-5-6 cases
+Toutes les unités de la CO-zone ont +10% de défense. (+0/+10)
+
+COZone = 110/120
+Hachi = 130/140
+***
+Troc :
+Toutes les unités coûtent 50% moins cher durant ce tour.
+
+Toutes unités = 110/120
+Hachi = 130/140
+***
+Union marchande :
+Toutes les unités coûtent 50% moins cher durant ce tour.
+Toutes vos propriétés peuvent servir à la construction durant ce tour (ville et Q.G pour le terrestre, port provisoire pour la marine, aéroport provisoire pour l'aviation).
+
+Toutes unités = 110/120
+Hachi = 130/140
+**********
+
+***Olaf***
+Nordique : 3-4-5 cases
+[Global] Toutes les unités ne sont pas affectées par le climat neigeux. (pas de pénalité de fuel ni de mouvement)
+Les unités de CO-zone ont +20/+0 lorsqu'il neige.
+
+COZone = 130/110 (neige), 110/110 sinon
+Olaf = 150/130 (neige), 130/130 sinon
+***
+Enneigement :
+Il neige durant 2 tours.
+
+Toutes unités = 130/110 (neige), 110/110 sinon
+Olaf = 150/130 (neige), 130/130 sinon
+
+Remarque : Le joueur allié possède forcément les plus gros bonus durant son tour mais il peut les perdre ensuite (si le climat change avant que tout le monde aie joué)
+***
+Blizzard :
+Il neige durant 1 tour.
+Toutes les unités +20/+20 supp.
+Toutes les unités adverses -2 PV.
+
+Toutes unités = 150/130 (neige), 110/110 sinon
+Olaf = 170/150 (neige), 130/130 sinon
+
+Remarque : Le joueur allié possède forcément les plus gros bonus durant son tour mais il peut les perdre ensuite (si le climat change avant que tout le monde aie joué)
+**********
+
+***Grit***
+Sniper : 2-3-4 cases
+Unités d'attaque indirecte dans la CO-zone +30/+0.
+
+COZone = 140/110 (indirect), 110/110 sinon
+Grit = 160/130 (indirect), 130/130 sinon
+***
+Embuscade :
+Unités d'attaque indirecte +1 portée.
+
+Toutes unités = 140/110 (indirect), 110/110 sinon
+Grit = 160/130 (indirect), 130/130 sinon
+***
+Ligne de mire : 
+Unités d'attaque indirecte +2 portée.
+Unités d'attaque indirecte +20/+0 supp.
+
+Toutes unités = 160/110 (indirect), 110/110 sinon
+Grit = 180/130 (indirect), 130/130 sinon
+**********
+
+***Colin***
+Plein aux as : 5-6-7 cases
+Les unités de CO-zone ont -10% d'attaque. (-10/+0)
+Le général coûte deux fois moins cher à embarquer (25% du prix de base).
+[Global] Lorsque le général est à bord, toutes les unités coûtent 20% moins cher.
+
+COZone = 100/110
+Colin = 120/130
+***
+Ruée vers l'or :
+Multiplie par 1.5 les réserves d'argent.
+
+Toutes unités = 100/110
+Colin = 120/130
+***
+POWER OF MONEY : 
+Bonus de 2% d'attaque tous les 1000G en votre possession.
+
+Toutes unités = 100+(2x/1000G)/110
+Colin = 120+(2x/1000G)/130
+**********
+
+***Sasha***
+Charme : 5-6-7 cases
+Les propriétés dans la CO-zone rapportent 1.1 fois leur valeur de base (1000G -> 1100G).
+5% des dégâts que vous infligez dans la CO-zone sont transformés en argent et vous reviennent.
+
+COZone = 110/110 sans bonus
+Sasha = 130/130 sans bonus
+***
+Précepteur :
+25% des dégâts que vous infligez sont transformés en argent et vous reviennent.
+
+Toutes unités = 110/110
+Sasha = 130/130
+***
+Démoralisation :
+25% des dégâts que vous infligez sont transformés en argent et vous reviennent.
+La jauge de rupture des adversaires est bloquée pendant un tour et ne peut pas être utilisée.
+
+Toutes unités = 110/110
+Sasha = 130/130
+**********
+
+***Kanbei***
+Daimyo : 2-3-4 cases
+Toutes les unités dans la CO-zone +20/+20.
+[Global] Lorsque le général est à bord, les unités sont plus chers de 20%.
+
+COZone = 130/130
+Kanbei = 150/150
+***
+Courage :
+Toutes les unités +0/+20 supp.
+Toutes les unités ont +30% de contre-attaque.
+
+Toutes unités = 130/150 (phase joueur), 160/150 (phase adverse)
+Kanbei = 150/170 (phase joueur), 180/170 (phase adverse)
+***
+Esprit samouraï : 
+Toutes les unités +0/+30 supp.
+Toutes les unités ont +50% de contre-attaque.
+Le prix des unités revient momentanément à la normale.
+
+Toutes unités = 130/160 (phase joueur), 180/160 (phase adverse)
+Kanbei = 150/180 (phase joueur), 200/180 (phase adverse)
+**********
+
+***Sonja***
+Longue-vue : 4-5-6 cases
+Toutes les unités de la CO-zone vision +1 au début de chaque tour.
+Toutes les unités ennemies dans la CO-zone ont une couverture défensive réduite de 1.
+
+COZone = 110/110 sans bonus
+Sonja = 130/130 sans bonus
+***
+Oeil de faucon :
+Toutes les unités obtiennent le bonus de vision.
+Permet de voir dans les forêts, récifs...
+Réduit la couverture défensive des adversaires de 2 au total.
+
+Toutes unités = 110/110
+Sonja = 130/130
+***
+Contre-offensive : 
+Toutes les unités vision +1 supp. (+2 au total).
+Permet de voir dans les forêts, récifs...
+Réduit la couverture défensive des adversaires de 2 au total.
+Vos unités peuvent contre-attaquer avant l'ennemi.
+
+Toutes unités = 110/110
+Sonja = 130/130
+**********
+
+***Sensei***
+Parachutistes : 3-4-5 cases
+Hélicos et soldats dans la CO-zone +30/+10.
+Unités de transport dans la CO-zone +1 mouvement au début de chaque tour.
+
+COZone = 140/120 (hélicos+soldats), 110/110 sinon
+Sensei = 160/140 (hélicos+soldats), 130/130 sinon
+***
+Forces hélicos :
++20/+20 supp. pour les hélicos et soldats.
+Toutes les unités de transport sont réparées au max et ravaitaillées, ressources comprises pour VTB/Génie.
+
+Toutes unités = 160/140 (hélicos+soldats), 110/110 sinon
+Sensei = 180/160 (hélicos+soldats), 130/130 sinon
+***
+Frappe aérienne :
++40/+40 supp. pour les hélicos et +20/+20 supp pour les soldats.
+Des unités d'infanterie à 9 PV apparaissent dans toutes vos villes.
+
+Toutes unités = 180/160 (hélicos), 160/140 (soldats), 110/110 sinon
+Sensei = 200/180 (hélicos), 180/160 (soldats), 130/130 sinon
+**********
+
+***Grimm***
+En avant : 2-3-4 cases
+Les unités situées dans  la CO-zone bénéficient de +30% d'attaque mais -10% de défense (+30/-10).
+
+COZone = 140/100
+Grimm = 160/120
+***
+Concassage : 
+Toutes les unités +15/+0 supp.
+
+Toutes unités = 155/100
+Grimm = 175/120
+***
+Kamikaze : 
+Toutes les unités +40/+0 supp.
+Vos unités ne contre-attaqueront pas durant le tour de l'ennemi.
+
+Toutes unités = 180/100
+Grimm = 200/120
+**********
+
+***Eagle***
+Pilote illustre : 2-3-4 cases
+Toutes les unités aériennes dans la CO-zone +20/+10.
+
+COZone = 130/120 (aérien), 110/110 sinon
+Eagle = 150/140 (aérien), 130/130 sinon
+***
+Coup de tonnerre :
+Toutes les unités aériennes sont ravitaillées et ne consomment pas de fuel ce tour-ci. Reste sensible à la pénalité causée au tour suivant, ainsi qu'à la perte de fuel causé par un adversaire.
+Toutes les unités aériennes +10/+10 supp.
+
+Toutes unités = 140/130 (aérien), 110/110 sinon
+Eagle = 160/150 (aérien), 130/130 sinon
+***
+Foudre :
+Toutes les unités sauf les soldats et l'unité du général bénéficient d'un tour supplémentaire.
+
+Toutes unités = 130/120 (aérien), 110/110 sinon
+Eagle = 150/140 (aérien), 130/130 sinon
+**********
+
+***Drake***
+Loup de mer : 2-3-4 cases
+Toutes les unités navales dans la CO-zone +20/+10.
+[Global] Dans la pluie, légère ou forte, toutes les unités ne prennent pas de pénalité en vision.
+
+COZone = 130/120 (naval), 110/110 sinon
+Drake = 150/140 (naval), 130/130 sinon
+***
+Tsunami :
+Il pleut durant 1 tour.
+Divise par 2 les réserves de fuel adverses.
+
+Toutes unités = 130/120 (naval), 110/110 sinon
+Drake = 150/140 (naval), 130/130 sinon
+***
+Typhon :
+Forte pluie durant 1 tour.
+Divise par 2 les réserves de fuel adverses.
+Toutes les unités adverses -2 PV.
+
+Toutes unités = 130/120 (naval), 110/110 sinon
+Drake = 150/140 (naval), 130/130 sinon
+**********
+
+***Jess***
+Analyste : 3-4-5 cases
+Véhicules terrestres dans la CO-zone +10/+10.
+
+COZone = 120/120 (véhicules terrestres), 110/110 sinon
+Jess = 140/140 (véhicules terrestres), 130/130 sinon
+***
+Turbo : 
+Réapprovisionne les véhicules terrestres, ressources comprises.
+Véhicules terrestres +1 mouvement.
+
+Toutes unités = 120/120 (véhicules terrestres), 110/110 sinon
+Jess = 140/140 (véhicules terrestres), 130/130 sinon
+***
+Pleine puissance :
+Réapprovisionne toutes les unités, ressources comprises.
+Véhicules terrestres +30/+0 supp. 
+Véhicules terrestres +1 mouvement.
+
+Toutes unités = 150/120 (véhicules terrestres), 110/110 sinon
+Jess = 170/140 (véhicules terrestres), 130/130 sinon
+**********
+
+***Javier***
+Faire front : 3-4-5 cases
+Les unités de la CO-zone ont +30% de défense contre les tirs indirects. (+0/+30)
+
+COZone = 110/140 (VS indirect), 110/110 sinon
+Javier = 130/160 (VS indirect), 130/130 sinon
+***
+Bouclier d'acier :
+Double l'effet des tours de communication (+10/+10 par tour).
++20% de défense supplémentaire contre les tirs indirects. (+0/+20 supp.)
+
+Toutes unités = 110/160 (VS indirect), 110/110 sinon
+Javier = 130/180 (VS indirect), 130/130 sinon
+***
+Garde royale :
+Triple l'effet des tours de communication (+15/+15 par tour !)
++40% de défense supplémentaire contre les tirs indirects. (+0/+40 supp.)
+
+Toutes unités = 110/180 (VS indirect), 110/110 sinon
+Javier = 130/200 (VS indirect), 130/130 sinon
+**********
+
+***Helmut***
+Agressivité : 4-5-6 cases
+Les unités touchées bénéficient d'un bonus d'attaque (+10/+0 par PV manquant, max +90/+0 à 1 PV).
+[Global] Les rangs offrent de la défense au lieu de l'attaque (+0/+5 rang 1 ; +0/+10 rang 2 ; +20/+20 rang As)
+
+COZone = 110+0~90/110
+Helmut = 130+0~90/130
+***
+Force brute :
+Le bonus d'attaque passe à +20% par PV manquant (max +180/+0 à 1 PV).
+
+Toutes unités = 110+0~180/110
+Helmut = 130+0~180/130
+***
+Coup du barbare :
+Le bonus d'attaque passe à +50% par PV manquant (max +450/+0 à 1 PV).
+
+Toutes unités = 110+0~450/110
+Helmut = 130+0~450/130
+**********
+
+***Kat***
+Terrain favorable : 3-4-5 cases
+Les unités dans la CO-zone utilisent le terrain pour augmenter leur attaque (+5/+0 par étoile).
+
+COZone = 110+0~20/110+0~40 (selon terrain)
+Kat = 130+0~20/130+0~40 (selon terrain)
+***
+Francs-tireurs :
+Aucune pénalité de mouvement quel que soit le terrain.
+
+Toutes unités = 110+0~20/110+0~40 (selon terrain)
+Kat = 130+0~20/130+0~40 (selon terrain)
+***
+Commando :
+Aucune pénalité de mouvement quel que soit le terrain.
+La couverture défensive du terrain est doublée. (Cela augmente également l'attaque en conséquence)
+
+Toutes unités = 110+0~40/110+0~80 (selon terrain)
+Kat = 130+0~40/130+0~80 (selon terrain)
+**********
+
+***Adder***
+Priorité : 2-3-4 cases
+Au début de chaque tour, les unités de la CO-zone ont +1 mouvement.
+Mais les effets de CO-zone s'annulent durant le tour de l'adversaire (-10/-10).
+(Note : La CO-zone ne disparaît pas ce qui fait que Adder peut charger sa barre en défense)
+
+COZone = 110/110 sans bonus (phase joueur), 100/100 (phase adverse)
+Adder = 130/130 sans bonus (phase joueur), 120/120 (phase adverse)
+***
+Manoeuvres :
+Toutes les unités reçoivent le bonus +1 de mouvement.
+Toutes les unités +10/+10 supp. durant votre tour.
+
+Toutes unités = 120/120 (phase joueur), 100/100 (phase adverse)
+Adder = 140/140 (phase joueur), 120/120 (phase adverse)
+***
+Déploiement :
+Toutes les unités +2 mouvement (par rapport à la normale, donc unités de CO-zone ne gagnent que +1 mvt supp.).
+Toutes les unités +20/+20 supp. durant votre tour.
+Vous regagnez automatiquement un quart de la barre de rupture (3 barres) au tour suivant.
+
+Toutes unités = 130/130 (phase joueur), 100/100 (phase adverse)
+Adder = 150/150 (phase joueur), 120/120 (phase adverse)
+**********
+
+***Maverick***
+Présence noire : 1-2-3 cases
+Toutes les unités dans la CO-zone +20/+10.
+
+COZone = 130/120
+Maverick = 150/140
+***
+Vague noire :
++1 PV pour toutes les unités alliées et -1 PV pour toutes les unités adverses.
+
+Toutes unités = 130/120
+Maverick = 150/140
+***
+Orage noir :
++2 PV pour toutes les unités alliées et -2 PV pour toutes les unités adverses.
+
+Toutes unités = 130/120
+Maverick = 150/140
+**********
+
+***Sturm***
+Sous le masque : 5 cases (fixe)
+Toutes les unités dans la CO-zone +5/+5.
+[Global] Immunité à tous les climats sauf neige.
+Sa barre de rupture se charge 2 fois plus lentement que les autres COs.
+
+COZone = 115/115
+Sturm = 135/135
+***
+[Pas de rupture standard]
+v
+Fin inévitable : [Passif] Les unités ennemies dans la CO-zone ont -25% de contre-attaque et perdent 1 PV au début de chaque tour ?
+
+COZone = 115/115
+Sturm = 135/135
+
+Ennemi dans COZone = 100/100 -> 75/100 (phase joueur)
+***
+Attaque météore :
+Toutes les unités +25/+25 supp.
+Une météorite tombe sur une zone de 3 cases de rayon sur la plus grosse concentration d'ennemis, coût indifférent. (pour comparaison : un silo couvre 2 cases de rayon). Les unités ennemies touchées sont réduites au minimum de PV (1% de santé).
+v
+Toutes les unités +25/+25 supp.
+Une météorite tombe sur une zone de 3 cases de rayon sur la plus grosse concentration d'ennemis, coût indifférent. Toutes les unités ennemies touchées perdent la moitié de leurs PV actuels, arrondi au PV inférieur (ex. : 9->4). <- ou perdent juste la moitié de leur santé, beaucoup plus simple à gérer. (baisse de contre-attaque étendue, -1 PV pas important ici) ?
+
+Toutes unités = 140/140
+Sturm = 160/160
+
+Tous les ennemis = 100/100 -> 75/100 (phase joueur)
+**********
+
+***Jugger***
+Random : 4-5-6 cases
+Les dégâts peuvent varier en fonction du luck : -5% à +15%.
+
+Toutes unités = 110+(-5~+15)/110
+Jugger = 130+(-5~+15)/130
+***
+Martèlement :
+Les attaques peuvent varier entre +10% et +20% (= font toujours au moins 10% de dégâts en plus).
+
+Toutes unités = 110+(10~20)/110
+Jugger = 130+(10~20)/130
+***
+Tous azimuts :
+Les attaques peuvent varier entre +20% et +40% (= font toujours au moins 20% de dégâts en plus).
+
+Toutes unités = 110+(20~40)/110
+Jugger = 130+(20~40)/130
+**********
+
+***Zak***
+Autoroutes : 3-4-5 cases
+Toutes les unités dans la CO-zone +20/+20 sur les routes. -> Les routes offrent +2* de couverture défensive (global ?), garder bonus d'attaque.
+
+COZone = 130/130 (routes), 110/110 sinon
+Zak = 150/150 (routes), 130/130 sinon
+***
+Attaque éclair : 
+Toutes les unités +2 mouvement. -> Toutes les unités +1 mouvement ?
+
+Toutes unités = 130/130 (routes), 110/110 sinon
+Zak = 150/150 (routes), 130/130 sinon
+***
+Blitzkrieg :
+Toutes les unités +2 mouvement.
+Toutes les unités sur routes +30/+0 supp.
+
+Toutes unités = 160/130 (routes), 110/110 sinon
+Zak = 180/150 (routes), 130/130 sinon
+**********
+
+***Candy***
+Combat urbain : 2-3-4 cases
+Toutes les unités dans la CO-zone +30/+0 depuis les bâtiments.
+Inclut Ville, Q.G., toutes Propriétés quel que soit leur état (Base, Port, Aéroport, Tour de communication, Radar), toutes Propriétés temporaires. N'INCLUT PAS LE SILO !
+
+COZone = 140/110+10~40 (bâtiments), 110/110 sinon
+Candy = 160/130+10~40 (bâtiments), 130/130 sinon
+***
+Révolution :
+Toute unité ennemie placée dans un bâtiment (quel que soit son état) -2 PV.
+Toutes les unités +10/+0 supp. depuis les bâtiments.
+
+Toutes unités = 150/110+10~40 (bâtiments), 110/110 sinon
+Candy = 170/130+10~40 (bâtiments), 130/130 sinon
+***
+Féroce cité :
+Toutes les unités bénéficient de +2% de défense à chaque bâtiment en votre possession. (+0/+2 supp.)
+Toutes les unités +30/+0 supp. depuis les bâtiments.
+
+Toutes unités = 170/110+(2x)+10~40 (bâtiments), 110/110+(2x) sinon
+Candy = 190/130+(2x)+10~40 (bâtiments), 130/130+(2x) sinon
+**********
+
+***Von Bolt***
+La force de l'âge : 5 cases (fixe)
++x/+x selon les PV de l'unité dans la CO-zone. Min. +1/+1 à 1 PV, max. +10/+10 à 10 PV.
+
+COZone = 111~120/111~120 selon les PV
+Von Bolt = 131~140/131~140 selon les PV
+***
+[Pas de rupture standard]
+***
+Foudre ultime :
+Toutes les unités +20/+20 supp.
+Envoie de la foudre sur une zone de 3 cases de rayon dont le centre est l'unité du général. Toutes les unités ennemies touchées ont -3 PV et passent un tour.
+
+Toutes unités = 131~140/131~140 selon les PV
+Von Bolt = 151~160/151~160 selon les PV
+**********
+
+***Ed***
+Attaques terrestres : 2-3-4 cases
+Unités terrestres d'attaque directe dans la CO-zone +20/+0. -> +20/+10 ?
+
+COZone = 130/110 (terrestre direct), 110/110 sinon
+Ed = 150/130 (terrestre direct), 130/130 sinon
+***
+Commando :
+Unités terrestres d'attaque directe +2 mouvement.
+
+Toutes unités = 130/110 (terrestre direct), 110/110 sinon
+Ed = 150/130 (terrestre direct), 130/130 sinon
+***
+Espoir :
+Unités terrestres d'attaque directe +2 mouvement.
+Unités terrestres d'attaque directe +30/+0 supp.
+
+Toutes unités = 160/110 (terrestre direct), 110/110 sinon
+Ed = 180/130 (terrestre direct), 130/130 sinon
+**********
+
+***O'Brian***
+Défense totale : 3-4-5 cases
+Toutes les unités de la CO-zone +0/+20.
+
+COZone = 110/130
+O'Brian = 130/150
+***
+Sauvetage :
+Toutes les unités regagnent immédiatement 3 PV.
+
+Toutes unités = 110/130
+O'Brian = 130/150
+***
+Persévérance :
+Toutes les unités regagnent immédiatement 3 PV, ainsi que 3 PV supplémentaires au début du tour suivant.
+Durant ce tour, les unités ayant strictement plus de 1 PV (> 10% de santé) ne peuvent être détruites (ils leur reste 1% de santé).
+
+Toutes unités = 110/130
+O'Brian = 130/150
+**********
+
+***Lin***
+Elite terrestre : 1-2-3 cases
+Unités terrestres dans la CO-zone +20/+20.
+
+COZone = 130/130 (terrestre), 110/110 sinon
+Lin = 150/150 (terrestre), 130/130 sinon
+***
+Vision de nuit :
+Toutes les unités terrestres +2 vision.
+Toutes les unités terrestres voient dans les récifs, forêts...
+
+Toutes unités = 130/130 (terrestre), 110/110 sinon
+Lin = 150/150 (terrestre), 130/130 sinon
+***
+Quadrillage :
+Toutes les unités terrestres +2 vision.
+Toutes les unités terrestres voient dans les récifs, forêts...
+Les unités adverses perdent 1 PV pour chaque point de couverture qu'elles ont. (Ex. Plaines : -1 PV ; Q.G : -4 PV)
+
+Toutes unités = 130/130 (terrestre), 110/110 sinon
+Lin = 150/150 (terrestre), 130/130 sinon
+**********
+
+***Catleïa***
+Encouragement général : 2-3-4 cases
+Toutes les unités de la CO-zone +10/+10.
+
+COZone = 120/120
+Catleïa = 140/140
+***
+Myrmidon :
+Toutes les unités +1 mouvement.
+Toutes les unités +1 portée.
+
+Toutes unités = 120/120
+Catleïa = 140/140
+***
+Argonaute :
+Toutes les unités +2 mouvement.
+Toutes les unités +2 portée.
+
+Toutes unités = 120/120
+Catleïa = 140/140
+**********
+
+***Zadia***
+Attaque aérienne : 1-2-3 cases
+Unités aériennes dans la CO-zone +30/+20.
+
+COZone = 140/130 (aérien), 110/110 sinon
+Zadia = 160/150 (aérien), 130/130 sinon
+***
+Horizon :
+Toutes les unités aériennes +2 mouvement.
+
+Toutes unités = 140/130 (aérien), 110/110 sinon
+Zadia = 160/150 (aérien), 130/130 sinon
+***
+RAF Tactics :
+Toutes les unités aériennes +2 mouvement.
+Toutes les unités aériennes +40/+0 supp. en combat aérien, ou +20/+0 supp. contre les autres unités.
+
+Toutes unités = 180/130 (aérien VS air), 160/130 (aérien VS terre/mer), 110/110 sinon
+Zadia = 200/150 (aérien VS air), 180/150 (aérien VS terre/mer), 130/130 sinon
+**********
+
+***Trak***
+Attaque longue portée : 2-3-4 cases
+Toutes les unités indirectes et navires dans la CO-zone +20/+10.
+
+COZone = 130/120 (indirect + naval), 110/110 sinon
+Trak = 150/140 (indirect + naval), 130/130 sinon
+***
+Amplitude :
+Toutes les unités indirectes +2 portée.
+
+Toutes unités = 130/120 (indirect + naval), 110/110 sinon
+Trak = 150/140 (indirect + naval), 130/130 sinon
+***
+Magnitude :
+Toutes les unités indirectes +2 portée.
+Toutes les unités indirectes peuvent riposter AVANT une attaque directe (50% de leur puissance d'attaque).
+
+Toutes unités = 130(65)/120 (indirect + naval), 110/110 sinon
+Trak = 150(75)/140 (indirect + naval), 130/130 sinon
+**********
+
+***Carter***
+Charisme : 5 cases (fixe)
+Toutes les unités de la CO-zone +10/+10.
+
+COZone = 120/120
+Carter = 140/140
+***
+[Pas de rupture standard]
+***
+Gradation :
+Les unités ennemies ne peuvent contre-attaquer.
+Après chaque offensive donnée, +5/+0 supp. à toutes vos unités. Limite = 8 offensives (pour +40% d'attaque ou +40/+0). Le boost maximal est conservé pendant la phase adverse.
+
+Toutes unités = 120~160/120
+Carter = 140~180/140
+**********
+
+***Finn***
+Défense aérienne : 2-3-4 cases
+Unités aériennes dans la CO-zone +0/+30.
+
+COZone = 110/140 (aérien), 110/110 sinon
+Finn = 130/160 (aérien), 130/130 sinon
+***
+Fuselage :
+Toutes les unités aériennes +0/+270 supp. !
+
+Toutes unités = 110/410 (aérien), 110/110 sinon
+Finn = 130/430 (aérien), 130/130 sinon
+***
+Opportunisme :
+Toutes les unités aériennes +0/+270 supp. !
+Augmentation de l'attaque des unités aériennes : Les avions attaquent comme s'ils avaient tous 10 PV. Bonus =  +((10/PV)*100-100)/+0 supp.
+
+Toutes unités = 110~1010/410 (aérien), 110/110 sinon
+Finn = 130~1030/430 (aérien), 130/130 sinon
+**********
+
+***Sigismundo***
+Défense maritime : 3-4-5 cases
+Unités maritimes, intercepteurs et hélicos dans la CO-zone +10/+40. -> [+] furtifs ?
+[Global] Les furtifs et les SUBs ne consomment pas de fuel supp. lorsqu'ils sont cachés. (Restent à leur pénalité standard)
+
+COZone = 120/150 (naval + intercepteurs + furtifs + hélicos), 110/110 sinon
+Sigismundo = 140/170 (naval + intercepteurs + furtifs + hélicos), 130/130 sinon
+***
+Soutien logistique :
+Ravitaillement complet à toutes les unités, ressources comprises.
+Toutes les autres unités aériennes ont aussi +10/+40.
+
+Toutes unités = 120/150 (naval + aérien), 110/110 sinon
+Sigismundo = 140/170 (naval + aérien), 130/130 sinon
+***
+Grande armada :
+Ravitaillement complet à toutes les unités, ressources comprises.
+Toutes les unités navales +1 mouvement.
+Toutes les unités navales +0/+40 supp.
+Toutes les autres unités aériennes ont aussi +10/+40.
+
+Toutes unités = 120/190 (naval), 120/150 (aérien), 110/110 sinon
+Sigismundo = 140/210 (naval), 140/170 (aérien), 130/130 sinon
+**********
+
+***Lili***
+Imperméabilité : 2-3-4 cases
+Toutes les unités de la CO-zone +0/+10.
+[Global] Immunité à tous les climats.
+
+COZone = 110/120
+Lili = 130/140
+***
+Énigme :
+Sélectionnez le climat pour ce tour et au début du prochain (Soleil, forte pluie, neige et simoun disponibles. Impossible à contrer en pratique sauf durant le tour suivant.)
+
+Toutes unités = 110/120
+Lili = 130/140
+***
+Paradoxe :
+Sélectionnez le climat pour ce tour et au début du prochain (Soleil, forte pluie, neige et simoun disponibles. Impossible à contrer en pratique sauf durant le tour suivant.)
+-> + Annule tous les bonus de stats de l'ennemi durant votre tour, y compris terrain, rangs, tours de com., ... (ceux-ci sont traités comme des unités 100/100) ???
+Ou : Ne prend pas en compte tous les bonus de stats apporté par un général, ne compte que les bonus de base "naturels" tels que terrain, rangs...
+Ou : Toutes les immunités adverses au climat sont annulées durant ce tour.
+
+Toutes unités = 110/120
+Lili = 130/140
+
+-> + Toutes unités ennemies = x/x -> 100/100 (phase joueur) ???
+**********
+
+***Larissa***
+Guerre totale : 0-1-2 cases
+Toutes les unités de la CO-zone +50/+50.
+
+COZone = 160/160
+Larissa = 180/180
+***
+Ravage :
+Envoie un missile qui fait 5 PV de dégâts sur un rayon de 2 cases.
+Les unités hors CO-zone (0-1 cases) ne gagnent que +25/+25 en stats.
+
+Toutes unités 0-1 cases = 160/160
+Toutes unités 2+ cases = 135/135
+Larissa = 180/180
+***
+Hécatombe :
+Envoie un missile qui fait 8 PV de dégâts sur un rayon de 2 cases.
+Toutes les unités obtiennent le bonus de stats.
+
+Toutes unités = 160/160
+Larissa = 180/180
+**********
+
+***Stolos***
+G3T R3KT
+**********
+
+***Levail***
+Loyauté : 3-4-5 cases
+Double les bonus d'attaque liés au rang.
+
+COZone = 150/130 (rang As), 130/110 (rang 2), 120/110 (rang 1), 110/110 sinon
+Levail = 150/130 (rang As)
+***
+Promotion générale :
+Toutes les unités gagnent 1 rang.
+Double aussi les bonus de défense liés au rang.
+
+Toutes unités = 150/150 (rang As), 130/110 (rang 2), 120/110 (rang 1), 110/110 sinon
+Levail = 150/150 (rang As)
+***
+Capitanat :
+Triple les bonus d'attaque et de défense liés au rang.
+
+Toutes unités = 170/170 (rang As), 140/110 (rang 2), 125/110 (rang 1), 110/110 sinon
+Levail = 170/170 (rang As)
+**********
+
+***Klaus***
+Lobby industriel : 3-4-5 cases
+Réduit les coûts d'achat de 10% par rapport au prix de base dans la CO-zone.
+Il est possible d'acheter des unités à prix réduit dans la CO-zone pour faire remplir la barre. (+1 barre tous les 1000G de promotion)
+
+COZone = 110/110 sans bonus
+Klaus = 130/130 sans bonus
+***
+Industrialisation :
+Réduit les coûts d'achat de 10% par rapport au prix de base partout.
+Toute unité construite ce tour-ci (après déclenchement du pouvoir !) peut agir directement.
+
+Toutes unités = 110/110
+Klaus = 130/130
+***
+Surproduction :
+Réduit les coûts d'achat de 60% par rapport au prix de base partout.
+Toute unité construite ce tour-ci (après déclenchement du pouvoir !) peut agir directement.
+
+Toutes unités = 110/110
+Klaus = 130/130
+**********
+
+***Formiotoris***
+Goût du sang : 0-1-2 cases
+Unités directes dans la CO-zone +50/+0.
+Lorsque une unité alliée dans la CO-zone détruit une unité adverse, elle gagne 2 PV.
+
+COZone = 160/110 (direct), 110/110 sinon
+Formiotoris = 180/130 (direct), 130/130 sinon
+***
+Instinct :
+Annule toute pénalité de mouvement en fonction du terrain.
+(Effet 'vampirisme' de la COZone aussi étendu globalement)
+
+Toutes unités = 160/110 (direct), 110/110 sinon
+Formiotoris = 180/130 (direct), 130/130 sinon
+***
+Déchaînement de sang :
+Annule toute pénalité de mouvement en fonction du terrain.
+Toutes les unités +20/+0 supp.
+(Effet 'vampirisme' de la COZone aussi étendu globalement)
+
+Toutes unités = 180/110 (direct), 130/110 sinon
+Formiotoris = 200/130 (direct), 150/130 sinon
+**********
+
+***Priam***
+Mobilisation : 2-3-4 cases
+Réparations gratuites dans la CO-zone.
+Toutes les unités dans la COZone +0/+30 dans les bâtiments et les routes.
+
+COZone = 110/140 (bâtiments + routes), 110/110 sinon
+Priam = 130/160 (bâtiments + routes), 130/130 sinon
+***
+Urbanisation :
+Constructions d'aéroport et de port provisoires en un tour. (<=> vitesse de construction doublée)
+Toutes les unités situées dans vos propriétés sont réparées une seconde fois.
+
+Toutes unités = 110/140 (bâtiments + routes), 110/110 sinon
+Priam = 130/160 (bâtiments + routes), 130/130 sinon
+***
+Guérilla urbaine :
+Constructions d'aéroport et de port provisoires en un tour.
+Toutes les unités ennemies ont -50% de défense (-0/-50) et -2 mouvement. -> A revoir ?
+
+Toutes unités = 110/140 (bâtiments + routes), 110/110 sinon
+Priam = 130/160 (bâtiments + routes), 130/130 sinon
+
+Toutes unités ennemies = 100/100 -> 100/50
+**********
+
+***Heyden***
+Renseignement : 4-5-6 cases
+Toutes les unités directes dans la CO-Zone +10/+0.
+
+COZone = 120/110 (direct), 110/110 sinon
+Heyden = 140/130 (direct), 130/130 sinon
+***
+Espions :
+Vous avez la vision sur toutes les propriétés.
+Les fusées éclairantes infligent 1 PV de dégâts aux ennemis éclairés. (Fonctionne aussi sans FoW !)
+
+Toutes unités = 120/110 (direct), 110/110 sinon
+Heyden = 140/130 (direct), 130/130 sinon
+***
+Guet-apens :
+Vision sur toutes les propriétés + 1 case.
+Vos unités prises en embuscade peuvent attaquer ou attendre (pas d'annulation) (fonctionne aussi sans FoW contre les SUBs ou Furtifs).
+
+Toutes unités = 120/110 (direct), 110/110 sinon
+Heyden = 140/130 (direct), 130/130 sinon
+**********
+
+***Khrall***
+Outsider : 2-3-4 cases
++40% d'attaque aux unités en désavantage avant une offensive. (s'active si lors d'une offensive normale, les dégâts ennemis [théoriques] sont strictement supérieurs aux dégâts alliés [réels, car phase joueur]. La vérification se fait AVANT toute attaque. Il est facile de vérifier un avantage ou désavantage en prenant les nombres de la damage chart tels quels.)
+
+COZone = 150/110 (si désavantage), 110/110 sinon
+Khrall = 170/130 (si désavantage), 130/130 sinon
+***
+Sabotage :
+Les unités ennemies ayant des munitions limitées perdent immédiatement 1 munition (ou laissé à 0 s'ils n'ont plus de munitions).
+Les unités ennemies ne peuvent pas être ravitaillées ni réparées. 
+
+Toutes unités = 150/110 (si désavantage), 110/110 sinon
+Khrall = 170/130 (si désavantage), 130/130 sinon
+***
+Black-out :
+Les unités ennemies ayant des munitions limitées sont ramenés à 1 munition (ou laissé à 0 s'ils n'ont plus de munitions).
+Les unités ennemies ne peuvent pas être ravitaillées ni réparées.
+Les transports ennemis passent leur tour.
+
+Toutes unités = 150/110 (si désavantage), 110/110 sinon
+Khrall = 170/130 (si désavantage), 130/130 sinon
+**********
+
+***Tamerlan***
+Wagenburg : 2-3-4 cases
+Les unités directes et les transports dans la CO-Zone +0/+20.
+Le CO a +1 de mouvement au début de chaque tour.
+
+COZone = 110/130 (direct + transport), 110/110 sinon
+Tamerlan = 130/150 (direct + transport), 130/130 sinon
+***
+Comme un murmure :
+Les unités directes peuvent bouger d'une case après offensive.
+Toutes les unités +1 mouvement. Le CO a +2 mouvement au total.
+
+Toutes unités = 110/130 (direct + transport), 110/110 sinon
+Tamerlan = 130/150 (direct + transport), 130/130 sinon
+***
+Tactiques Parthes :
+Les unités directes continuent à se déplacer après offensive.
+Toute unité sortant d'un transport peut agir de nouveau.
+
+Toutes unités = 110/130 (direct + transport), 110/110 sinon
+Tamerlan = 130/150 (direct + transport), 130/130 sinon
+**********
+
+***Peitr***
+Artificier : 1-2-3 cases
+Unités indirectes dans la CO-Zone +10/+40.
+[Global] Immunité au climat simoun.
+
+COZone = 120/150 (indirect), 110/110 sinon
+Peitr = 140/170 (indirect), 130/130 sinon
+***
+Bombe à fragmentation :
+Unités indirectes +20/+0 supp.
+Les unités adjacentes à la cible d'une offensive indirecte perdent 1 PV. (Attention, cela affecte aussi les unités alliées !)
+
+Toutes unités = 140/150 (indirect), 110/110 sinon
+Peitr = 160/170 (indirect), 130/130 sinon
+***
+Bombardement :
+Unités indirectes +30/+0 supp.
+Les unités adjacentes à la cible d'une offensive indirecte perdent 1 PV et 1 point de mvt max. (Attention, cela affecte aussi les unités alliées !)
+
+Toutes unités = 150/150 (indirect), 110/110 sinon
+Peitr = 170/170 (indirect), 130/130 sinon
+**********
+
+***Damian***
+Haute technologie : 2-3-4 cases
+Unités coûtant 14 000G ou plus dans la CO-Zone +10/+20.
+
+COZone = 120/130 (14 000G+), 110/110 sinon
+Damian = 140/150 (14 000G+), 130/130 sinon
+***
+A la pointe :
+Le bonus d'effet s'abaisse à 11 000G.
+Réapprovisionne les véhicules terrestres, ressources comprises.
+
+Toutes unités = 120/130 (11 000G+), 110/110 sinon
+Damian = 140/150 (11 000G+), 130/130 sinon
+***
+Secret-défense : 
+Le bonus d'effet s'abaisse à 11 000G.
+Réapprovisionne les véhicules terrestres, ressources comprises.
+Ignore tous les bonus défensifs de l'adversaire, y compris terrain, rangs, tours de com... <=> La défense de l'adversaire est ramené à 100%.
+
+Toutes unités = 120/130 (11 000G+), 110/110 sinon
+Damian = 140/150 (11 000G+), 130/130 sinon
+
+Toutes unités ennemies = -> x/100
+**********
+
+***Erik***
+Intimidation : 3-4-5 cases
+Les unités adverses situés dans la CO-zone ont -20% d'attaque.
+
+COZone = 110/110 sans bonus
+Erik = 130/130 sans bonus
+
+Ennemi dans COZone = 100/100 -> 80/100
+***
+Cri de guerre :
+[Effet passif, s'active automatiquement sans baisser la barre] Les unités adverses situés dans la CO-zone ont en plus -20% de défense.
+
+COZone = 110/110 sans bonus
+Erik = 130/130 sans bonus
+
+Ennemi dans COZone = 100/100 -> 80/80
+***
+Hurlement de rage :
+Toutes les unités adverses -1 mouvement.
+Toutes les unités adverses ne peuvent attaquer une unité strictement plus chère qu'elles (en termes de prix de base) durant leur tour.
+
+Toutes unités = 110/110
+Erik = 130/130
+
+Tous les ennemis = 100/100 -> 80/80
+**********
+
+***Vigarde***
+Meute : 2-3-4 cases
+Unités coûtant 9 000G ou moins dans la CO-Zone +30/+10.
+
+COZone = 140/120 (9 000G-), 110/110 sinon
+Vigarde = 160/140 (9 000G-), 130/130 sinon
+***
+Horde :
+Une unité groupée avec une autre peut agir de nouveau. 
+Les unités coûtant 9 000G ou moins ont +10/+0 supp.
+
+Toutes unités = 150/120 (9 000G-), 110/110 sinon
+Vigarde = 170/140 (9 000G-), 130/130 sinon
+***
+L'union fait la force :
+Une unité groupée avec une autre peut agir de nouveau.
+Toutes vos unités gagnent (+2% * nombre d'unités dans COZone) en attaque. (Bonus plus avantageux que la rupture à partir de 6 unités)
+
+Toutes unités = 140(+2x)/120 (9 000G-), 110(+2x)/110 sinon
+Vigarde = 160(+2x)/140 (9 000G-), 130(+2x)/130 sinon
+**********
+
+***Eirika***
+Ligne défensive : 2-3-4 cases
+Bonus de +2% de défense pour chaque unité dans la CO-zone.
+Max. à 2 - 13 cases - +26%
+Max. à 3 - 25 cases - +50%
+Max. à 4 - 41 cases - +82%
+A chaque offensive, toute unité alliée adjacente à celle se trouvant dans la CO-zone augmente l'attaque de 5%.
+
+COZone = 110(+0~20)/110(+0~82) (phase joueur), 110/110(+0~82) (phase adverse)
+Eirika = 130(+0~20)/130(+0~82) (phase joueur), 130/130(+0~82) (phase adverse)
+***
+Tranchée :
+Le bonus est abaissé à 1% mais s'applique temporairement à toutes les unités. (Max. - +50%)
+Contre-attaques 50% plus puissantes.
+
+Toutes unités = 110(+0~20)/110(+0~50) (phase joueur), 160/110(+0~50) (phase adverse)
+Eirika = 130(+0~20)/130(+0~50) (phase joueur), 180/130(+0~50) (phase adverse)
+***
+Rideau de fer :
+Le bonus s'applique temporairement à toutes les unités. (Max. - 50*2% = +100%)
+Contre-attaques 50% plus puissantes.
+A chaque offensive, toute unité alliée adjacente à la vôtre augmente l'attaque de 15%.
+
+Toutes unités = 110(+0~60)/110(+0~100) (phase joueur), 160/110(+0~100) (phase adverse)
+Eirika = 130(+0~60)/130(+0~100) (phase joueur), 180/130(+0~100) (phase adverse)
+**********
+
+***Syrene***
+Troupe de choc : 1-2-3 cases
++20/+10 à toutes les unités de la CO-zone.
+
+COZone = 130/120
+Syrene = 150/140
+***
+Avancée :
+Les contre-attaques de l'ennemi baissent de 10% par case parcourue de vos unités avant chaque offensive.
+
+Toutes unités = 130/120
+Syrene = 150/140
+***
+Chargez ! :
+Vos unités gagnent +10% d'attaque par case parcourue avant chaque offensive.
+
+Toutes unités = 130(+10x)/120
+Syrene = 150(+10x)/140
+**********
+
+***Ardan***
+Cohésion : 3-4-5 cases
+Unités terrestres dans la CO-Zone +0/+30.
+
+COZone = 110/140 (terrestre), 110/110 sinon
+Ardan = 130/160 (terrestre), 130/130 sinon
+***
+Discipline :
+Toutes vos unités subissent -10% de dégâts (bruts : 55% -> 45%, reste sujet à la chance).
+
+Toutes unités = 110/140 (terrestre), 110/110 sinon
+Ardan = 130/160 (terrestre), 130/130 sinon
+***
+Coup d'état :
+Toutes vos unités subissent -15% dégâts (bruts : 55% -> 40%, reste sujet à la chance).
+Un Megatank de rang As apparaît sur la case la plus proche du général. (au plus à 5 cases). Si ce n'est pas possible, vous gagnez immédiatement 22000G.
+
+Toutes unités = 110/140 (terrestre), 110/110 sinon
+Ardan = 130/160 (terrestre), 130/130 sinon
+**********
+
+***Boris***
+Ambition : 2-3-4 cases
+Unités de rang 2 ou As dans la CO-Zone +20/+0.
+
+COZone = 150/130 (rang As), 140/110 (rang 2), 115/110 (rang 1), 110/110 sinon
+Boris = 150/130 (rang As)
+***
+Ralliement des foules :
+La chance de l'ennemi tombe à 0 durant ce tour.
+Toutes les unités alliées gagnent deux rangs au lieu d'un seul durant ce tour.
+
+Toutes unités = 150/130 (rang As), 140/110 (rang 2), 115/110 (rang 1), 110/110 sinon
+Boris = 150/130 (rang As)
+***
+Prise de contrôle :
+La chance de l'ennemi tombe à 0 durant ce tour.
+Toutes les unités adverses perdent tous leurs rangs !
+
+Toutes unités = 150/130 (rang As), 140/110 (rang 2), 115/110 (rang 1), 110/110 sinon
+Boris = 150/130 (rang As)
+**********
+
+***Rolland***
+Retranchement : 1-2-3 cases
+Toutes les unités dans la CO-Zone +0/+40.
+
+COZone = 110/150
+Rolland = 130/170
+***
+Célérité :
+Les ripostes ennemies sont 50% moins puissantes.
+
+Toutes unités = 110/150
+Rolland = 130/170
+***
+Frappe préventive :
+A chaque fois que votre adversaire attaque une de vos unités (attaque directe seulement), elle perd 2 PV avant l'attaque. (ne peut pas tuer avant l'offensive)
+
+Toutes unités = 110/150
+Rolland = 130/170
+**********
+
+
+
+------ TOUS LES CHANGEMENTS DES UNITES ------
+*********
+TERRESTRE
+*********
+Infanterie - AWDS+AWDoR
+Repris de AWDoR. Unique changement entre les deux versions au niveau du coût (1000 -> 1500).
+
+Bazooka - AWDS+AWDoR
+Repris de AWDoR. Unique changement entre les deux versions au niveau du coût (3000 -> 2500).
+
+Motard - AWDoR
+Repris de AWDoR. Aucun changement à déclarer.
+
+Recon - AWDS+AWDoR
+Repris des deux versions. Aucun changement à déclarer.
+
+Fusée Éclairante - AWDoR
+Repris de AWDoR. Buff en vision (2 -> 3).
+
+Tank - AWDS+AWDoR
+Repris de AWDoR. Unique changement entre les deux versions au niveau des munitions (9 -> 6).
+
+Md Tank - AWDS+AWDoR
+Repris de AWDoR. Changements entre les deux versions : coût (16000 -> 12000), vision (1 -> 2), munitions (8 -> 5).
+
+Porte Étendard - Custom
+Entièrement imaginé.
+
+Neotank - AWDS
+Repris de AWDS. Baisse du coût (22000 -> 20000), nerf en munitions (9 -> 5).
+
+Mégatank - AWDS+AWDoR
+Réimaginé. Par rapport à AWDS : -6000 coût, vision et munitions gardés. Par rapport à AWDoR : +6000 coût, -1 vision, -2 munitions.
+Changements entre les deux versions : coût (28000 -> 16000), vision (1 -> 2), munitions (3 -> 5).
+
+Tank AA - AWDS+AWDoR
+Repris majoritairement de AWDoR sauf le coût. Changements entre les deux versions : coût (8000 -> 7000), vision (2 -> 3), munitions (9 -> 6).
+
+Missiles AA - AWDS+AWDoR
+Repris de AWDoR. Changement entre les deux versions : portée (3~5 -> 3~6), déplacement (4 -> 5), munitions (6 -> 5), fuel (60 -> 50).
+
+Artillerie - AWDS+AWDoR
+Repris de AWDoR. Changements entre les deux versions : vision (1 -> 3), munitions (9 -> 6).
+
+Canon de Campagne - Custom
+Entièrement imaginé.
+
+Canon Défensif - AWDoR
+Repris de AWDoR. Aucun changement à déclarer.
+
+Lance Roquettes - AWDS+AWDoR
+Repris de AWDoR. Changements entre les deux versions : vision (1 -> 3), munitions (6 -> 5).
+
+Obusier - Custom
+Entièrement imaginé.
+
+VTA - Custom
+Entièrement imaginé.
+
+VTB/Génie - AWDS (VTB) + AWDoR (Génie)
+Repris de AWDoR (Génie). Unique changement entre les deux versions au niveau du fuel (70 -> 99). Ressources également ajoutées. 
+
+Mur de défense - Custom
+Entièrement imaginé.
+
+******
+MARINE
+******
+Vedette - Custom (from NavLog AWDS + Corvette AWDoR)
+Réimaginé (combine les caractéristiques des deux unités). Par rapport à AWDS : +500 coût, peut attaquer, +1 déplacement, +2 vision, +2 munitions, +20 fuel max. Par rapport à AWDoR : +2000 coût, +1 déplacement, +1 vision, +1 munition, -19 fuel total.
+Changements entre les deux versions (à noter que ce sont deux unités différentes !) : coût (7500 -> 6000), portée (0 -> 1), vision (1 -> 2), munitions (0 -> 1), fuel (60(+1) -> 99(+1)).
+
+Barge - AWDS+AWDoR
+Repris de AWDoR mais avec une caractéristique en plus : Consommation de fuel variable (+1/+3/+5 par tour). Unique changement entre les deux versions au niveau du coût (12000 -> 10000).
+
+Lance Torpilles - Custom
+Entièrement imaginé.
+
+Destroyer - AWDS+AWDoR
+Repris majoritairement de AWDoR mais consomme 1 fuel de plus par tour.
+Changements entre les deux versions : coût (18000 -> 16000), vision (3 -> 5).
+
+SUB - AWDS+AWDoR
+Repris en partie des deux versions. Par rapport à AWDS : +1 déplacement. Par rapport à AWDoR : -10 fuel max., +1 fuel par tour lorsque visible.
+Changements entre les deux versions : déplacement (5 -> 6), fuel (60(+2/+5) -> 70(+1/+5)).
+
+Croiseur - Custom
+Entièrement imaginé.
+
+Cuirassé - AWDS+AWDoR
+Repris majoritairement de AWDoR mais consomme 1 fuel de plus par tour.
+Changements entre les deux versions : coût (28000 -> 25000), portée (2~6 -> 3~5), vision (2 -> 3), munitions (9 -> 6).
+
+Porte Avion - AWDS+AWDoR
+Repris majoritairement de AWDoR mais consomme 1 fuel de plus par tour.
+Changements entre les deux versions : coût (30000 -> 28000), portée (3~8 -> 1), munitions (9 -> 0). Ressources également ajoutées.
+
+
+********
+AVIATION
+********
+Hélico Transport - AWDS+AWDoR
+Repris de AWDoR. Unique changement entre les deux versions au niveau de la vision (2 -> 1).
+
+Hélicoptère - AWDS+AWDoR
+Repris de AWDoR. Unique changement entre les deux versions au niveau de la vision (3 -> 2).
+
+ARA - Custom (from Chasseur AWDoR)
+Réimaginé (réutilise une unité existante pour la rendre plus spécialisée). Par rapport à AWDoR : -1000 coût (13000 -> 12000), +1 déplacement (8 -> 9), +1 vision (4 -> 5), munitions infinies (9 -> 0), -2 fuel par tour (+5 -> +3).
+
+Avion de chasse - Custom (from Chasseur AWDoR)
+Réimaginé (réutilise une unité existante pour la rendre plus spécialisée). Par rapport à AWDoR : +1000 coût (13000 -> 14000), -1 vision (4 -> 3), -1 munition (9 -> 8), -39 fuel max. et -2 fuel par tour (99(+5) -> 60(+3)).
+
+Bombardier - AWDS+AWDoR
+Repris majoritairement de AWDoR sauf le coût, et consomme 2 fuel de moins par tour (+5 -> +3). Changements entre les deux versions : coût (22000 -> 20000), vision (2 -> 3), munitions (9 -> 6).
+
+Chasseur/ASA - AWDS (Chasseur) + AWDoR (ASA)
+Repris de AWDoR (ASA) et consomme 2 fuel de moins par tour (+5 -> +3). Changements entre les deux versions : vision (2 -> 5), munitions (9 -> 6).
+
+Intercepteur - AWDoR
+Repris de AWDoR. Aucun changement à déclarer.
+
+Furtif - AWDS
+Repris de AWDS. Aucun changement à déclarer.
+
+
+
+ /----------------\
+[TABLEAU COMPARATIF]
+ \----------------/
+-Unité		-	 Coût	- 	Portée - Déplacement - Vision - Muni. arme 1 (0 s'il n'en a pas) - Fuel (+x par tour) - (Ressources?)
+		Valeur AWDS / Valeur AWDoR / Valeur Custom (x s'il n'existe pas)
+------
+Infanterie - 		1000/1500/1500  -   1/1/1 - 	  3/3/3 - 2(5)/2(5)/2(5) - 0/0/0 - 99/99/99
+Bazooka - 		3000/2500/2500  -   1/1/1 - 	  2/2/2 - 2(5)/2(5)/2(5) - 3/3/3 - 70/70/70
+Motard - 		xxxx/2500/2500  -   x/1/1 - 	  x/5/5 - x/2/2 - 0/0/0 - xx/70/70
+Recon - 		4000/4000/4000  -   1/1/1 - 	  8/8/8 - 5/5/5 - 0/0/0 - 80/80/80
+Fusée Éclairante - 	xxxx/5000/5000  -   x/1(5)/1(5) - x/5/5 - x/2/3 - x/(3)/(3) - xx/60/60
+Tank - 			7000/7000/7000  -   1/1/1 -	  6/6/6 - 3/3/3 - 9/6/6 - 70/70/70
+Md Tank - 		16000/12000/12000 - 1/1/1 -	  5/5/5 - 1/2/2 - 8/5/5 - 50/50/50
+Porte Étendard - 	xxxxx/xxxxx/14000 - x/x/1 - 	  x/x/5 - x/x/2 - x/x/0 - xx/xx/70
+Neotank - 		22000/xxxxx/20000 - 1/x/1 -	  6/x/6 - 1/x/1 - 9/x/5 - 99/xx/99
+Mégatank - 		28000/16000/22000 - 1/1/1 -	  4/4/4 - 1/2/1 - 3/5/3 - 50/50/50
+Tank AA - 		8000/7000/8000  -   1/1/1 -	  6/6/6 - 2/3/3 - 9/6/6 - 60/60/60
+Missiles AA - 		12000/12000/12000 - 3~5/3~6/3~6 - 4/5/5 - 5/5/5 - 6/5/5 - 60/50/50
+Artillerie - 		6000/6000/6000  -   2~3/2~3/2~3 - 5/5/5 - 1/3/3 - 9/6/6 - 50/50/50
+Canon de Campagne - 	xxxx/xxxx/6500  -   x/x/2~2 -	  x/x/6 - x/x/1 - x/x/3 - xx/xx/60
+Canon Défensif - 	xxxxx/11000/11000 - x/1~3/1~3 -   x/4/4 - x/2/2 - x/6/6 - xx/50/50
+Lance Roquettes - 	15000/15000/15000 - 3~5/3~5/3~5 - 5/5/5 - 1/3/3 - 6/5/5 - 50/50/50
+Obusier - 		xxxxx/xxxxx/22000 - x/x/3~7 - 	  x/x/4 - x/x/2 - x/x/4 - xx/xx/50
+VTA - 			xxxx/xxxx/7000  -   x/x/1 - 	  x/x/5 - x/x/3 - x/x/0 - xx/xx/99
+VTB/Génie - 		5000/5000/5000  -   0/0/0 -	  6/6/6 - 1/1/1 - 0/0/0 - 70/99/99 --- Ressources x/1/1
+Mur de défense - 	xxxxx/xxxxx/18000 - x/x/1 - 	  x/x/4 - x/x/2 - x/x/0 - xx/xx/90
+Vedette* - 		7500/6000/8000  -   0/1/1 - 	  7/7/8 - 1/2/3 - 0/1/2 - 60(+1)/99(+1)/80(+1)
+Barge - 		12000/10000/10000 - 0/0/0 - 	  6/6/6 - 1/1/1 - 0/0/0 - 99(+1)/99(+1)/99(+1/+3/+5)
+Lance Torpilles - 	xxxxx/xxxxx/12500 - x/x/1~3 - 	  x/x/7 - x/x/3 - x/x/5 - xxxxxx/xxxxxx/60(+2)
+Destroyer - 		18000/16000/16000 - 1/1/1 -	  6/6/6 - 3/5/5 - 9/9/9 - 99(+1)/99(+1)/99(+2)
+SUB - 			20000/20000/20000 - 1/1/1 - 	  5/6/6 - 5/5/5 - 6/6/6 - 60(+2/+5)/70(+1/5)/60(+2/+5)
+Croiseur - 		xxxxx/xxxxx/20000 - x/x/2~4,1 -   x/x/5 - x/x/2 - x/x/3 - xxxxxx/xxxxxx/80(+2)
+Cuirassé - 		28000/25000/25000 - 2~6/3~5/3~5 - 5/5/5 - 2/3/3 - 9/6/6 - 99(+1)/99(+1)/99(+2)
+Porte Avion - 		30000/28000/28000 - 3~8/1/1 -	  5/5/5 - 4/4/4 - 9/0/0 - 99(+1)/99(+1)/99(+2) --- Ressources x/4/4
+Hélico Transport - 	5000/5000/5000  -   0/0/0 - 	  6/6/6 - 2/1/1 - 0/0/0 - 99(+2)/99(+2)/99(+2)
+Hélicoptère - 		9000/9000/9000  -   1/1/1 - 	  6/6/6 - 3/2/2 - 6/6/6 - 99(+2)/99(+2)/99(+2)
+ARA* - 			xxxxx/13000/12000 - x/1/1 - 	  x/8/9 - x/4/5 - x/9/0 - xxxxxx/99(+5)/99(+3)
+Avion de chasse* - 	xxxxx/13000/14000 - x/1/1 -	  x/8/8 - x/4/3 - x/9/8 - xxxxxx/99(+5)/60(+3)
+Bombardier - 		22000/20000/22000 - 1/1/1 -	  7/7/7 - 2/3/3 - 9/6/6 - 99(+5)/99(+5)/99(+3)
+Chasseur/ASA - 		20000/20000/20000 - 1/1/1 -	  9/9/9 - 2/5/5 - 9/6/6 - 99(+5)/99(+5)/99(+3)
+Intercepteur - 		xxxxx/15000/15000 - x/1/1 -	  x/7/7 - x/4/4 - x/3/3 - xxxxxx/40(+5)/40(+5)
+Furtif - 		24000/xxxxx/24000 - 1/x/1 -	  6/x/6 - 4/x/4 - 6/x/6 - 60(+5/+8)/xxxxxx/60(+5/+8)
+
+*Voir liste au dessus pour les comparaisons choisies
+--------------------
+Toutes les unités : 36
+Infanterie - Bazooka - Motard - Recon - Fusée Éclairante - Tank - Md Tank - Porte Étendard - Neotank - Mégatank - Tank AA - Missiles AA - Artillerie - Canon de Campagne - Canon Défensif - Lance Roquettes - Obusier - VTA - VTB/Génie - Mur de défense - Vedette - Barge - Lance Torpilles - Destroyer - SUB - Croiseur - Cuirassé - Porte Avion - Hélico Transport - Hélicoptère - ARA - Avion de chasse - Bombardier - Chasseur/ASA - Intercepteur - Furtif
+
+
+Terrestre / Unités terrestres : 20/36 ou 55.56% total
+Infanterie - Bazooka - Motard - Recon - Fusée Éclairante - Tank - Md Tank - Porte Étendard - Neotank - Mégatank - Tank AA - Missiles AA - Artillerie - Canon de Campagne - Canon Défensif - Lance Roquettes - Obusier - VTA - VTB/Génie - Mur de défense
+
+Marine / Naval / Unités navales : 8/36 ou 22.22% total
+Vedette - Barge - Lance Torpilles - Destroyer - SUB - Croiseur - Cuirassé - Porte Avion
+
+Aviation / Aérien / Unités aériennes : 8/36 ou 22.22% total
+Hélico Transport - Hélicoptère - ARA - Avion de chasse - Bombardier - Chasseur/ASA - Intercepteur - Furtif
+
+Attaque directe : 26/36 ou 72.22% total
+Infanterie - Bazooka - Motard - Recon - Fusée Éclairante - Tank - Md Tank - Porte Étendard - Neotank - Mégatank - Tank AA - VTA - Mur de défense - Vedette - Destroyer - SUB - Croiseur - Porte Avion - Hélicoptère - ARA - Avion de chasse - Bombardier - Chasseur/ASA - Intercepteur - Furtif
+Remarque pour le Croiseur : Seul l'arme directe reçoit le boost des unités directes.
+
+Attaque indirecte : 9/36 ou 25% total
+Missiles AA - Artillerie - Canon de Campagne - Canon Défensif - Lance Roquettes - Obusier - Lance Torpilles - Croiseur - Cuirassé
+Remarque pour le Canon défensif et le Lance torpilles : Ces unités ne doivent pas bouger pour attaquer à 1 case, ce sont donc des unités indirectes même à cette portée.
+Remarque pour le Croiseur : Seul l'arme indirecte reçoit le boost des unités indirectes.
+Remarque pour le Cuirassé : Cette unité se déplace avant d'attaquer mais a une portée strictement supérieure à 1, ce qui en fait une unité indirecte. Même remarque pour le Canon de Campagne.
+
+Sans attaque / transports / autres unités : 4/36 ou 11.11% total
+VTA - VTB/Génie - Barge - Hélico Transport
+Remarque : Les unités de transport pouvant attaquer ne sont pas considérées comme des transports, la seule exception étant le VTA.
+
+Soldats : 3/36 ou 8.3% total - 3/20 ou 15% terrestre
+Infanterie - Bazooka - Motard
+
+Véhicules terrestres : 17/36 ou 47.22% total - 17/20 ou 85% terrestre
+Recon - Fusée Éclairante - Tank - Md Tank - Porte Étendard - Neotank - Mégatank - Tank AA - Missiles AA - Artillerie - Canon de Campagne - Canon Défensif - Lance Roquettes - Obusier - VTA - VTB/Génie - Mur de défense
+
+Terrestre + direct : 14/36 ou 38.89% total - 14/20 ou 70% terrestre
+Infanterie - Bazooka - Motard - Recon - Fusée Éclairante - Tank - Md Tank - Porte Étendard - Neotank - Mégatank - Tank AA - VTA - VTB/Génie - Mur de défense
+
+Terrestre + indirect : 6/36 ou 16.67% total - 6/20 ou 30% terrestre
+Missiles AA - Artillerie - Canon de Campagne - Canon Défensif - Lance Roquettes - Obusier
+
+Hélicos : 2/36 ou 5.56% total - 2/8 ou 25% aviation
+Hélico Transport - Hélicoptère
+

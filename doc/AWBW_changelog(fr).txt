@@ -1,0 +1,428 @@
+AWDB - Advance Wars Data Base
+CHANGELOG
+
+
+? ? 2017 - révision 21
+
+°Porte-étendard : Quelque chose d'évident mais qu'il fallait voir quand même... Le boost peut aller jusqu'à +20% pour quatre unités de soutien si l'attaquant est une unité indirecte. (Impossible pour une unité directe). Spécifications en conséquence sur Eirika.
+
+°Jake : La SR booste les véhicules terrestres uniquement (pour des raisons mystérieuses il était écrit "unités terrestres directes")
+
+°Zak : La rupture basique n'augmente le mouvement que de 1. Je sais c'était pas forcément une bonne idée de passer direct à +2 mvt.
+
+°Candy : Spécification pour la SR : Le boost de défense affecte les unités sur n'importe quel terrain. N'était pas pris en compte dans les calculs.
+
+°Sturm : Refonte modérée :
+R : Ajouter un effet passif (pénalité à tout ennemi dans votre CO-zone)
+SR : La rendre bien plus puissante en visant TOUTE la carte, ou les CO-zones ennemies ? Dégâts de zone : Réduire à 1% de santé (pas partout, gneh) ou réduire de moitié les PV ?
+-> Proposition :
+Rupture ["Fin inévitable"] : [Passif] Les unités ennemies dans la CO-zone ont -25% de contre-attaque et perdent 1 PV au début de chaque tour.
+SUPER Rupture [Attaque météore] : Toutes les unités +25/+25 supp.
+Une météorite tombe sur une zone de 3 cases de rayon sur la plus grosse concentration d'ennemis, coût indifférent. Toutes les unités ennemies touchées perdent la moitié de leurs PV actuels, arrondi au PV inférieur (ex. : 9->4). (baisse de contre-attaque étendue, -1 PV pas important ici)
+
+°Ed : Minor boost au niveau du D2D, +10% défense aux unités terrestres directes ? (Il est assez faible quand même)
+
+°Sigismundo : L'effet de CO-zone booste aussi les furtifs. L'affectation de base se traduit donc par "navires + hélicos + avions polyvalents".
+Revoir ptet le boost de stat ? (par rapport à Finn, car ce dernier est quand même devenu moins fort)
+
+°Lili : Nouvelle proposition pour la SR : Annule tous les bonus apportés par un général (durant votre phase ?/ durant ce tour ?). Mais les bonus tels que terrain, rangs, tours de com. restent.
+Ou aller au plus simple mais ça ne démarquera pas trop la SR : Même effet que la R sauf que le climat... ne tient pas compte des immunités !!
+
+°Formiotoris : La différence entre la R et la SR a l'air d'être très très faible???
+
+°Priam : SR??? (-2 mouvement peut être assez lourd)
+
+°Unité du Croiseur (suite) : Difficile de lui trouver une niche convenable. Peut-être le rendre unité indirecte (2~4) durant la phase alliée, et ne se défend qu'au contact. On garde les types d'unités ciblés.
+Créer un espèce de Pierre-Feuille-Ciseaux-Lézard-Spock pour la bataille navale :
+[feuille]-Sous-marin = Fort contre Cuirassé et Croiseur, faible contre Destroyer et Lance-torpilles
+[ciseaux]-Destroyer = Fort contre Sous-marin et Lance-torpilles, neutre contre Croiseur, faible contre Cuirassé
+[pierre]-Cuirassé = Fort contre Destroyer et Lance-torpilles, neutre contre Croiseur, faible contre Sous-marin
+[lézard]-Lance-torpilles = Fort contre Sous-marin et Croiseur, faible contre Destroyer et Cuirassé
+[spock]-Croiseur = Fort contre Destroyer et Cuirassé, neutre contre Lance-torpilles, faible contre Sous-marin
+La Vedette est essentiellement un Destroyer plus puissant sauf contre elle-même et le Sous-marin, et tous les navires sont forts contre Vedette.
+
+
+°Nouvelle(s) idée(s) : Certains généraux tirant parti du terrain pourraient avoir une couverture augmentée (ex. : Zak gagne ** sur toutes les routes. Autres généraux ?) Exemple sur un nouveau général ou un existant : "Effet : Augmente la couverture défensive de * sur tous les terrains [limité à un type d'unité ?]. COP/SCOP : Augmente la couverture défensive de * supp." En comparaison, plus puissant que Kat sur les terrains faibles mais moins puissant sur les terrains forts.
+Défense synergique (la même chose que le porte étendard mais pour la défense) qui ne fonctionnerait que durant la phase ennemie. "Effet : Lorsqu'un ennemi attaque une des unités de votre CO-zone, toute unité adjacente lui donne +5% de défense." Et bien entendu, cumulable jusqu'à +20% seulement si l'unité se reçoit une attaque indirecte.
+
+°Autres mécaniques : La construction de prop. temp. ne dépendrait pas des PV du VTB/Génie et se fait toujours en 2 tours sans déplacement (autoriser ou interdire le déplacement directement avant de commencer à construire ?), mais dans ce cas ces prop. temp. ont 10 points de capture max. (peuvent donc être capturés en 1 tour).
+
+
+
+
+15 May 2017 - révision 20
+
+°Différentiation unité directe/indirecte : Il s'agit du type de l'arme. Si l'arme peut attaquer à distance (strictement plus d'une case) alors il s'agit d'une arme indirecte.
+Ainsi quelles que soient les caractéristiques de l'unité, son type d'attaque équivaut à celui de son arme primaire ou secondaire. Le canon de campagne et le cuirassé peuvent se déplacer avant d'attaquer mais ce sont des unités Indirectes, dû à leurs armes. Le Canon défensif peut attaquer à une case mais aussi à plus d'une case, donc c'est une unité Indirecte.
+Certaines unités peuvent avoir les deux types Direct/Indirect. (Ici, le Croiseur)
+...
+L'énigme du mois : Comment gérer un bonus d'unités Direct/Indirect pour les unités ayant une arme primaire et secondaire de types différents ?
+-Méthode utilisée jusqu'à présent : Chaque unité reçoit un boost selon son arme. Ainsi l'arme primaire du Croiseur qui est Indirect, ne reçoit que les boost de type Indirect. Mais cela pose un problème car il faudrait alors une implémentation att/def pour chaque ARME au lieu de chaque unité, ce qui va alourdir tous les calculs en rupture.
+-Solution envisageable : On laisse tomber le type de l'arme secondaire et on ne regarde que celui de l'arme primaire (ou la secondaire si l'unité n'a que celle-là). Le Croiseur est donc une unité Indirecte dans tous les cas.
+
+Remarque : Dans le cas du VTA il y a aussi une combinaison d'unité Direct/Transport mais cela est moins grave car le type Transport ne dépend pas d'une arme à utiliser. (Dans le cas où le VTA aurait eu deux armes Direct, un boost Transport aurait boosté les deux armes de toutes manières)
+
+°Double CO.
+Bien entendu, contrairement à AWDS, on ne va pas réintégrer le mécanisme de la double offensive... Mais pouvoir jouer deux COs alternativement pourrait être intéressant.
+En considérant que le débarquement volontaire (+25% prix de BASE de l'unité) est implémenté :
+-On commence la partie avec le premier CO sélectionné (déjà embarqué ou non). Si celui-ci doit débarquer volontairement ou de force (destruction de son unité), on ne peut embarquer que le deuxième CO par la suite. Puis lorsque celui-ci débarque, on ne peut embarquer que le premier CO, et ainsi de suite en alternance... Pour réutiliser le même CO rapidement il faut donc utiliser ce débarquement volontaire.
+-Le débarquement volontaire ne videra plus la barre de rupture, car les deux COs auront leur propre barre. En revanche la destruction de son unité vide toujours la barre et on devra embarquer l'autre CO par la suite.
+Remarque : Le débarquement volontaire videra la barre de rupture d'un général jouant en solo ?
+-Embarquer et débarquer un CO prendra l'action de l'unité (il ne pourra pas re-agir). En revanche il est possible, dans le même tour, de débarquer d'une unité donnée puis d'embarquer l'autre CO sur une autre unité.
+-Déclencher une rupture utilise prend déjà l'action de l'unité donc il ne sera pas possible de débarquer durant une rupture.
+-Le tour de "récupération" se partage entre les deux COs, donc dans une situation où les deux COs ont leur barre complètement chargée, il n'est pas possible de : Lancer une première rupture, puis au prochain tour changer de CO et lancer la deuxième rupture. Il faut attendre un tour supp.
+-Pour les ruptures durant deux tours, ils prennent toujours effet lorsque le CO débarque.
+(ex. Olaf lance sa rupture basique qui fait neiger durant deux tours, au tour suivant il laisse sa place à un autre général. Il neigera toujours mais les unités ne sont plus boostées à partir du moment où Olaf débarque).
+-Cela va de soi, les deux COs sélectionnés seront différents. Mais deux joueurs peuvent faire affronter les mêmes duos.
+
+°Pour les talents : au choix
+Servent pour une armée indépendante (<=> jouer sans CO) ; ou avec l'idée du double CO, ne s'activent que lorsqu'aucun CO n'est sur le terrain ?
+
+°Eagle : Pour la rupture basique, ravitaille toutes les unités aériennes + ne consomment pas de fuel dans leur déplacement durant ce tour.
+Pour la SR, son unité à lui ne peut pas re-agir.
+
+°Klaus : Refonte des pouvoirs. Effet D2D à discuter car c'est maintenant le seul à avoir un système de remplissage de barre particulier. (Suggestion : Klaus joue comme les autres mais l'achat compte également dans le remplissage. +1 barre pour une quantité de G utilisée pour l'achat ?)
+
+°O'Brian : Pour la SR, regagne +3 PV pour ce tour ainsi qu'au tour suivant. (+6 PV pour l'ensemble du pouvoir) L'effet de persévérance est ainsi bien plus utile. Dans le pire des cas on obtient des unités à 4 PV au lieu de 1 qui deviennent "inutiles".
+
+°Carter : Petite précision au niveau de la SR, le bonus d'attaque intervient après une offensive donc la première ne sera pas boostée. Boost maximal à partir de la 9ème attaque. Le boost maximal est conservé pendant la phase adverse.
+
+°Suppression des COs à zones globaux :
+Colin -> 5-6-7.
+Helmut -> 4-5-6
+Sturm -> 5 fixe
+Jugger -> 4-5-6
+Von bolt -> 5 fixe
+ Remarque pour Colin : Le général coûtera également 25% du prix de l'unité pour embarquer. (Avant : 20%) Si le débarquement volontaire est implémenté, il n'y aura aucune perte d'argent !
+Ainsi tout le monde joue avec une CO-zone limitée.
+
+°Unité du Croiseur : Peut-il attaquer avec son arme primaire (indirecte) après son déplacement ? A comparer avec le Cuirassé.
+???
+
+
+
+
+27 Apr 2017 - révision 19 - another big hiatus
+
+°Damage chart quasiment DEFINITIVE, reste à simuler les dégâts (patience...)
+
+°Spécification du gain de barre dans la COzone :
+Bonus de 'kill' -> il suffit qu'une des deux unités (allié/ennemi) au moins soit dans la zone.
+Dégâts totaux -> Tous les dégâts reçus par une unité dans la zone sont comptées. Exemple : L'allié est dans la zone mais pas l'ennemi. Ce que l'allié a causé en dégâts <=> ce que l'ennemi à reçu en dégâts n'est PAS compté mais ce que l'ennemi a causé en dégâts <=> ce que l'allié a reçu en dégâts est compté.
+Changement de la base value à 5000G ; augmentation de +100G ?
+ou système encore plus compliqué : Base value fixée à 5000G. A chaque fois que la condition est remplie, regarder quelle est l'unité la plus chère de l'armée puis augmenter la valeur par 1% de son prix courant. Par exemple si l'allié ne construit que des tanks à 7000G : 5000 -> 5070 -> 5140 -> 5210 -> 5280...
+Rappel que le mécanisme de remplissage de barre est bloquée durant les tours de rupture.
+
+°Jake : Booster aussi les unités en Ruines/Lande ? #X
+
+°Zak : Booster toutes les unités sur des terrains à 0* ? (bjr le combat aérien broken) #X
+
+°Von Bolt : Toutes les unités gagnent +x/+x en fonction de leur nombre de PV. Max à 10 PV = +10/+10. Min à 1 PV = +1/+1.
+Changements :
+***Von Bolt***
+La force de l'âge : Zone globale 
+Toutes les unités en pleine forme (91%~100% de santé) +10/+10.
+v
++x/+x selon les PV de l'unité. Min. +1/+1 à 1 PV, max. +10/+10 à 10 PV.
+
+Toutes unités = 120/120 à 10PV, 110/110 sinon
+Von Bolt = 140/140 à 10PV, 130/130 sinon
+v
+Toutes unités = 111~120/111~120 selon les PV
+Von Bolt = 131~140/131~140 selon les PV
+***
+[Pas de rupture standard]
+***
+Foudre ultime :
+Toutes les unités +20/+20 supp., y compris les unités touchées.
+v
+Toutes les unités +20/+20 supp.
+
+Envoie de la foudre sur une zone carrée de 3X3 cases sur la plus grosse concentration d'ennemis. Effet : -3 PV et passent un tour.
+v
+Envoie de la foudre sur une zone carrée de 5X5 cases dont le centre est l'unité du général. Toutes les unités ennemies touchées ont -3 PV et passent un tour.
+
+Toutes unités = 140/140 à 10PV, 130/130 sinon
+Von Bolt = 160/160 à 10PV, 150/150 sinon
+v
+Toutes unités = 131~140/131~140 selon les PV
+Von Bolt = 151~160/151~160 selon les PV
+**********
+
+
+°SR de Sturm et Von Bolt : Zones modifiées. Sturm vise la plus grosse concentration d'ennemis (coût indifférent) mais zone inchangée. Von Bolt vise toujours une zone autour de son unité à lui, sur une zone carrée de 5X5, effet inchangé.
+XXXXX
+XXXXX
+XXOXX
+XXXXX
+XXXXX
+
+°Proposition de refonte de Sigismundo :
+***Sigismundo***
+Défense maritime : 2-3-4 cases -> 3-4-5 cases
+Unités maritimes, intercepteurs et hélicos dans la CO-zone +10/+40. 
+-> +[Global] Les furtifs et les SUBs ne consomment pas de fuel supp. lorsqu'ils sont cachés. (Restent à leur pénalité standard)
+
+COZone = 120/150 (naval + intercepteurs + hélicos), 110/110 sinon
+Sigismundo = 140/170 (naval + intercepteurs + hélicos), 130/130 sinon
+***
+Soutien logistique :
+Ravitaillement complet à toutes les unités, ressources comprises.
+
+Toutes les unités dans vos propriétés sont réparées une seconde fois.
+v
+Toutes les autres unités aériennes ont aussi +10/+40.
+
+Toutes unités = 120/150 (naval + intercepteurs + hélicos), 110/110 sinon
+Sigismundo = 140/170 (naval + intercepteurs + hélicos), 130/130 sinon
+v
+Toutes unités = 120/150 (naval + aérien), 110/110 sinon
+Sigismundo = 140/170 (naval + aérien), 130/130 sinon
+***
+Grande armada :
+Ravitaillement complet à toutes les unités, ressources comprises.
+Toutes les unités navales +1 mouvement.
+Toutes les unités navales +0/+40 supp.
+
+Toute unité alliée sortant d'un transport durant ce tour gagnera +0/+900 supp. (divise les dégâts par 10 environ !!!)
+v
+Toutes les autres unités aériennes ont aussi +10/+40.
+
+Toutes unités = 120/190 (naval), 120/150 (intercepteurs + hélicos), 110/110 sinon
+Sigismundo = 140/210 (naval), 140/170 (intercepteurs + hélicos), 130/130 sinon
+v
+Toutes unités = 120/190 (naval), 120/150 (aérien), 110/110 sinon
+Sigismundo = 140/210 (naval), 140/170 (aérien), 130/130 sinon
+
+**********
+
+°Proposition de refonte de Lili :
+***Lili***
+Imperméabilité : 2-3-4 cases
+Toutes les unités de la CO-zone +0/+10.
+[Global] Immunité à tous les climats.
+[Pas de changements]
+COZone = 110/120
+Lili = 130/140
+***
+Énigme :
+Modification du climat pendant 2 tours. (un seul climat durant 2 tours, toujours différent du climat actuel. Priorité plus forte que le climat random "naturel". Forte pluie, neige et simoun disponible. Contrable par ruptures)
+v
+Sélectionnez le climat pour ce tour et au début du prochain (Soleil, forte pluie, neige et simoun disponibles. Impossible à contrer en pratique sauf durant le tour suivant.)
+
+Toutes unités = 110/120
+Lili = 130/140
+***
+Paradoxe :
+Sélectionnez le climat pour ce tour et les 2 prochains (au début de chaque tour. Soleil, forte pluie, neige et simoun disponibles. Impossible à contrer en pratique sauf durant le dernier tour.)
+TODO : Remplacement de la SR par : Sélection d'un seul climat pour ce tour, qui overwrite le random jusqu'à votre tour suivant. Peut gagner un bonus plus conséquent par rapport au climat ??
+Soleil - Bonus d'attaque (et défense ?) à préciser
+Forte pluie (remplace la pluie légère) - Augmente la couverture défensive de 1* partout.
+Neige - Mvt +1, ne consomme pas de fuel.
+Simoun - Unités d'attaque indirecte +25% att. et +1 portée.
+v
+Sélectionnez le climat pour ce tour et au début du prochain (Soleil, forte pluie, neige et simoun disponibles. Impossible à contrer en pratique sauf durant le tour suivant.)
+-> + Annule tous les bonus de stats de l'ennemi durant votre tour, y compris terrain, rangs, tours de com., ... (ceux-ci sont traités comme des unités 100/100) !
+
+Toutes unités = 110/120
+Lili = 130/140
+
+-> + Toutes unités ennemies = -> 100/100 (phase joueur)
+********** 
+
+°Levail : Enlever peut-être le gain de rang dans la SR ? La SR paraît strictement plus puissante dans tous les cas. (ce qui est normal mais l'idée est que Levail devrait plutôt se rabattre sur la rupture basique lorsqu'il a besoin de rangs)
+
+°Formiotoris : Décision à prendre pour l'effet 'vampirisme' car son utilisation lors des ruptures pose un problème (effet non étendu globalement mais entre en contradiction avec la condition du D2D) -> Baisser à 2 PV et étendre globalement ?
+
+°Priam : Pour la SR, appliquer la pénalité sur TOUS les ennemis quel que soit le terrain ? (défense/2, -2 mvt) -> Remettre -50% ou moins ?
+
+°Khrall : Spécification plus précise de la D2D (s'active si lors d'une offensive normale, les dégâts MAX ennemi->joueur sont strictement supérieurs aux dégâts COURANT joueur->ennemi). Refonte des pouvoirs.
+Changements :
+***Khrall***
+[...]
+***
+Sabotage :
+-> +Les unités ennemies ayant des munitions limitées perdent immédiatement 1 munition (ou laissé à 0 s'ils n'ont plus de munitions).
+Les unités ennemies ne peuvent pas être ravitaillées ni réparées. 
+
+Toutes unités = 150/110 (si désavantage), 110/110 sinon
+Khrall = 170/130 (si désavantage), 130/130 sinon
+***
+Black-out :
+Les unités ennemies ayant des munitions limitées sont ramenés à 1 munition (ou laissé à 0 s'ils n'ont plus de munitions).
+
+Les transports ennemis ne peuvent plus se déplacer mais peuvent réaliser d'autres actions.
+v
+Les unités ennemies ne peuvent pas être ravitaillées ni réparées.
+Les transports ennemis passent leur tour.
+
+Toutes unités = 150/110 (si désavantage), 110/110 sinon
+Khrall = 170/130 (si désavantage), 130/130 sinon
+**********
+Maintenant :
+Rupture -> Les unités ennemies perdent également 1 munition.
+SUPER Rupture -> Les transports ennemis ne peuvent plus réaliser d'autres actions, ils passent donc leur tour. Les ravitaillements et réparations sont également bloquées comme dans la rupture basique.
+
+°Erik : Pour la SR, à voir si interdire les contre-attaques (durant la phase joueur) est trop lourd ou non. -> Maintenant : Contre-attaques autorisées durant la phase joueur.
+
+°Eirika : Le bonus adjacent s'applique seulement à la phase joueur ou tout le temps ? (avis : seulement durant la phase joueur) Peut-être ajouter un bonus plus faible dans le D2D (5%) ?
+
+°Ardan : Solution pour la SR en cas d'exception (gain d'argent). Le joueur peut-il choisir la case ou bien implémenter une procédure qui regarde les cases une par une, dans l'ordre croissant de la distance au CO unit ainsi que dans le sens des aiguilles d'une montre. ???
+
+
+
+
+08 Sep 2016 - révision 18
+°Charte des unités DEFINITIVE, mise en place d'un tableau comparatif AWDS/AWDoR/custom
+°Le boost d'attaque du porte-étendard est maintenant cumulable. +5% pour tout porte-étendard adjacent à l'unité attaquante, max. +15%. (ne fonctionne pas durant le tour de défense)
+°Refonte du mur de défense pour que sa caractéristique spéciale soit plus efficace.
+	Avant : Si le blindage est orienté Correctement, sa défense augmente de 50% Contre un certain type d'attaque, donc Celui-ci est réduit environ d'un tiers. Il faut passer un tour sans bouger pour pouvoir sélectionner l'option qui alterne la position du blindage.
+	Maintenant : Passer un tour sans bouger ni attaquer permet de sélectionner l'option "Défense". Toutes les attaques reçues durant ce tour seront réduites de 50% bruts (50 -> 0 ; 100 -> 50 ; 150 -> 100). Les dégâts de luck ne sont pas réduits, donc même une unité jugée inutile peut faire des dégâts.
+°Formiotoris : Durant ses pouvoirs, l'effet Gain de PV par destruction d'unité est présent mais ne s'étend pas globalement (avant : était annulé).
+°Eirika : Retour aux bonus de défense par unité dans la CO-zone. (avant : par paliers de 5 unités)
+°Priam : SR - La réduction de défense est maintenant multiplicative (-50% défense -> défense/2)
+
+
+
+
+06 Jul 2016 - révision 17
+NEW IDEAS
+°Changement du climat simoun : Ne pénalise que les unités indirectes ; Peut-être renommé en "vent violent"
+°Changement des mécaniques du FoW : Vos propriétés n'éclairent plus les cases alentour. Capturer un radar permet de voir 5 cases de terrain autour et cette vision est PERCANTE (peut voir dans les forêts, récifs...). Les cases de feu permettent à tout le monde de voir 5 cases autour du feu, + vision perçante sur les cases adjacentes à celui-ci ??? #X Refusé pour le feu
+°Rachel : Le bonus d'effet Réparation (double toutes les réparations dans la CO-zone) ne coûte maintenant pas plus cher que la normale. La réparation bonus est donc gratuite.
+°Sensei : Rupture basique revue (Enlevé la condition des propriétés)
+°Von Bolt : Nerfé par rapport à Carter, en spécifiant le bonus +10/+10 aux unités à 10 PV uniquement.
+°Lili : La SR offre un bonus en fonction du climat choisi ??? Recherche d'une autre solution
+°Tamerlan : La SR pourrait aussi gagner +1 de mvt à tous ??? #X Refusé
+°Peitr : Maintenant immunisé au climat simoun.
+°Idée nouvelle unité : TTT (tracteur tout-terrain) : Transporte une unité terrestre (mais un TTT ne peut jamais être transporté même par les Barges). Caractéristiques tbd. Nouveau mouvement propre à l'unité.
+°Idée nouvelle unité : Zeppelin : Autre transporteur aérien ??? Explose et cause 2PV de dégâts à toute unité adjacente lorsque détruit ??? (sauf à partir du menu, car nécessite d'être à <=0% de santé) (Hindenburg bad joke)
+°Autres idées (anecdotique...) :
+-Débarquer volontairement le CO dans le Q.G ou une base de production et regagne +25% du prix de l'unité, mais vide la barre de rupture. #?
+-Payer une certaine somme (2000G ??) permet de faire perdre 2PV à tout unité ennemie non-soldat stationnant sur une de vos bases de production. #X
+-Gestion du remplissage de la barre de rupture : Au cours de la partie, les conditions de remplissage de barre augmentent en difficulté (rappel : +2 barres à chaque kill par votre général. +1 barre à chaque kill par une de vos unités dans votre COZone. +1 barre tous les 10000G de dégâts indifférents dans la COzone. Dans le cas d'une zone Globale, à modifier pour p-ê permettre un gameplay se rapprochant plus d'AWDS) 
+	Rappel : Rupture basique atteinte à 6 barres, SR atteinte à 18 barres effectives (6 + 6*2). ||||||R||||||SR en fonction du nombre de barres, on obtient les valeurs suivantes : (0)-1-2-3-4-5-6(R)-8-10-12-14-16-18(SR). Toutes valeurs doublées pour Sturm.
+	Proposition -> Multiplier la condition 10000G par *1.05 (ou *1.1) à chaque fois qu'elle est remplie. 
+	Ainsi les dégâts requis varient comme suit [+1 barre tous les : 10000 ; 10500 ; 11025 ; 11575 ; 12155 ; 12765 ; 13400 ; 14070... La suite de calculs ne prend pas en compte les arrondis, cela n'est fait que pour prendre une valeur à la fois].
+	A noter qu'il s'agit d'une mise en puissance (1.05^x) mais on pourrait également faire une addition itérée (+5%x). La suite obtenue serait également plus simple [10000 ; 10500 ; 11000 ; 11500... mais est-ce que les nombres n'augmenteraient pas assez par la suite...] (A voir si débarquer ou perdre son général réinitialise les valeurs ???)
+	Pour les kills, décision à prendre : Ne rien changer ? Multiplier le gain par *0.95 ?  Diviser le gain par /1.05 ?
+	[Si tout cela provoque des nombres à virgule :] Le nombre de barres apparent est une TRONCATURE de la valeur réelle (3.56 représente 3 barres).
+	[23:47] Full_Korbe / Florian: 100 (1 - e^1/x je crois)
+[23:47] Full_Korbe / Florian: non atta
+[23:47] Full_Korbe / Florian: 100 (1 - e^-x) et bloquer à 100
+-Idée utopique : Réintégrer le système de talents d'AWDS.
+
+
+
+
+12 Jan 2016 - révision 16
+Helmut : Gagne de la défense au lieu de l'attaque dans ses rangs (+5/+0 rang 1 ; +10/+0 rang 2 ; +20/+20 rang As) -> (+0/+5 rang 1 ; +0/+10 rang 2 ; +20/+20 rang As) #DONE
+Zak : les routes donnent également +20% de défense de base. La rupture standard donne directement +2 mvt à tous (au lieu de +1). #DONE
+Sigismundo : CO-zone augmentée de 1 case, à 3-4-5 cases. Refonte des pouvoirs #?
+Olaf : La SR regagne un boost de +20/+20 à tous. Neige durant un tour. Toutes les unités adverses perdent 2 PV au lieu de 3. #DONE
+
+
+
+
+22 Dec 2015 - révision 15
+
+Levail : Capitanat triple aussi les bonus de défense liés au rang (avant : doubler) #DONE ; La rupture standard double les bonus de défense
+Formiotoris : Instinct ne donne pas de bonus global de gain de PV sur destruction d'ennemi. #DONE
+Priam : Guérilla Urbaine : Bonus étendu sur les routes. Les unités affectées ne perdent plus leur tour mais perdent 50% de défense et 2 de mouvement. #DONE
+Heyden : Précision ajoutée sur Espions. #DONE
+Ardan : Le Méga-tank invoqué par Coup d'état est un méga-tank de rang As #DONE
+Rolland : Retranchement augmente maintenant la défense de toutes les unités (avant : seulement les unités directes). #DONE
+Jake : Offensive et Hyper Combat augmentent de 20 / 40 l'attaque en plaine (contre 10/20 attaque et 10/20 défense) #DONE
+Olaf : Nordique : 20/0 au lieu de 10/10. Enneigement : Fait neiger pendant 2 tours (au lieu de faire neiger pendant un tour avec un boost de stat). Blizzard : Fait neiger pendant 1 tour et fait perdre 3 PV à toutes les unités adverses (au lieu de faire neiger pendant 2 tours). #DONE
+Helmut a appris à promouvoir ses unités (bénéficie du système de rang) + système de luck enlevé #DONE
+Adder : Déploiement ne donne plus que +1 mvt et n'a plus d'effet sur le fuel. A la fin de Déploiement, +1/4 barre de rupture. #DONE ; mais ? pour le bonus de mvt
+Zak : Bliztkierg : +30% d'attaque (au lieu de +20%). #DONE
+Sigismundo : Soutien Logistique : Plus de boost aux unités inactives, les réparations soignent aussi. Grande Armada : Plus de boost de stat aux navires. Les unités dans des transports sont soignées. #! Recherche d'une autre solution en cours
+Damian : A la pointe : ne fait que réapprovisionner. Secret-Défense : Plus de gain d'argent, ignore les bonus défensifs de l'adversaire. #DONE
+Eirika : Le bonus de défense se fait par palier. Rideau de fer : Le bonus reste divisé par deux. Plus de perte d'attaque chez l'adversaire --> Bonus d'attaque si il y a une unité alliée adjacente. #DONE
+
+
+
+
+24 Aug 2014 - revision 14
+Custom CO
+
+#DONE = Fait, confirmé
+#? = Pas confirmé en l'état, peut-être à modifier
+#! = En cours de modification
+#X = Refusé
+
+    Le SCOP de Levail double aussi la défense liée au bonus de rang #DONE
+
+    Klaus : D2D : Réduction des coûts --> Gagne en argent une partie de la valeur des unités de sa CO-Zone #?
+
+    Priam : Le D2D est en défense directe ET indirecte. COP : Bonus de défense remplacé par : Sur activation de la Rupture, les unités susceptibles d'être réparées sont réparées. SCOP : Bonus de défense enlevé. Les usines activent aussi le blocage. #COP DONE, autres ?
+
+    Tamerlan : Comme un Murmure : De "Les unités directes peuvent se déplacer d'une case après leur attaque" devient "Vos unités peuvent traverser les unités adverses". Les autres bonus sont enlevés. #?
+
+    Ardan : Modifié Coup d'Etat : Fait spawn un MégaTank dans votre QG, enlevé le boost de mouvement. #DONE mais SCOP à modifier ?
+
+    Boris : Rallier les foules devient Neutralité : Annule la chance de l'ennemi (hors COP). Les unités gagnant un rang ce tour-ci en gagnent deux à la place. #DONE mais SCOP à modifier par la suite ?
+
+CO de AW: Dual Strike
+
+    Andy : Le bonus d'attaque de Réparafond est aussi présent dans Génie logistique. #DONE
+
+    Sami : D2D : 3 points de capture supplémentaires (au lieu de 2). Marche forcée ne donne le bonus de mouvement qu'aux soldats (et plus aux transports), et plus que 2 pts de capture bonus (au lieu de 3, le total reste inchangé). Accorde en plus un bonus de 20% d'attaque aux soldats. Conquête ne donne plus que 7 pts de capture bonus (le total reste inchangé) et un bonus de 30% d'attaque aux soldats. #?.
+
+    Hachi : Troc permet d'acheter des unités dans toutes vos villes (au lieu de baisser le prix à 50%) #?
+
+    Colin : Ruée vers l'Aure n'augmente le fond plus que de 50% (contre 100%, pour compenser le fait qu'il ait une CO Zone infinie) #? A voir, peut-être confirmé
+
+    Sensei : Force Hélicos : 20% d'attaque supplémentaire pour les hélicos & les soldats --> +30% d'attaque supplémentaire pour les hélicos seulement. #? Quid de la défense
+
+    Grimm : Kamikaze : 40% d'attaque supplémentaire --> 45% d'attaque supplémentaire. #? Peut-être confirmé mais l'attaque de Grimm sera à 205 ce qui n'est pas un beau nombre :\
+
+    Jess : CO-Zone réduite d'une case. Pleine Puissance : 20% d'attaque supplémentaire --> 30% d'attaque supplémentaire. #DONE pour le bonus, mais CO-zone inchangée
+
+    Kat : CO Zone augmentée d'une case. #DONE (passe de 2 à 3)
+
+    Adder : Priorité reworked : Aucun effet. La charge d'Adder se remplit d'une barre supplémentaire au début de chaque tour. #X Il faut garder le bonus de mouvement même si cela le rend OP. CO-zone réduite d'une case (de 3 à 2)
+
+    Candy : Féroce cité : 20% d'attaque supplémentaire depuis les cités --> 30% d'attaque supplémentaire depuis les cités. #DONE mais quelques réserves
+
+CO de AW: Days of Ruin
+
+    Ed : Espoir : 20% d'attaque supplémentaire pour les véhicules terrestres directs --> 30% d'attaque supplémentaire pour les véhicules terrestres directs. #DONE mais quelques réserves
+
+    Trak : Magnitude : La riposte des indirects s'effectue AVANT l'attaque (cc Aure) #DONE (toutes façons c'était déjà fait)
+
+    Stolos : Rien changé. Fascinating. #OMG FUKIN' DONE
+
+	
+	
+	
+12/08/2014 - revision 13
+
+Custom CO
+    Ajout de 3 nouveaux CO : Ardan ; Boris ; Rolland.
+
+
+	
+
+11/08/2014 - revision 12
+
+Commentaires
+    Modification dans commentaires unités.
+    Ajout des commentaires d'Eagle.
+
+
+	
+
+04/08/2014 - revision 11
+
+Custom units
+    Char d'assaut retiré. (RIP)
+
+	
+	
+
+---> Avant
+Nobody knows.
+:itisamystery::
+

@@ -1,0 +1,242 @@
+---This file is intended to help users creating their own balance---
+
+
+The simulator reads some files placed in /src
+
+Game_balance (damage chart, climate data, terrain data?)
+Unit_balance (all unit data)
+CO_balance (all command_officer data)
+
+You will need Game_balance before Unit_balance and CO_balance.
+When loading Unit_balance, it checks if ALL the specified units are in the Game_balance damage chart.
+
+
+
+The difference between normal effects and CO powers... [TODO]
+
+
+
+The only things hardwritten in the simulator and therefore unchangeable are...
+
+Category management : Each unit has a cost, range, movement... you must set a value in them even if it's 0. Notably for the weapon : Weapon 1 always has limited ammo and Weapon 2 always has unlimited ammo. Each CO has a normal effect in a CO-zone (it can be empty but you must set a value for CO_zone_size and CO_zone_type). However he doesn't require either a COP or SCOP.
+Some core mechanics of Advance Wars : Capture the Q.G or rout all enemy units to win, luck mechanics (you can only modify the min/MAX values), terrain data (however you can edit the movement chart with practicability for each terrain/unit) ...
+Fog of War. However this is an optionnal feature, plus there's only a single effect (which is limited vision). For instance you can create climates which include FoW, or create climates which simulate another type of FoW.
+Enemy coverage in CO powers. In a game with more than 2 players, when a player uses a CO power with some effects intended to affect enemy, it will ALWAYS affect units of ALL enemy armies.
+However you may pseudo-desactivate a large number of mechanics if you don't want them. See section "How to play without..." [TODO]
+
+
+
+How to play without...
+Ranked units : Play a game with "Ranking up" set as No. / You can use the command ranked_units in CO building.
+Climate : Play a game with "Climate" set as "Set", specify Sun or any climate that doesn't do anything. / [TODO]
+CO (create a list of banned COs in a map) : Play a game with "CO ban" set as Yes, then specify the COs.
+CO powers (<=> creating a CO that don't have COP/SCOP and not considered as a default CO) : In CO building, directly write a separator after the CO-zone effect (this skip COP and SCOP building). Alternatively you can write a power name followed by ": NOPE" or nothing.
+Fog of War : Play a game with "Fog of War" set as No.
+Luck system : Currently no intention to create an option ingame / You can set the min/MAX luck values to 0, in CO building.
+Unit (create a list of banned units in a map) : Play a game with "Unit ban" set as Yes, then specify the units.
+
+
+
+THE COMMAND LIST IN CO_BALANCE (some can also be used in Game_balance) [TODO]
+
+adjacent_units [radius] [effect:use_another_command] [condition]
+block_power_jauge [number_turns] [ally|enemy] //Number of turns required, please don't use this in the normal effect. You cannot gain bars but CAN use powers under this effect.
+block_power_usage [number_turns] [ally|enemy] //Number of turns required, please don't use this in the normal effect. You CAN gain bars but cannot use powers under this effect.
+bonus [att_modifier+def_modifier] [unit_affect] [condition?] // Shortcut for modifying attack and defense at once.
+bonus_turn [unit_affect] [condition?] //Always instant. Removes "Waiting" status of units.
+climate_immunity [unit_affect] {list_of_climates}
+com_tower_ratio [modifier] [amount] [unit_affect]
+construction_ratio [modifier] [amount] [unit_affect] //Mainly for VTB/Génie
+counterattack [early|enable|disable] [unit_affect] [enemy_unit_affect] //Early makes a enemy unit counterattack with full power before the ally attack lands. Enable does pretty much nothing EXCEPT if you use this command differently in normal effect + a CO power ! Please note that your unit cannot counterattack if weapon range doesn't match with the distance from enemy unit. (Also, "indirect" type weapons cannot counterattack by default).
+decrease_ammo [amount] [unit_affect]
+decrease_capture [amount] [terrain_affect] [unit_affect]
+decrease_CO_unit_cost [amount] [unit_affect]
+decrease_counterattack [amount] [unit_affect]
+decrease_fuel [amount] [unit_affect]
+decrease_fuel_consumption [normal|hidden] [amount|{amount_list}] [unit_affect]
+decrease_health [amount] [unit_affect]
+decrease_HP [amount] [unit_affect]
+decrease_max_ammo [amount] [unit_affect]
+decrease_max_fuel [amount] [unit_affect]
+decrease_max_ressources [amount] [unit_affect]
+decrease_money [amount]
+decrease_movement [amount] [unit_affect]
+decrease_movement_cost [amount] [terrain_affect] [unit_affect]
+decrease_power_jauge [amount] [ally|enemy]
+decrease_price [amount] [unit_affect]
+decrease_range [amount] [unit_affect]
+decrease_rank [amount] [unit_affect]
+decrease_stats [amount_att] [amount_def] [unit_affect] [condition?]
+decrease_stat_att [amount] [unit_affect] [condition?]
+decrease_stat_def [amount] [unit_affect] [condition?]
+decrease_terrain_coverage [amount] [terrain_affect] [unit_affect]
+decrease_vision [amount] [unit_affect]
+flare_properties [new_properties] //Does only overwrite the specified attributes. The others does not return to default values.
+in_rain_vision [modifier] [amount] [unit_affect]
+in_storm_vision [modifier] [amount] [unit_affect]
+increase_ammo [amount] [unit_affect]
+increase_capture [amount] [terrain_affect] [unit_affect]
+increase_CO_unit_cost [amount] [unit_affect]
+increase_counterattack [amount] [unit_affect]
+increase_fuel [amount] [unit_affect]
+increase_fuel_consumption [normal|hidden] [amount|{amount_list}] [unit_affect]
+increase_health [amount] [unit_affect]
+increase_HP [amount] [unit_affect]
+increase_max_ammo [amount] [unit_affect]
+increase_max_fuel [amount] [unit_affect]
+increase_max_ressources [amount] [unit_affect]
+increase_money [amount]
+increase_movement [amount] [unit_affect]
+increase_movement_cost [amount] [terrain_affect] [unit_affect]
+increase_power_jauge [amount] [ally|enemy]
+increase_price [amount] [unit_affect]
+increase_range [amount] [unit_affect]
+increase_rank [amount] [unit_affect]
+increase_stats [amount_att] [amount_def] [unit_affect] [condition?]
+increase_stat_att [amount] [unit_affect] [condition?]
+increase_stat_def [amount] [unit_affect] [condition?]
+increase_terrain_coverage [amount] [terrain_affect] [unit_affect]
+increase_vision [amount] [unit_affect]
+missile [aiming_mode] [amount] [health_modifier] [radius] [army_affect]
+modify_ammo [amount] [unit_affect]
+modify_capture [amount] [terrain_affect] [unit_affect]
+modify_climate [number_turns] //Unlike set_climate, this command only triggers a random climate each number of turns, bypassing rules.
+modify_CO_unit_cost [amount] [unit_affect]
+modify_counterattack [amount] [unit_affect]
+modify_fuel [amount] [unit_affect]
+modify_fuel_consumption [normal|hidden] [amount|{amount_list}] [unit_affect]
+modify_health [amount] [unit_affect]
+modify_HP [amount] [unit_affect]
+modify_luck_values [min_modifier] [MAX_modifier]
+modify_max_ammo [amount] [unit_affect]
+modify_max_fuel [amount] [unit_affect]
+modify_max_ressources [amount] [unit_affect]
+modify_money [amount]
+modify_movement [amount] [unit_affect]
+modify_movement_cost [amount] [terrain_affect] [unit_affect]
+modify_power_jauge [amount] [ally|enemy]
+modify_price [amount] [unit_affect]
+modify_range [amount] [unit_affect]
+modify_rank [amount] [unit_affect]
+modify_stats [amount_att] [amount_def] [unit_affect] [condition?]
+modify_stat_att [amount] [unit_affect] [condition?]
+modify_stat_def [amount] [unit_affect] [condition?]
+modify_terrain_coverage [amount] [terrain_affect] [unit_affect]
+modify_vision [amount] [unit_affect]
+movement_after_attack [enable|disable] [amount:int|remaining] [unit_affect]
+piercing_vision [terrain_affect] [unit_affect] [min_radius] [max_radius] // By default : All units have a piercing_vision of 1~1.
+power_jauge_ratio [modifier] [amount] [unit_affect]
+rank_effect [bonus_no_rank] [bonus_rank_1] [bonus_rank_2] [bonus_rank_V] [unit_affect] //Can use negative int if you want to create some 'malus' !
+rank_gain_ratio [modifier] [amount] [unit_affect]
+ranked_units [enable|disable|disableall] [unit_affect] //If you use disable, CO unit will still receive +20/+20.
+reduce_true_damage [amount] [unit_affect] //This is similar to inverted luck for the enemy.
+repair_ratio [modifier] [amount] [terrain_affect] [unit_affect] [cost_modifier?]
+resolve [max_health_trigger] [min_health_kept] [unit_affect] //When a unit receive a hit above max% of health (max not included), it cannot go under min% of health for this attack. Obviously, max > min and min > 0.
+set_attack_income [amount] [unit_affect] //Specify your units which will take part in the effect.
+set_ammo [amount] [unit_affect]
+set_capture [amount] [terrain_affect] [unit_affect]
+set_climate [name]
+set_CO_unit_cost [amount] [unit_affect]
+set_counterattack [amount] [unit_affect]
+set_fuel [amount] [unit_affect]
+set_fuel_consumption [normal|hidden] [amount|{amount_list}] [unit_affect]
+set_health [amount] [unit_affect]
+set_HP [amount] [unit_affect]
+set_luck_values [fixed_number_for_min] [fixed_number_for_MAX]
+set_max_ammo [amount] [unit_affect]
+set_max_fuel [amount] [unit_affect]
+set_max_ressources [amount] [unit_affect]
+set_money [amount]
+set_movement [amount] [unit_affect]
+set_movement_cost [amount] [terrain_affect] [unit_affect]
+set_power_jauge [amount] [ally|enemy]
+set_price [amount] [unit_affect]
+set_range [amount] [unit_affect]
+set_rank [amount] [unit_affect]
+set_stats [amount_att] [amount_def] [unit_affect] [condition?]
+set_stat_att [amount] [unit_affect] [condition?]
+set_stat_def [amount] [unit_affect] [condition?]
+set_terrain_coverage [amount] [terrain_affect] [unit_affect]
+set_vision [amount] [unit_affect]
+spawn_multiple_units [mode] [unit] [max_number] [condition]
+spawn_unit [mode] [unit] [condition]
+special_missile [animation_file] [aiming_mode] [amount] [shape] [radius] [army_affect] {series_of_effects}
+supply [amount] [unit_affect] // Shortcut for increase_ammo + increase_fuel. Enter only one value. Will be usually used to completely refill ammo and fuel.
+supply_ressources [amount] [unit_affect] //Alternative way to increase_ressources.
+supplying [enable|disable] [unit_affect] //Give the Supply property to any unit you want. Only a few have this enabled by default (VTB/Génie, ...)
+trapped_units [enable|disable] [unit_affect] //Choose whenever a unit can perform an action or not when a 'trap' event is triggered (FoW, hidden unit like SUB or Stealth). Enabling actions is "disable" on trapped_units !
+trigger_repair [condition] [cost_multiplier] //Always instant. All units that are on repairable properties will be repaired again. Don't use this unconditionnally.
+update_under_condition??? [condition] [limit] //Use this function just after a clause. Every time the condition is fulfilled, the 'parent' function will be executed again. You can also set a limit number to that. Useful during powers ([TODO] Exemples)
+
+
+TODO : Maybe regroup all commands in modify_x and add a [mode] which specifies "increase", "decrease", "set". With some exceptions eg. set_climate does something different than modify_climate.
+
+
+special_missile : meteorite.PNG most_value 1 centered 3 enemy {set_health : 1}
+special_missile : lightning.PNG most_units 1 square 3 enemy {decrease_HP : 3, set_state : waiting 1}
+
+
+Special effects : Must be placed between the name of command and the separator ':'
+
+An effect can take place during your turn only of the enemies' turn only. In that case, use 'phase="Ally"' or 'phase="Enemy"' (can be abreviated to "A" or "E"). Default value is "ALL".
++
+You can add the number of turns an effect will last. The default value for normal effects is 'turns=0', which will function as long as the CO-zone is here. All CO power effects last 1 turn by default so default value for power is 'turns=1.' It is advised to use only 'turns=2' if necessary. At 3 turns or more, you may use a CO power again before the effect ends, leading to unexpected results. (You can decide to block CO powers usage during that time)
+Please don't use turn-based effects as normal effects or the infinite turn value in powers (or add a condition ?).
++
+To delay a power by a certain amount of turns : You can use 'delay=1' or more turns. They will be stocked and used accordingly. Please note that if you use a sufficiently high number, you can use this power several times before the first delayed effect takes into account, leading to unexpected results.
+If used in the normal effect, it will begin effect x turns after effects set at delay=0.
++
+Adding 'effect="Global"' will make this effect bypass the CO-zone. Adding 'effect="COzone"' will LIMIT this effect to the CO-zone.
+To apply an effect to all places except COZone (used in Larissa's COP) make two commands, one command for applying the bonus with 'effect="Global"', and since you only want this outside COZone, one command for reverting this bonus with 'effect="COZone"'.
++
+You can write effects taken into account without activating CO powers with 'passive=True'.
+Conditional normal effects will have 'passive=False' and use (something that updates under condition).
+
+[TODO]
++
+Example : 'bonus phase="Ally" turns=2 delay=1 effect="Global" passive=False : +20/+20 ALL'
+Default values of normal effects are 'phase="ALL" turns=0 delay=0 effect="COzone" passive=True'
+Default values of power effects (COP, SCOP) are 'phase="ALL" turns=1 delay=0 effect="Global" passive=False'
+
+
+Note for all [amount] arguments : You can use idioms like 'full', 'half', 'quarter', 'equal', 'keep' ... [TODO]
+Note for all [modifier] arguments : This is a String argument which requires a specific value. You can use '=' to set it to a number, '+' or '-' to modify it. Using an 'equal' idiom for both [modifier] and [amount] arguments will not modify a value, useful for some effects.
+Note for all [unit_affect] arguments : You can use groups of units that are already defined (therefore you don't need to write the command for each single unit). 'ALL' or 'ALL_ally' to specify all of your units (ally). 'ALL_foe' or 'ALL_enemy' to specify all enemy units. Use both in two commands to specify all units regardless of their army (may not be interesting, but it's here...). Default value is 'ALL'.
+
+Note for capture values : The soldier units retain their default capture points if you don't modify them.
+Note for HP VS health : You can use health to set more precise values. Modifying HP will round up the health by default, so use modify_health if you want to give EXACTLY x HP to your units for ex. If a unit has 61% health (7 HP), increase_health 10 returns 71%, increase_HP 1 returns the default value for a 8 HP unit, therefore 80%. Most AWDS CO will use increase_HP and decrease_HP.
+aiming_mode : Most value ; Most units ; Random ; User choice... (only counts enemy units)
+
+
+
+
+
+
+THE COMMAND LIST IN UNIT_BALANCE
+Only used at the end of a Unit : The next lines after the weapon specifications are treated as expressions. They are separated by newlines or ';' (you can do both at the same time). It ends at a separator "***". Within an expression, you can pass an argument as the required type or a list, in that case separate the elements by ',' (no spaces).
+Example :
+can_capture "HQ","City" ; can_transport "Infantry" ; not_transportable
+***
+
+can_capture [terrain] : Followed by an argument specifying a type of terrain. You can use names defined as a terrain group. Attention : ALL terrain must have the property "Capturable" or they will be skipped.
+Example : can_capture "HQ","City"
+
+can_transport [unit] : This unit can transport other units. Attention : ALL units must not have the property "not_transportable" or they will be skipped.
+
+ressource [unit|terrain] [number] : Followed by an argument specifying what the unit can build and another argument which is the number of max. ressources. If you specify a unit, make sure the "builder" can transport it !
+	Unit :
+	terrain : 
+Examples : ressource Seaplane 4
+ressource Temp_Properties 1
+
+special_weapon {series_of_arguments...} : A special weapon that illuminates some squares of the map. But you can do more than that ! Here are all the properties and their default value : weapon=1 range=5 effect_range=2 illuminate=True modify_health=0 modify_att=0 modify_def=0 affect_ally="No" affect_ally_opt=["health","att","def"] set_att=-1 set_def=-1
+	affect_ally : If you want to give an effect to your units, use this option with "Same" or "Inverted". "Same" or "S" applies the same values of all the options specified in affect_ally_opt (please use only health, att, def). "Inverted" or "I" applies the inverted value ! Ex. for modify_att=-40 affect_ally="I" : Enemy units -40% att and Ally units +40% att. !
+	modify_health effect is instant. modify_att and modify_def work for the current turn.
+	set_att and set_def are often used with 100 in order to ignore offensive or defensive bonuses. Does not account if set at a negative number (if set at 0, can lead to extreme results because the att or def stat will be set at 0 !). Works for the current turn and overwrites modify_att and modify_def.
+Example : special_weapon weapon=1 range=3 illuminate=False modify_health=-10 => In lieu of illuminating an area, the flare does 10% damage to enemy units.
+(You can rewrite default arguments although that's irrelevant)
+
+
+
+
+

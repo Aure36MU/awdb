@@ -1,0 +1,2174 @@
+May 27, 2012
+22:29 Aure: Si copié d'etherpad
+22:29 Aure: Je me demandais pourquoi "PiratePad" tiens
+22:29 unnamed: Car y'a une grenouille avec un patch de pirate en frontpage
+22:29 Aure: L'avantage c'est qu'il y a pleiiin de couleurs de speudo
+22:29 Aure: Mon joli vert flashi
+22:30 Fully: Bleu caca
+22:30 Fully: Bleu flashi
+22:30 Fully: euh par contre
+22:31 Fully: à propos du tableau
+22:31 Fully: je l'ai un peu update
+22:31 Aure: gégé
+22:31 Aure: T'ain tu me forces à me remettre aux AW quand même
+22:31 Aure: Moi qui enchaînait les semaines sur Pokémon :D
+22:32 Aure: (sans strat' parce que je suis BCP MOINS BEGE)
+22:32 Fully: Tiens par contre
+22:32 Fully: il lag pas celui là
+22:32 Aure: J'ai un meilleur PC t'façons
+22:32 Aure: Avant c'était tellement laggy
+22:33 Aure: On pouvait à peine dépasser les 1000 lignes sans lagspike
+22:33 Fully: t'as pas un truc pour dl les fichiers vite fait ?
+22:33 Aure: càd
+22:33 Fully: ben te passer le tableau
+22:33 Aure: Donc tu veux l'uploader.
+22:33 Fully: oui
+22:34 Fully: j'ai rajouté un navire indirect d'ailleurs
+22:34 Fully: Quoi.
+22:34 Aure: J'utilise tout le temps 2shared, il est 'simple' mais je sais pas s'il est rapide \o
+22:34 Fully: c'est bien
+22:35 Fully: http://www.2shared.com/file/N93s2Wwn/AWBW2.html
+22:35 Fully: j'ai rajouté un navire qui fait direct ET indirect
+22:35 Aure: Toutes façons 19Ko c'est tellement vite DL
+22:35 Fully: je suis un monstre
+22:35 Aure: Je suppose que tu n'aimes pas les pubs sur mediafire (y)
+22:36 Fully: oui (y)
+22:36 Fully: le croiseur
+22:36 Fully: 1~4
+22:36 Fully: 5 de déplacements
+22:36 Aure: ah le serv répond pas
+22:36 Aure: Juste. rofl.
+22:37 Fully: gna
+22:37 Aure: Ah ça y est mais vraiment il est pas rapide en fait.
+22:38 Fully: je viens de me rendre compte
+22:39 Fully: le croiseur fait 45% contre les AA et 50 contre les tank
+22:39 Fully: les cuirassés font 80% contre les tanks et 85% contre les AA
+22:39 Aure: awé
+22:40 Fully: et l'ARA remplace le chassuer
+22:40 Fully: et l'avion de chasse est trop puissant
+22:41 Fully: faudrait qu'il se fase OHKO par tous en fait
+22:41 Fully: un "glass canon"
+22:42 Fully: enfin bref =0
+22:42 Aure: Il a une bonne défense contre les autres avions j'avoue
+22:42 Aure: Mais pour les autres types d'units ça le neutralise quasiment %D
+22:42 Fully: ouais mais t'as vu comment il tape fort
+22:43 Fully: quoique
+22:43 Aure: Ben soit diminuer les munitions ou le mouvement
+22:43 Fully: ... je vois les dégâts contre le Lance roquette
+22:43 Fully: je dis "ok"
+22:43 Fully: 60%
+22:43 Aure: Le but dans AW c'est de frapper le premier t'façons
+22:44 Aure: Pas toujours certes
+22:44 Aure: M'enfin ça fait un moment que j'ai pas joué.
+22:44 Fully: oui
+22:44 Fully: et puis
+22:44 Fully: c'est pas comme si on allait être engueulé si c'est pas tip top =0
+22:45 Aure: On peut tjrs corriger encore et encore
+22:45 Fully: ET ENCORE
+22:45 Aure: Quand bien même c'est fanmade et pas officiel on peut se permettre du perfectionnisme (y)
+22:46 Aure: Et puis on est que deux
+22:46 Aure: Ca manque CRUELLEMENT de joueurs de AW
+22:46 Fully: oui
+22:46 Fully: mais à mon avis, le truc bien
+22:46 Fully: ça serait de combiner le gameplay de DC
+22:46 Aure: Remonter la review de AW pour faire de la propagande ? (si t'en as rien à péter vu que t'es modo)
+22:46 Fully: Et la variété de DS
+22:47 Fully: ben ça va pas faire acheter des jeux =0
+22:47 Fully: faut attendre un prochain jeu
+22:47 Fully: comme pour FE
+22:47 Aure: J'imaginais une version 3DS avec un retour aux sources sur les graphismes style AWDS tout en les améliorant.
+22:48 Aure: Et puis des SEXY cinématiques combat quoi (AWDS avait un semblant de 3D qui aurait pu être superbement exploité)
+22:48 Fully: moi je dis
+22:48 Fully: un AW avec un général qui est UN SINGE
+22:48 Aure: Oui faisons encore des persos plus weird
+22:48 Aure: Genre mon CHAUFFEUR DE BUS
+22:49 Fully: FRANCOIS HOLLANDE
+22:49 Aure: Qui s'appelle Robert
+22:49 Fully: Political AW
+22:49 Fully: Je déploi un militant de terrain
+22:49 Fully: Dsl, j'ai un député
+22:49 Fully: merde, heureusement que j'ai DECRET DE LOI
+22:49 Aure: Owi putain des variables qui rajouteraient un côté politique au jeu
+22:49 Aure: Du genre la promotion sur une unité
+22:50 Fully: genre le militant, si t'as pas assez de fric, il se barre
+22:50 Aure: Attendre un tour à l'usine, payer un supplément pour l'améliorer
+22:50 Aure: Genre augmenter la max de munitions et tout
+22:50 Fully: ou pour chaque député que tu as, ils deviennent plus fort
+22:50 Fully: on est fou
+22:50 Aure: Je pense que les mecs chez Intelligent Systems faisaient pareil pour le brainstorming.
+22:51 Fully: CO : Full_Korbe
+22:51 Aure: Ou alors ils en chiaient à balancer le jeu.
+22:51 Aure: Aux choix.
+22:51 Fully: A chaque fois qu'une unité arrive, il peut se passer un truc BIZARRE
+22:51 Aure: CO Power : Oppage
+22:51 Aure: Super CO Power : Banissement
+22:51 Fully: Oppage, owi
+22:52 Aure: Affinités : Noob Man (**) ; Meuh (*) ; ...
+22:52 Fully: L'unité ciblée est promue au rang vétéran
+22:52 Fully: cc mon Neo Tank
+22:53 Fully: ça serait c00l
+22:53 Fully: et toi, ça serait DISPARITION
+22:53 Fully: Le général devient INVISIBLE
+22:54 Aure: Tag Power with Noob Man : Pouvoir des Maths [120%] ; with Meuh : Valse des modéros [110%]
+22:54 Fully: with Aure36 : AW:BW2
+22:54 Fully: with Foxy_Jr : Les deux font la paire
+22:54 Aure: Pourquoi BW d'ailleurs, 'me souviens plus
+22:55 Fully: non plus
+22:55 Fully: Oh d'ailleurs
+22:55 Fully: Ils ont fait le même truc pour FE
+22:55 Fully: On a testé avec Maruh
+22:55 Fully: crappy crappu
+22:55 Aure: T'façons notre fangame a de grandes chances de s'appeller AW:BFMU (Advance Wars : Battle for MU)
+22:55 Aure: HURR HURR
+22:56 Fully: Battle for middle universe
+22:56 Fully: OH WAIT
+22:57 Aure: what are you doing shit
+22:57 Aure: what am I fuckin' seeing here
+22:58 Aure: Je me sens shooté au Tic-Tac en voyant ces conneries
+22:59 Fully: Eh, le starman est une bonne idée en fait
+22:59 Fully: genre tu bousilles les munitions
+22:59 Fully: tu balances ton tank de merde à 1 PV
+22:59 Fully: (vu que tu peux être descendu à 1, mais pas en dessous)
+23:04 Aure: tu crois en Hollande toi ? :D
+23:05 Fully: pas plus qu'en un autre
+23:05 Fully: mais bon, j'avais pas d'autres idées
+23:05 Aure: Ca se tient.
+23:06 Aure: Bon c'est rigolo ce truc mais ça fait mal au cerveau aussi (surtout en soirée)
+23:07 Fully: oui
+23:07 Aure: Sinon tu révises pour le BAC ?!1
+23:08 Fully: Y'A UN BAC ??????
+23:08 Aure: Il reste ce Lundi donc ça va être pépére
+23:09 Aure: Wow ce bug
+23:09 Fully: toi aussi ?
+July 25, 2013
+22:02 unnamed: so
+22:02 unnamed: we are back
+22:03 unnamed: yeh
+22:03 unnamed: Hein comment ça je suis unnamed
+22:03 unnamed: go réparer ça
+22:03 Fullycc: il a
+22:03 Fullycc: UN NOM
+22:05 Aure36MU: Un nom que bcp contestent
+22:07 Aure36MU: Ben tiens on pourra utiliser ce piratepad pour nos idées, pas besoin de se faire chier.
+22:07 Fullycc: oui
+22:08 Aure36MU: Et on est tjrs que deux à être passionnés de AW... owaitwait y a Seud aussi
+22:08 Fullycc: et fdr kind of :p
+22:08 Fullycc: ouais donc pour les CO
+22:08 Aure36MU: Ah bon ?
+22:09 Fullycc: reprendre la formule de DS du double rupture
+22:09 Aure36MU: J'ai balancé AWDS + DoR sur le tchat tout à l'heure
+22:09 Fullycc: (enfin du CO power et du SUPER CO POWA)
+22:09 Aure36MU: Il a cru que je parlais chinois
+22:09 Aure36MU: Truc de fou quoi.
+22:09 Fullycc: mais en gardant les CO zone
+22:09 Aure36MU: Voilà
+22:09 Aure36MU: Et comme bien souvent les SCO power sont trèèèès disparates en puissance selon les généraux
+22:10 Aure36MU: Je pensais mettre des longueurs aux barres de rupture :p
+22:11 Aure36MU: Par contre adapter le D2D sera un tout petit peu plus compliqué. (que faire du bonus de l'état-major ?)
+22:12 Fullycc: oui
+22:12 Fullycc: euh, le bonus de l'état major ?
+22:12 Fullycc: càd ?
+22:14 Fullycc: oh et tu sais, je pense que la zone influence vachement la taille
+22:14 Fullycc: genre ed, je crois qu'il a 2 cases ou 3
+22:14 Fullycc: *vachement le pouvoir
+22:14 Aure36MU: De deux cases à quatre oui
+22:15 Aure36MU: Mais genre je pensais mettre un D2Dl qui s'applique soit tout le temps, soit dès qu'un général est embarqué
+22:15 Fullycc: Deux cases + le fait que c'est un bonus offensif sur les unités directes
+22:15 Fullycc: ah
+22:15 Fullycc: mais il faut qu'il soit assez faible pour avoir généralement intérêt à embarquer un général
+22:16 Aure36MU: C'pour ça que ça serait dur d'adapter tous les généraux de AWDS :p
+22:16 Fullycc: perso, je préfère laisser uniquement un bonus quand le général est embarqué
+22:16 Aure36MU: Lol t'imagines Hachi qui fait PROMO GENERALE dès qu'il monte dans une unité
+22:17 Aure36MU: Donc le concept du D2D on le passe à la trappe, et on garde seulement les bonus de stat dans la CO zone ?
+22:17 Fullycc: ouais, mais ce qu'on peut faire
+22:17 Fullycc: c'est un bonus qui s'applique sur toute la map pour certains CO
+22:18 Fullycc: genre -1 de pénalité de mouvement
+22:18 Fullycc: ben ça peut aller sur toute la map ça
+22:18 Aure36MU: Yup
+22:20 Fullycc: la taille d'une rupture normale c koi ?
+22:21 Aure36MU: La barre de rupture dans AwDoR tu parles ?
+22:21 Aure36MU: T'as douze barres réparties en deux parties
+22:21 Aure36MU: Le palier du milieu et de la fin augmente de 1 la CO zone
+22:21 Fullycc: ok
+22:22 Fullycc: on met une première rupture à la première zone ?
+22:22 Aure36MU: Et donc je pensais mettre la rupture et la SUPER RUPTURE MOTHERFUCKA
+22:22 Aure36MU: Also pour que ça colle encore mieux avec AWDS, la deuxième partie se remplit moins vite que la première (les étoiles étaient plus grosses, pigé)
+22:23 Aure36MU: M'enfin ça fonctionne pareil dans AWDoR
+22:23 Fullycc: oui ok
+22:23 Fullycc: par contre
+22:23 Fullycc: si ça se remplit moins vite
+22:23 Fullycc: on peut éventuellement augmenter la CO zone de 2 dans ce cas
+22:24 Aure36MU: Augmenter de 2 au lieu de 1 quand t'es arrivé au bout ?
+22:24 Aure36MU: A une CO zone de 4 t'as déjà une grande zone t'façons %)
+22:28 Fullycc: oui c'est pour ça :p
+22:28 Fullycc: par contre, faudra compenser si il y en a qui ont déjà toute la map comme zone
+22:29 Aure36MU: On pourrait nerf certains généraux en mettant par exemple une CO zone qui n'augmente pas (ou bien CO zone déjà infinie)
+22:29 Aure36MU: T'façons la CO zone y a trois étapes
+22:30 Fullycc: oui
+22:32 Aure36MU: Bon bah je m'arrête là pour aujourd'hui, ça en fait de la strat' :p
+22:58 Fullycc: heya
+22:58 Aure36MU: HOHO
+22:59 Aure36MU: Ca bosse dur ici
+22:59 Fullycc: euh
+22:59 Fullycc: les anciennes ruptures
+22:59 Fullycc: ça doit être du niveau de quoi ?
+22:59 Fullycc: les SUPER ou les normales ?
+22:59 Aure36MU: AWDoR ?
+22:59 Fullycc: (je pense notamment O Brian
+22:59 Aure36MU: Ca dépend de la puissance
+22:59 Aure36MU: On leur rajoutera une rupture de leur niveau anyway
+23:00 Aure36MU: Je pensais également ajouter une super rupture pour Carter, il en a besoin quand même :p
+23:00 Fullycc: oui.
+23:00 Fullycc: !
+23:01 Aure36MU: Ah bah oui pas con pour l'effet de mettre une partie du D2D
+23:01 Aure36MU: Mais ça prend effet sur toute la map ?
+23:01 Fullycc: nope
+23:01 Fullycc: que dans la zone
+23:01 Aure36MU: Ah je comprends la big zone de Rachel alors
+23:02 Fullycc: le problème c'est qu'on ne peut plus utiliser de malus
+23:02 Aure36MU: On peut coupler un bonus et un malus au pire ?
+23:03 Fullycc: comme ?
+23:03 Aure36MU: Mais c'est vrai que Max était putain de useless avec -1 de portée en indirect, faut le réhusser quoi %)
+23:03 Fullycc: boarf, c'était une brute
+23:04 Fullycc: c'était un des meilleurs dans les airs au final
+23:04 Aure36MU: Lol le +80% dans sa super rupture quand même
+23:04 Aure36MU: Ah non, 60%, mal lu
+23:04 Fullycc: ui
+23:05 Aure36MU: Ah là Sami on peut vachement la nerf sur les captures :p
+July 26, 2013
+10:26 Aure36MU: Aure was here
+13:34 Fullycc: Yo, j'étais inspiré
+21:58 Aure36MU: Yo, tu es inspiré
+21:58 Aure36MU: Je l'étais aussi ce matin, mais... :p
+21:59 Aure36MU: .ah ouais 168 lignes là
+22:00 Aure36MU: Tiens pour Sasha j'y pensais justement
+22:01 Aure36MU: Sa rupture est un peu forte et certaines personnes risquent de le spammer
+22:01 Fullycc: après ça revient à la normale hein
+22:01 Aure36MU: (d'autant plus que c'est un power à deux étoiles dans AWDS :p )
+22:01 Aure36MU: Euh ha ?
+22:02 Fullycc: d'où le "jusqu'à la fin du tour"
+22:02 Aure36MU: Oui mais la jauge revient bien à zéro hein
+22:03 Aure36MU: Maintenant étant donné que ct'une rupture normale, ça charge vite
+22:04 Fullycc: ben elle revient à zéro pendant un tour
+22:04 Fullycc: et après elle revient à ce qu'elle était avant
+22:04 Aure36MU: Ha stu veux, c'est équivalent à un blocage durant un tour alors x)
+22:05 Aure36MU: Je craignais les spams de ça, si la jauge revenait vraiment à zéro tu vois
+22:05 Fullycc: oui oui
+22:05 Aure36MU: Also t'as mis deux fois Kat. :D
+22:05 Fullycc: ouais c'est juste un stop pour un tour
+22:05 Fullycc: (goddamn)
+22:06 Aure36MU: zakakakakak
+22:07 Aure36MU: Oua mais t'as déjà presque tout fait alors
+22:07 Aure36MU: Also stu veux modifier les miens go on
+22:08 Fullycc: Hachi ça me semble bien
+22:08 Aure36MU: J'me concentre sur la damage chart
+22:08 Fullycc: Après Olaf, là il est vraiment mauvais hors Rupture :0
+22:08 Aure36MU: Il a pas de bonus intéressant en D2D
+22:08 Aure36MU: Vazy alors
+22:08 Fullycc: non mais même s'il neige, il reste mauvais en fait
+22:09 Fullycc: vu qu'il n'y a que le général
+22:09 Aure36MU: Et tu peux faire Grit aussi, je l'avais fait puis je me suis dit "bof je m'arrête là"
+22:09 Fullycc: :p
+22:15 Aure36MU: On fera comment pour les boss
+22:15 Aure36MU: Sturm je veux bien l'ajouter, ptet en joke CO
+22:15 Aure36MU: Mais Von Bolt honnêtement il pue quoi :lal:
+22:15 Fullycc: vas y (y)
+22:15 Aure36MU: Vazy toi
+22:15 Fullycc: ben on peut toujours le mettre, on verra ce que ça donne
+22:15 Fullycc: je fais 2 trucs là :0
+22:16 Aure36MU: T'as le temps.
+23:50 Fullycc: pouf
+July 28, 2013
+13:27 Aure36MU: bjrbjr
+13:28 Aure36MU: Holy sheet les noms des effets :D
+13:29 Fullycc: fallait que ce soit cohérent :0
+13:30 Aure36MU: Non mais, ct'une nouveauté quoi
+13:30 Aure36MU: Remarque tu peux embellir la section "Général" avec ça
+13:31 Fullycc: ben dans AW:DoR, chaque CO Zone a un nom
+13:31 Aure36MU: Pas con.
+13:31 Aure36MU: Woh tu en as fait des new CO's aussi, allons voir ça
+13:32 Fullycc: PLEIN
+13:32 Fullycc: enfin les 3 premiers sont repris
+13:33 Aure36MU: Le premier (Levail) est plutôt pas mal, les effets sont simples et compréhensibles.
+13:33 Aure36MU: Ptet nerf la rupture sinon, car gagner deux rangs pour toutes les unités, euh paf:
+13:33 Fullycc: ouais, je vais le faire différemment
+13:34 Fullycc: c'est rang 2-1-Vétéran c'est ça ?
+13:34 Aure36MU: 1-2-As
+13:34 Fullycc: zut
+13:34 Aure36MU: Bah te fais pas chier, au lieu de +2 à tous tu mets +1 à tous, c'est déjà worthy pour une grande armée :D
+13:35 Fullycc: k :0
+13:35 Aure36MU: (Klaus) "Se remplit en achetant des unités." Holy sheet ça se gère en fonction du nombre d'unités, ou des fonds ?
+13:35 Fullycc: des fonds
+13:35 Fullycc: en gros, tu gagnes autant que pour les destruction
+13:35 Fullycc: s
+13:36 Aure36MU: C'est vrai.
+13:36 Aure36MU: Oui il est sympatoche Klaus, ça fait une alternative à Hachi
+13:37 Fullycc: ouais, Hachi cherche à surprendre (via le Super CO) tandis que lui cherche la mobilité
+13:37 Aure36MU: Annulation des pénalités de mouvement, c'est 1 quel que soit le terrain ? :o
+13:38 Fullycc: oui
+13:38 Fullycc: (enfin les véhicules ne peuvent toujours pas aller dans l'eau / montagne :0)
+13:38 Fullycc: hey, c'est le D2D de Storm :p
+13:38 Aure36MU: Donc Formiotoriis je sais pas trop quoi dire sur ce CO, bah, en tout cas ça passe il est bien :p
+13:39 Fullycc: ah oui, et NOUVELLE NATION
+13:39 Aure36MU: Rede novae
+13:39 Aure36MU: L'explosion rouge ?
+13:40 Fullycc: si on veut
+13:40 Aure36MU: "Effet : Mobilisation : Réparations gratuites" Holy sheet, pour une zone de 4 à 6 cases cey pétéy
+13:40 Fullycc: une nova c'est pas vraiment une explosion en soit, c'est un stade d'une étoile IIRC
+13:40 Fullycc: tant que ça ?
+13:41 Aure36MU: Beeeen
+13:41 Aure36MU: J'sais pas mais si je ramène Seud il aura ses mots à dire là dessus :p
+13:41 Fullycc: xD
+13:41 Fullycc: enfin j'sais pas, mais t'as pas souvent accès à une réparation facile près du front
+13:42 Aure36MU: Bah je verrai plus tard cette ligne
+13:42 Fullycc: hors, tu veux que ton CO reste au front quoi
+13:42 Fullycc: (j'ai réduit la zone)
+13:42 Aure36MU: "Toutes les unités ennemies situées sur des propriétés à vous perdent 3 PV et passeront leur tour." Trololo Candy est de retour
+13:43 Fullycc: sauf que là, c'est presque uniquement défense
+13:43 Fullycc: *défensif
+13:43 Aure36MU: "avez accès à une fusée éclairante qui inflige -1 PV aux unités dans la zone éclairée." putaing
+13:44 Fullycc: la SUPER Rupture va être abusée je sens xD
+13:44 Aure36MU: Ha je vois que quelques-unes de mes idées n'ont pas été oubliées aussi :D
+13:44 Aure36MU: Par contre huh
+13:44 Aure36MU: Ta super rupture comme tu dis
+13:44 Fullycc: à côté de ça, hors brouillard de guerre il pue, j'ai pas réussi à le balancer à ce niveau là
+13:44 Aure36MU: Elle est à double tranchant
+13:44 Aure36MU: Quand l'ennemi envoie des recon en éclaireur d'accord, il se fait niquer
+13:45 Aure36MU: Mais imagine ça avec un méga tank, c'est toi qui te fais niquer
+13:45 Fullycc: ah oui
+13:45 Fullycc: vais virer cette partie, c'est déjà pas mal non ?
+13:45 Aure36MU: La dernière phrase est faculative, donc je dirais
+13:46 Aure36MU: Bon à part ça bah je changerais quelques trucs mais c'est par préférence personnelle.
+13:46 Fullycc: vas y
+13:46 Aure36MU: Nope je change que ce qui ne va pas pour l'instant
+13:46 Fullycc: ben mets le à côté au pire
+13:47 Fullycc: tu risques d'oublier sinon :°
+13:48 Aure36MU: Alors Khrall il est un peu bizarre lui
+13:48 Aure36MU: Déjà l'effet, j'imagine que ta couleur vient du pourcentage d'attaque dans AWDOR
+13:48 Fullycc: oui
+13:48 Aure36MU: en gros c'est all-out, admettons
+13:48 Aure36MU: (c'est original hein je dis pas le contraire)
+13:49 Fullycc: en fait, j'ai été un peu trop enthousiaste niveau puissance :hum:
+13:49 Aure36MU: Ouaip la super rupture c'est un peu le bordel :lal:
+13:49 Fullycc: à mon avis, on peut faire faire avec juste une des deux phrases pour le CO déjà
+13:49 Fullycc: wala
+13:50 Aure36MU: Déjà la première phrase avec la dernière phrase seulement, c'est complètement pétey
+13:50 Aure36MU: Wait du coup la deuxième phrase y est plus là
+13:50 Aure36MU: C'était quoi ??
+13:50 Fullycc: "quand une unité à toi meurt, elle fait perdre 2 PV aux unités ennemies adjacentes" :paf
+13:50 Aure36MU: Ah oui finalement laisse comme ça
+13:51 Fullycc: ben ça fait perdre un tour je suis d'accord, mais si les troupes adverses sont un état correct, l'impact est minimal
+13:51 Aure36MU: Le truc c'est d'aller au plus simple pour les pouvoirs après :p
+13:51 Aure36MU: Si les transports perdent un tour, qu'ils perdent un tour.
+13:52 Fullycc: J'ai dit qu'ils ne peuvent pas bouger
+13:52 Aure36MU: Dans ce cas passons.
+13:53 Aure36MU: Alors Tamerlan (TAMERLAPUT pardon) hum
+13:53 Fullycc: :0
+13:53 Aure36MU: Ce concept de déplacement après attaque il vient de FE ? Je te vois souvent l'utiliser :lal:
+13:54 Fullycc: oui :0
+13:54 Aure36MU: Quant aux pourcentages ils m'ont l'air corrects, mais j'suis pas trop apte à calculer en ce moment :p
+13:54 Fullycc: je compare par rapport à O Brian pour la défense
+13:54 Fullycc: O Brian a +20% pour toutes les unités
+13:55 Fullycc: donc un peu plus fort mais plus limité
+13:55 Aure36MU: Waouh Peitr déjà ça commence fort
+13:56 Fullycc: un bonus de défense pour des unités indirectes, c'est pas très utile je trouve
+13:56 Aure36MU: Ben euh si au contraire
+13:57 Aure36MU: Ils ont tendance à être fragiles
+13:57 Fullycc: sauf qu'ils ne peuvent pas contre-attaquer, donc même s'ils ne sont pas détruits, l'adversaire s'en sort quand même indemene
+13:57 Fullycc: *indemne
+13:57 Aure36MU: Ca limite fortement la casse
+13:58 Aure36MU: Après t'as le canon dèf aussi :p
+13:58 Fullycc: oui, le canon def est autre chose :0
+13:58 Fullycc: je peux baisser à 30%
+13:58 Fullycc: après, +10/+40, c'est à comparer avec lin
+13:58 Fullycc: qui donne +20/+20 à toutes les unités terrestres
+13:58 Aure36MU: Bon alors Damian j'ai pas tout compris mais on va dire que ça passe :lal:
+13:59 Fullycc: mettons t'as un Mega tank intact (donc qui coute 16000)
+13:59 Fullycc: ben tu gagnes 8000
+13:59 Fullycc: si le mega tank est à moitié détruit, tu gagnes 4000
+14:00 Aure36MU: On peut gagner énormément de fonds
+14:00 Aure36MU: Mais bon je vois pas comment changer ça alors on laisse
+14:00 Aure36MU: Erik oulà euh Erik
+14:00 Aure36MU: (blague obligatoire : GOR POR)
+14:01 Fullycc: ?
+14:01 Aure36MU: c Erik
+14:01 Fullycc: ah oui oula
+14:01 Aure36MU: Déjà l'effet c'est bien pu*e pour les adversaires, ça s'applique que pour la CO zone ?
+14:01 Fullycc: oui
+14:01 Fullycc: dit bonjour au lance-roquettes
+14:02 Fullycc: (et à l'obusier ohohoh)
+14:02 Aure36MU: La super rupture est un peu chaude à comprendre mais bon
+14:02 Fullycc: c'est un peu le même principe que Damian
+14:02 Fullycc: en gros, une infanterie full life est à 1500
+14:02 Fullycc: donc pour chaque élément manquant, elle perd 150
+14:03 Fullycc: (enfin c'est pas exactement ça mais bon)
+14:03 Aure36MU: Ah d'accord c'est les pévé qui jouent
+14:03 Fullycc: oui
+14:03 Fullycc: donc ton stack complet de Bazooka vaudra 25 000
+14:03 Fullycc: donc il peut attaquer un Tank (7000) a qui il reste 3 unité (21 000)
+14:03 Aure36MU: Ca devrait donc être "Coût * (PV/10)" si je ne me trompe ?
+14:04 Aure36MU: ah parce que le nombre influe aussi :lal:
+14:04 Fullycc: ça revient au même que ce soit PV ou PV*10
+14:05 Fullycc: euh comment ça ?
+14:05 Fullycc: c'est juste les PV du stack qui compte
+14:05 Aure36MU: non mais je prenais qu'une seule unité en compte
+14:05 Aure36MU: J'trouve ça bizarre en fait
+14:06 Fullycc: je peux changer ça pour rendre le tout plus rigolo :0
+14:06 Fullycc: Là, enjoy ton Méga tank a 8 PV qui ne peut pas attaquer l'infanterie à 10
+14:06 Aure36MU: Ah mais D'ACCORD tu prends en compte le fait que les unités sont groupés par cinq
+14:07 Aure36MU: Déjà dans AWDS on peut voir que certaines unités sont groupées en 10, mais ça osef :lal:
+14:07 Aure36MU: Et puis quid des unités qui sont forcément uniques
+14:07 Fullycc: euh
+14:07 Fullycc: quoi ?
+14:07 Aure36MU: Bombardier, bateaux
+14:08 Fullycc: non mais oublie le nombre, prend juste les PV
+14:08 Aure36MU: En fait après c'est leur nombre de canons fonctionnels qui change, mais whatever
+14:08 Fullycc: par nombre je voulais dire PV
+14:08 Aure36MU: Bon eh bah c'est con je pourrai pas ajouter de CO moi :D
+14:09 Fullycc: y'a de quoi faire encore :p
+14:09 Aure36MU: Alors pour la damage chart je vais laisser les lignes et les colonnes de tes unités
+14:10 Aure36MU: à modifier bien entendu
+14:10 Fullycc: oki
+14:10 Fullycc: tu prends la charte de AW:DoR par contre ?
+14:10 Fullycc: parce que ça ne me dérange pas de virer le neotank par exemple
+14:16 Aure36MU: J'aime le neotank mwa :( (bien que bcp de gens n'aiment pas qu'il y avait 10000 tanks)
+14:17 Fullycc: ben j'aime bien le principe d'un tank puissant haut de gamme, mais j'aime pas la différence de puissance énorme qu'il y a entre chaque tank
+14:18 Fullycc: si t'as 6 de mouvement ET que t'es facile gerer, faut pas limiter ça niveau puissance
+14:18 Fullycc: hors, il battait assez facilement un Md Tank IIRC
+14:21 Fullycc: parce que dans AW : DS, au bout d'un certain temps, je spam du Neo Tank juste
+14:21 Fullycc: bref, j'y vais moi
+14:22 Fullycc: fais toi plaizzzzz :0
+14:23 Aure36MU: pareil
+July 30, 2013
+15:43 Aure36MU: Je suis passey laule
+August 6, 2013
+21:28 Aure36MU: Yeh pas bête pour ce SR
+21:29 Aure36MU: Bon après osef de comment ça pourrait être intégré dans un jeu :lal:
+April 11, 2014
+23:38 Fully: wow
+23:38 Aure36MU: T'aimes bien écrire dis donc
+23:38 Fully: feeliiiiings
+23:38 Fully: quand c'est un truc que j'aime ouais
+23:38 Aure36MU: ^ cet histo
+23:39 Aure36MU: Le meilleur avec piratepad c'est qu'il garde vraiment toutes les étapes (y a pas moins de 1100 snapshots rien que dans ce document)
+23:39 Fully: hihihi
+23:39 Aure36MU: Ca risque de faire lourd sur leurs serveurs au bout d'un moment je crains
+23:40 Fully: ils virent les inactifs ???
+23:40 Aure36MU: je crois pas
+23:40 Fully: stolos
+23:40 Fully: ha
+23:40 Aure36MU: Alors voyons voir tes talents :p (pour mes unités custom je te passerai mes idées en vrac)
+23:42 Aure36MU: J'ai mis un gros pâté sur l'infanterie quand même
+23:42 Fully: oui
+23:42 Fully: et le char d'assaut
+23:43 Aure36MU: Faut que je trouve le moyen de garder l'essentiel mais sans trop en omettre
+23:43 Aure36MU: (paradox oui)
+23:43 Aure36MU: Après chacun a sa vision des unités donc ça peut être subjectif.
+23:44 Fully: oui, mais le but est de présenter les atouts et les faiblesses
+23:44 Fully: l'obusier, si ta carte fait 30x30
+23:44 Fully: tu vas avoir du mal à en déployer efficacement
+23:45 Aure36MU: Je présentais brièvement quelques utilités en jeu aussi
+23:45 Fully: genre ?
+23:45 Aure36MU: M'enfin ma foi c'est bien décrit (lol d'avoir repris mon style en tout cas :p) tout ce que je demandais c'est qu'on parle pas de CO à l'intérieur car on fera ça dans une autre partie.
+23:46 Fully: ouais c'est normal
+23:48 Aure36MU: Je me suis toujours demandé dans quelle situation le canon de campagne diffère de l'artillerie dans sa portée (genre c'est pas qu'une unité à portée 1~4 quoi)
+23:48 Fully: quand son mouvement est restreint
+23:48 Fully: genre si il y a des unités qui la bloquent etc...
+23:48 Fully: c'est pour ça que c'est vraiment une unité de mouvement
+23:48 Fully: dès que le front se fixe, l'artillerie est supérieure
+23:49 Aure36MU: C'est bien ce que je pensais
+23:49 Aure36MU: Oui l'artillerie est bien pour les chokepoint par exemple
+23:49 Fully: voilà
+23:49 Fully: ou pour taper plus fort, tout simplement
+23:52 Aure36MU: laule les copier coller gardent les couleurs de leur vrai auteur
+23:52 Aure36MU: Tellement mieux qu'etherpad t'ain
+23:52 Fully: tu n'as qu'à cc par dessus :D
+23:52 Fully: mais
+23:52 Fully: ça existe encore etherpad ?
+23:52 Aure36MU: ben non
+23:52 Fully: je n'arrive plus à y accéder
+23:53 Fully: ah ok
+23:53 Aure36MU: Normal il a fermé lolilol
+23:53 Aure36MU: Ptet que les serveurs ont eu un accident, ça arrive (y)
+23:54 Fully: quelles qu'elles soient
+23:55 Fully: c'est magique le français
+23:55 Aure36MU: fancy
+23:57 Fully: je pense que je vais baisser la puissance des croiseurs par contre
+23:57 Fully: au moins contre certaines unités
+23:58 Fully: ils sont dans une position étrange en fait
+23:58 Fully: c'est un mix entre les destroyers et les cuirassés
+23:58 Fully: ils sont peut être un peu inutiles au final
+23:59 Aure36MU: Ben au début je me suis dit qu'un cuirassé moins puissant et avec moins d'ammo
+23:59 Aure36MU: Mais d'un autre côté plus "versatile"
+April 12, 2014
+0:00 Fully: ouais mais il manque d'une "niche" bien précise
+0:01 Fully: le lance-torpille, même s'il semble bien plus faiblard, à une utilité quand même : il aide à défendre son pré carré maritime pour pas cher
+0:01 Fully: (pas cher surtout)
+0:01 Fully: et il tape fort les destroyers
+0:01 Aure36MU: Mhoui
+0:02 Fully: c'est pas uncuirassé ou quoi bien sur, mais il ne coute que 12 500 et fait une bonne escorte
+0:10 Aure36MU: Ah oui euh finalement il coûte combien le Tank AA :p
+0:11 Aure36MU: Parce que franchement 7000 ou 8000 c'pas une grosse différence, c'est juste pour les perf' que je m'inquiétais
+0:13 Fully: ...
+0:13 Fully: 7500 !!!!
+0:13 Fully: le bombardier est à 20000 ?
+0:14 Fully: 22000
+0:14 Fully: ouais 8000 ça passe
+0:14 Aure36MU: Ca fait un peu AWDS mais franchement je sais pas quoi mettre comme prix
+0:14 Aure36MU: On peut remettre 7000 sinon (j'ai juste peur qu'on le spamme en cas de panique, regarde l'ordi)
+0:15 Fully: laisse à 8000 pour l'instant, c'est juste un peu plus que le tiers du bombardier
+0:15 Aure36MU: Le bombardier pareil, mais c'pas une grande différence étant donné qu'à 2k de différence, tu construis 9 bombardiers au lieu de 10 :p
+0:16 Fully: ben là, t'en construis 7 au lieu de 8
+0:16 Fully: c'est pas énorme
+0:17 Aure36MU: il a ptet été nerfé dans DoR après, je vérifie
+0:18 Aure36MU: non même pas lolz (juste quelques 5% de différence niveau aérien)
+0:18 Aure36MU: Donc on pourrait garder 8000 pour ces perfs'
+0:19 Fully: ça me semble bon, sauf si le furtif se révèle trop pressant
+0:25 Aure36MU: Bon je te laisse car je fatigue un peu (en plus je suis tellement décalé niveau sommeil )
+0:25 Aure36MU: hehe
+0:25 Fully: bonne nuit :)
+July 4, 2014
+22:40 Aure36MU: Dernière visite le 12 Avril ah ba sa
+22:40 Fully: ah oui le croiseur, on avait envie de le virer
+22:40 Fully: enfin moi
+22:40 Fully: alors que je l'ai fait
+22:40 Fully: go figure
+22:41 Aure36MU: dunno, l'idée de l'unité direct + indirect était pas mal
+22:41 Aure36MU: Faut ptet revoir ses cibles :p
+22:42 Fully: ouais, le truc c'est qu'il fait un peu tout quoi
+22:45 Fully: ouah, j'aime khrall
+22:45 Aure36MU: Donc si tu peux me passer un sample de ce que t'as fait stp :p
+22:45 Fully: il a l'air mortel en team avec drake
+22:45 Fully: aaah oui
+22:45 Aure36MU: uber strat
+22:46 Aure36MU: N'empêche que c'est dur de choisir un seul CO pour un combat quand y en a beaucoup
+22:47 Aure36MU: Ouch ce vert
+22:47 Fully: oui
+22:47 Aure36MU: :lal:
+22:47 Fully: repose donc tes yeux :0
+22:48 Aure36MU: tu m'avais surpris quand t'avais dit "deux lignes"
+22:48 Aure36MU: Ca va franchement c'est presque aussi long que moi :p
+22:48 Aure36MU: (pis s'il y a pas grand chose à dire vala)
+22:48 Fully: ben
+22:48 Fully: sur notepad :0
+22:49 Fully: ah oui et j'ai pas fait de conclusion
+22:49 Aure36MU: J'aime bien le fait que t'arrives bien à imiter mon style d'écriture compliqué
+22:49 Aure36MU: Et ma syntaxe des matchup srx faudra en inventer une ptet :lal:
+22:49 Fully: elle m'a l'air bien
+22:50 Fully: mais j'ai la flemme d'en faire
+22:50 Fully: (des match-up)
+22:50 Aure36MU: Il faut que je trouve un moyen de foutre tous les paramètres en abrégé
+22:50 Aure36MU: Car au bout du compte j'ai presque envie de résumer par les stats après bonus [i.e 140/110]
+22:50 Aure36MU: Sauf qu'on voit pas les bonus appliqué du coup
+22:54 Aure36MU: Dafuq Sensei en SR peut one-shot un neotank (les dégâts de base hélico->neo sont à 25)??
+22:54 Fully: non, c'est le combat total
+22:55 Aure36MU: Ah t'as fait plusieurs étapes
+22:55 Aure36MU: C'est vrai que que je pourrais recalibrer les matchup par rapport à ça quand même
+22:56 Fully: ouais attend je l'ai foiré je crois
+22:56 Fully: ah ok
+22:56 Fully: ça se joue vraiment sur le
+22:56 Fully: RNG
+22:56 Aure36MU: Lol la troisième partie de Sensei est destinée à Grimm
+22:57 Aure36MU: koi t'avais 10 de luck tout le temps ?
+22:58 Fully: non
+22:58 Fully: mais ça peut passer de 8 à 9 et 5 à 6
+22:58 Fully: et ça change pas mal
+23:03 Aure36MU: La stratégie a adopter pour Levail est facile et intéressante
+23:03 Aure36MU: C'est pour ça que l'idée est géniale
+23:03 Aure36MU: (omf les Vet à 170/170 quand même)
+23:04 Fully: ouais, ça me semble trop
+23:04 Fully: genre à la limite, juste tripler l'attaque
+23:04 Fully: car faut pas oublier qu'il passe tout le monde en vétéran facilement
+23:05 Aure36MU: En plus laule il gagne pas de défense de base
+23:05 Aure36MU: J'ai cru.
+23:05 Fully: noon
+23:14 Aure36MU: Eh ben c'est très bien tout ça
+23:15 Aure36MU: Moi c'est plus long juste parce que je vais au fond des choses, mais tu vas à l'essentiel :p
+23:15 Fully: xD
+23:15 Aure36MU: Une petite question sur la rupture de Priam quand même
+23:16 Aure36MU: Les réparations seraient gratuites sur toute la map mais dans ce cas
+23:16 Aure36MU: Il faudrait faire regagner les fonds dépensés au début du tour ?
+23:16 Aure36MU: (au pire osef de comment ça sera organisé dans le jeu hé)
+23:17 Fully: ah euh
+23:17 Fully: bonne question
+23:17 Fully: je n'en ai aucune idée =0
+23:18 Fully: au pire, on pourrait faire un autre round de réparation LE TOUR de l'ennemi, quitte à nerfer le bonus défensif
+23:18 Aure36MU: Ca serait tout à fait possible si on compte les fonds dépensés avant toute action
+23:18 Aure36MU: J'allais dire un truc mais j'avais faux.
+23:19 Aure36MU: Bon en tout cas je note qu'on peut extend la réparation gratos
+23:19 Fully: ok
+23:24 Aure36MU: Bon j'ai pas trop envie de continuer pour aujourd'hui ;)
+July 9, 2014
+23:17 Aure36MU: +6 COs sa rigol pa
+August 11, 2014
+22:20 Aure36MU: normal tes pd
+22:29 Fully: ça c'est pas sympa
+22:30 Aure36MU: tg tes loup
+22:30 Fully: mince
+22:30 Fully: comment as tu deviné
+22:30 Aure36MU: j'ai lu tes mp
+22:30 Aure36MU: (ce combo de private joke là)
+22:31 Aure36MU: Je mets Eagle même si j'ai pas fait les calculs comme une feignasse ?
+22:31 Fully: vas y
+22:31 Fully: .... j'ai fait presque aucun calcul tu sais
+22:32 Fully: je rajoute quelques notes par contre
+22:34 Fully: ça râme
+August 24, 2014
+23:51 Aure36MU: ^ du cul
+23:53 Aure36MU: Ah il est en bas ok
+23:53 Aure36MU: jpeux rajouter rapido mes deux lignes du début ;) ?
+23:53 Fully: vas y
+August 25, 2014
+0:56 Aure36MU: kom tu te souviens de tout
+13:22 Aure36MU: freakin' saved
+22:56 Aure36MU: Moi je go essayer de retrouver les changements que j'ai fait dans la damage chart à partir d'une ancienne version
+22:57 Aure36MU: J'en ai sûrement fait entre le 02/07 et le 20/08
+22:57 Fully: rofl
+22:57 Fully: good luck
+22:57 Aure36MU: (Je me contenterai de cette période pour l'instant)
+22:58 Aure36MU: Si j'arrive à copier les cellules sous forme de texte ça devrait être facile avec un comparateur
+22:59 Fully: hm, je suis partagé pour Jess
+22:59 Aure36MU: Ok j'ai pas accès au serveur qui m'a hébergé le fichier de Juillet -_____-
+22:59 Fully: je veux dire, O Brian balance du 20 de défense sur toutes les unités sur 3 cases
+22:59 Fully: et jess, bah c'est proche quoi
+22:59 Fully: mais ed balance du 20 d'attaque sur les véhicules directes
+23:02 Aure36MU: Hmmm du +10/+10 sur 3-4-5 ça reste honnête nn ?
+23:03 Fully: ouais mais je trouve ça sympa d'avoir la même taille que drake & eagle :p
+23:03 Fully: 10/20 c'est bien, j'ai boosté le SCOP
+23:03 Aure36MU: Et tu préfères pas avoir le couple Jess - Javier
+23:03 Fully: par contre, la CO Zone d'Adder, c'est un enfer
+23:04 Aure36MU: ogod en lisant ta liste je vois que t'es aussi pointilleux que moi en fait
+23:04 Fully: j'aime la balance :p
+23:04 Aure36MU: Alors le truc de Black hole GBA j'ai voulu faire un truc sympa avec les zones
+23:04 Aure36MU: Tu vois que de Kat à Maverick ça va en décroissance
+23:04 Aure36MU: (si t'as la bonne version)
+23:05 Fully: j'avais pas fait gaffe
+23:05 Fully: mais oui effectivement
+23:05 Fully: ... sauf que
+23:06 Fully: +1 de mouvement sur 3 cases, c'est broken dude
+23:06 Aure36MU: ce pd de 2shared veut pas me laisser DL tant pis
+23:06 Aure36MU: (c'est la seule version à faire ça, le seum)
+23:06 Fully: résultat, c'est Kat qui a 3 cases et adder qui a 2 cases now
+23:06 Fully: ça reste en décroissante remarque
+23:07 Aure36MU: Je vois pas le problème t'avais mis combien pour Kat
+23:07 Fully: 2-3-4
+23:08 Aure36MU: (J'avais switch Adder et Maverick il me semble)
+23:08 Aure36MU: Laule moi je l'ai à 3 donc je sais pas ce que t'as foutu, bah.
+23:08 Fully: je l'ai ptet changée un jour ???
+23:09 Aure36MU: c'est ça de pas avoir de changelog
+23:09 Fully: regarde moi priorité :p
+23:09 Aure36MU: donc en fait Adder a une CO-zone bland qui s'agrandit presque toute seule ??
+23:09 Fully: oui
+23:10 Fully: comme ça, il a plus de cop / scop
+23:10 Aure36MU: Bon je verrai ça, allons y dans l'ordre
+23:10 Aure36MU: (purée y a tellement de trucs)
+23:11 Fully: spa fini
+23:11 Aure36MU: Alors le SCOP je comprends pas car moi j'ai triplé l'attaque et la défense déjà
+23:11 Aure36MU: (de Levail)
+23:11 Fully: mais je t'avais passé une version y'a pas très longtemps
+23:11 Fully: j'avais changé justement
+23:12 Fully: car bon, vu qu'il a une armée de vétéran, +40/+40 pour tout le monde, bof quoi
+23:12 Aure36MU: J'ai une version du 4/08 mais c'est tout paf:
+23:13 Aure36MU: (et je crois avoir ajouté toutes les modifs qui me semblaient bien)
+23:13 Fully: roh, le concept de quadrillage est génial
+23:14 Aure36MU: j'ai jamais dit le contraire
+23:14 Fully: non mais je trouve ça épatant :p
+23:16 Aure36MU: Ah faut que je rajoute le char d'assaut qui a viré le 4/08 comme ça
+23:16 Fully: oui
+23:16 Fully: RIP
+23:16 Aure36MU: j'allais le dire
+23:16 Fully: pour catleia, je sais pas si c'est un buff ou pas
+23:17 Aure36MU: Pourquoi tu cherches compliqué (pour Catleïa)
+23:18 Aure36MU: Pas la peine de choisir si tu peux avoir les deux bonus en modéré
+23:18 Fully: ben ouais mais je veux la buff en fait, car elle a une CO Zone assez bof
+23:18 Fully: quoique
+23:18 Fully: bon
+23:18 Aure36MU: (et puis ça serait super chiant à coder dans mon éventuel simulateur, bon ok ça vaut pas y a déjà des trucs limites comme la SCOP de Lili :p )
+23:19 Fully: ouais, mais on va essayer de faire simple
+23:19 Aure36MU: C'est aussi que ça la différenciait bien des autres
+23:19 Aure36MU: Le fait qu'on puisse choisir est sympa je conçois
+23:19 Aure36MU: Mais bon si elle a +2 de portée limite on dirait Trak
+23:19 Fully: ouais, mais je trouve ça sympa d'avoir ed OU trak, mais t'as raison
+23:20 Fully: keep it simple
+23:20 Aure36MU: (pas que je sois contre des pouvoirs entre COs qui se ressemblent mais là on en a bcp donc il faut éviter si tu comprends paf: )
+23:21 Aure36MU: Le D2D de Klaus est hardcore aussi (bon j'imagine que tu ne voulais plus le -10% de prix qu'on a retiré de Hachi d'ailleurs)
+23:22 Fully: sais pas
+23:23 Fully: je voulais éviter le bonus à la Sasha car ben y'a sasha justement
+23:25 Aure36MU: Donc alors le SCOP de Levail ça donnerait quoi en clair
+23:25 Aure36MU: "+1 rang à tous ; Double les bonus d'attaque et de défense du rang" ?
+23:25 Fully: Triple les bonus d'attaque et double ceux de rang
+23:25 Fully: ça fait potentiellement +40/+20 pour tout le monde, ce qui est pas négligeable
+23:26 Aure36MU: Ah c'est tripler l'attaque et doubler la défense
+23:26 Aure36MU: meeeeeeeeeeeeeeh pourquoi pas toutes façons l'As est déjà powerful en défense.
+23:27 Fully: ouais mais 160/160 sur quasiment toute l'armée à la fin ?
+23:28 Fully: +10 de SCOP bien sur
+23:28 Fully: ça te fait 170/170
+23:28 Aure36MU: hehe
+23:29 Aure36MU: Priam y a de gros changements
+23:30 Fully: oui
+23:30 Fully: le concept me paraissait bof
+23:30 Aure36MU: Dommage pour le COP qui me paraît un tout petit peu vide mais bon ça peut faire gimmick
+23:30 Fully: ooooh
+23:31 Aure36MU: (bon en même temps Klaus c'est pareil sauf qu'il est bcp plus utile)
+23:31 Fully: ben le truc, c'est qu'il ajoute des villes
+23:32 Aure36MU: Alors enlever 2PV à toute unité sur route huuuh ? Je sais qu'il y a un moyen de transformer le pouvoir de Candy mais là paf:
+23:32 Fully: y'a pas 1590 routes non plus
+23:33 Aure36MU: Bon c'est vrai que ça dépend de la map comme d'habitude
+23:33 Aure36MU: J'vais paraître un peu chiant mais hmmm
+23:33 Aure36MU: Limite dans les villes ça peut se comprendre car on peut les capturer et ils offrent de la défense (surtout si c'est les tiens)
+23:33 Aure36MU: ce qui n'est pas le cas sur route ?
+23:34 Fully: ouais mais sur les routes ils sont genre super forts, yo
+23:34 Fully: non mais en fait, juste les cités ça me paraissait weak
+23:34 Aure36MU: olol
+23:34 Fully: et même un bonus défensif, ça me paraissait vachement passif comme CO
+23:34 Fully: je veux dire, il n'a RIEN pour push
+23:34 Aure36MU: En plus moi j'ai "Toute unité ennemie dans vos propriétés perd 3 PV et passe son tour. "
+23:34 Fully: à part une défense en ville / route, wha
+23:35 Fully: ah oui
+23:35 Aure36MU: Ca fait Candy en encore plus chiant
+23:35 Aure36MU: (Mais un semi-Candy vu que ça s'applique que dans les propriétés du CO lanceur du coup)
+23:36 Fully: je sais pas comment l'orienter humhum
+23:36 Aure36MU: btw le bonus en SCOP est de cmb
+23:37 Fully: euh, de défense ?
+23:37 Fully: je l'ai viré
+23:37 Fully: ça faisait trop
+23:37 Aure36MU: ah t'as viré aux deux
+23:37 Aure36MU: J'avais pas vu "les COP"
+23:38 Aure36MU: Et les réparations sont tjrs gratuites dans la COzone ?
+23:39 Fully: nope, c'est aussi pour ça que j'ai reworked
+23:39 Fully: because rachel
+23:39 Fully: remarque, vu que je vais remettre le super reparation à rachel
+23:39 Aure36MU: On l'a aussi viré à Rachel justement paf:
+23:40 Aure36MU: Le blèm c'est que du coup il a un effet plutôt fort à côté de ses COP imo
+23:40 Aure36MU: la progression des ruptures est ok mais c'est tout
+23:41 Fully: hm
+23:41 Fully: je vais voir ça
+23:42 Aure36MU: Le pouvoir de Tamerlan je le trouve coolios en originalité
+23:43 Aure36MU: Mais le problème c'est que si t'es en FoW tu fais comment ?? (j'imagine trop l'exception lol)
+23:44 Fully: ben
+23:45 Fully: euh
+23:45 Fully: tu passes aussi
+23:46 Aure36MU: Non mais t'as envisagé la possibilité qu'une unité ennemie que tu voies pas puisse être pile sur ta case de destination ? paf: (ça pourrait faire une embuscade au pire, mais je vois vraiment pas comment ça pourrait être fait. BON.)
+23:46 Fully: puush fait de la merde :<
+23:46 Fully: oui, c'est une embuscade dans ce cas, la case doit être libre
+23:46 Fully: si la case d'avant n'est pas libre, on revient encore avant
+23:46 Fully: etc...
+23:48 Fully: c'est ce qui me semble le plus fitting
+23:50 Fully: j'ai mis les nouveaux trucs en bas
+23:51 Aure36MU: Tu laisses tomber la défense directe ? paf:
+23:52 Fully: ouais
+23:52 Fully: ben disons que ça complique sans grand intérêt
+23:52 Aure36MU: Le concept de seconde réparation sur commande durant le tour j'aime bien (je l'avais fait sur un CO old si je me souviens)
+23:52 Fully: défense DIRECTE seulement EN PROPRIETE
+23:52 Fully: ca fait beaucoup
+23:53 Aure36MU: Ah non je pensais qu'il gagnait la défense directe de partout moi
+23:53 Fully: ah mais non, justement je crois non ?
+23:53 Fully: je me rappelle plu
+23:54 Aure36MU: Mobilisation : Réparations gratuites dans la CO-zone. +20% de défense directe dans les villes et les routes.
+23:54 Fully: ouais voilà
+23:54 Aure36MU: C'est à la fois pas pété et ça lui laisse une faiblesse stu veux
+23:54 Fully: c'est trop situationnel
+23:55 Fully: et puis, c'est un CO sensé briller en défense
+23:55 Fully: genre tu walles ta base plein de propriétés
+23:55 Fully: sauf que si tu es assiégé, tu n'as RIEN
+23:55 Aure36MU: si c'est son gimmick, dans ce cas d'accord.
+23:56 Fully: pense à o brian, il a 20% partout
+23:56 Fully: faudrait encore augmenter sa zone, et j'aime pas trop les zones à 4-5-6
+23:56 Aure36MU: cette fois Priam est ok
+23:57 Aure36MU: J'ai modifié Ardan aussi (y aura aussi une exception un peu chiante à mettre en place mais osef tant que c'est de la théorie)
+23:58 Fully: k
+August 26, 2014
+0:09 Aure36MU: lol y a eu huit minutes de perdues sur le chat, faudrait se MP sur Pidgin
+July 5, 2016
+
+
+
+-----
+FRAKIN' SAVED
+
+-------CECI EST UN RAMASSIS DE CONNERIES POUR DISSUADER LES GENS DE LIRE THXBY------
+lol
+
+Gaël Monfils boit du lait -> Et ça se voit
+Régénère de 1 toutes les unités dans la CO
+
+Tsonga : On partage ?
+Le prochain tour, la moitié des gains d'argent de l'adversaire vous reviennent
+
+Nadal : Pas dopé du tout
+CO Zone = Carte. SI contrôle anti-dopage : auto lose
+
+GlaDOS : Thinking with portals
+Vous déplacez une unité ennemie de votre choix.
+
+Super Mario.
+Super Power : STARMAN : Aucune unité ne peut être détruiteNEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEERFnanjdèctkt
+
+Super Luigi.
+Second banana : Attaque + 50%. N'attaque jamais en premier. (hello l'indirect)
+
+Maruhai
+Super power : La réponse
+TOUTE attaque fait 42% de dégâts. (rofl ptdr on dirait la frappe atlas dans Pokémon)
+cc l'infanterie sur le Méga Tank et cc dans ta face Kanbei
+
+François Hollande
+"""Justice""" sociale : A chaque fois que votre adversaire achète une unité, vous gagnez 75% de son prix. A chaque fois qu'une de vos unités est détruite, vous perdez 50% de son prix.
+
+--------FIN DU RAMASSIS DE CONNERIES THXBY-------
+
+
+
+<--CHANGELOG A LA TOUTE FIN (parce que oui y en a un omg enfin de l'organisation)-->
+------------------------
+
+*Syntaxe des nouveaux CO's :
+-Nom-
+CO zone : x cases [n'augmente pas] // ou // x,y,z cases [augmente selon la barre]
+Effet de la CO-zone : Un effet spécial, ou un certain bonus d'attaque ou de défense sur un type précis d'unité, ou toutes les unités [ceci est équivalent au Day2Day lorsque le général monte dans une unité]
+Rupture [Lorsque la barre arrive au milieu] : Description
+SUPER rupture [Lorsque la barre est pleine] : Description
+
+
+Jake
+CO Zone : 2,3,4 cases
+Effet : Prairies : Toutes les unités sur plaine gagnent +20% d'attaque
+Rupture : Offensive : Plus de pénalité de mouvement sur les plaines. Toutes les unités sur plaine gagnent +10% additionnels.
+SUPER Rupture : Hypercombat : Plus de pénalité de mouvement sur les plaines. Toutes les unités sur plaine gagnent +20% additionnels. +1 de mouvement pour tous les véhicules  directs terrestres.
+
+Rachel
+CO Zone : 4,5,6 cases
+Effet : Camaraderie : Les unités sont réparées plus rapidement (3 PV)
+Rupture : Bonne étoile : Les unités peuvent atteindre +30% d'attaque.
+SUPER Rupture : Pillonage : Tire deux missiles sur les unités ennemies.
+
+Andy
+CO Zone : Le général n'a pas besoin d'être embarqué pour faire augmenter la jauge de Rupture.
+Effet : Aucun
+Rupture : Réparafond : Toutes les unités gagnent 2 PV et +1 de mouvement.
+SUPER Rupture : Génie logistique : Toutes les unités gagnent 3 PV et +1 de mouvement.
+
+Max
+CO Zone : 1,2,3 cases
+Effet : Attaque frontale : +30% d'attaque unités directes.
+Rupture : Max en force : +20% supplémentaire pour les unités directes.
+SUPER RUPTURE : Puissance Max : +40% supplémentaire pour les unités directes
+
+Sami :
+CO Zone : 3,4,5 cases
+Effet : Forces spéciales : +20%/+30% infanterie / Motard et +2 de captures
+Rupture : Marche forcée : +1 de mouvement pour les infanteries / motards, +20% d'attaque supplémentaire, +3 de capture supplémentaire.
+SUPER Rupture : Conquête : +2 de mouvement pour les infanteries / motards, +20  d'attaque supplémentaire, +8 de capture supplémentaire.
+
+Nell
+CO Zone : 3,4,5 cases
+Effet : Bonne fortune : Les unités peuvent atteindre +20% d'attaque.
+Rupture : Bonne étoile : Les unités peuvent atteindre +40% d'attaque.
+SUPER Rupture : Lady la chance : Les unités peuvent atteindre +60% d'attaque.
+
+Hachi
+CO Zone : 4-5-6 cases
+Effet : Economies : Toutes les unités ont +10% de défense.
+Rupture : Troc : Toutes les unités coûtent 50% moins cher durant ce tour.
+SUPER rupture : Union marchande : Toutes les unités coûtent 50% moins cher durant ce tour. Les unités terrestres peuvent être construites à partir des villes et du QG. Toutes les unités ont +10% d'attaque.
+
+Olaf
+CO zone : 3,4,5 cases
+Effet : Nordique : Les unités ne sont pas affectées par la neige. +10/+10 sous la neige.
+Rupture : Enneigement : Il neige durant 1 tour. +10% d'attaque(supplémentaire) et de défense pour toutes les unités.
+SUPER rupture : Blizzard : Il neige durant 2 tours. +10% d'attaque supplémentaire et de défense pour toutes les unités.
+
+Grit
+CO Zone : 2,3,4 cases
+Effet : Sniper : +30% d'attaque de tir indirect
+Rupture : Embuscade : +2 de portée pour les unités de tir indirect. 
+SUPER Rupture : Ligne de mire : +2 de portée pour les unités de tir indirect. +20% d'attaque supplémentaire pour celles-ci.
+
+
+Colin
+CO Zone : Map
+Effet : Plein aux as : Toutes les unités coûtent -10% et ont -10% d'attaque. Le général coûte seulement 20% à embarquer (au lieu de 50%)
+Rupture : Ruée vers l'or : Double les réserves d'argent.
+SUPER Rupture : POWER OF MONEYYY : Bonus de 2% d'attaque par millier d'argent.
+
+Sasha
+CO Zone : 5,6,7 cases
+Effet : Charme : Les propriétés rapportent +100/jour
+Rupture : Démoralisation : La jauge de Rupture des adversaires revient à 0 et ne peut pas augmenter jusqu'à la fin du tour.
+SUPER Rupture : Précepteur : 20% des dégâts infligés sont transformés en argent et font baisser la jauge de Rupture de l'adversaire.
+
+Drake
+CO zone : 2;3,4 cases
+Effet : Loup de mer : Navires +30/+10
+Rupture : Tsunami : Divise par 2 les munitions et les réserves d'essence adverses.
+SUPER Rupture : Typhon : Divise par 2 les munitions et les réserves d'essence adverses. -2 PV pour toutes les unités adverses.
+
+Eagle
+CO Zone : 2,3,4 cases
+Effet : Pilote illustre : Les avions ont +30/+10
+Rupture : Coup de tonnerre : Les unités aériennes ne consomment pas d'essence ce tour-ci et ont +20/+10.
+SUPER Rupture : Foudre : Toutes les troupes utilisées peuvent rejouer. 
+
+Jess
+CO Zone : 2,3,4 cases
+Effet : Analyste : Les véhicules terrestres ont +10/+30
+Rupture : Turbo : Réapprovisionne les véhicules terrestres et +1 de mouvement pour ceux-ci.
+SUPER Rupture : Pleine puissance : Réapprovisionne toutes les unités. Les véhicules terrestres ont +20% d'attaque supplémentaire et +1 de mouvement.
+
+Javier
+CO Zone : 3,4,5 cases
+Effet : Faire front : +30% de défense contre le tir indirect.
+Rupture : Boucliers d'aciers : Double l'effet des tours de communication. +20% supplémentaire de défense contre le tir indirect.
+SUPER Rupture : Garde royale : Triple l'effet des tours de communication. +40% supplémentaire de défense contre le tir indirect.
+
+Kanbei
+CO Zone : 1,2,3 cases
+Effet : Daimyo : +20% d'attaque et +30% de défense. Vous devez payer 10% du coût de chacune des unités présentes dans la CO Zone au début de votre tour.
+Rupture : Courage : +20% de défense supplémentaire et +30% d'attaque sur les contre-attaques. Aucun coût lié à la CO Zone.
+SUPER Rupture : Esprit samouraï : +30% de défense supplémentaire et +50% d'attaque sur les contre-attaques. Aucun coût lié à la CO Zone.
+
+Sonja
+CO Zone : 3,4,5 cases
+Effet : Longue-vue : Réduit la couverture défensive des adversaires de 1. Augmente la vision des unités de 1.
+Rupture : Oeil de Faucon : Permet de voir dans les bois & récifs. Réduit la couverture défensive des adversaires de 2.
+SUPER Rupture : Contre-offensive : Permet de voir dans les bois & récifs. Réduit la couverture défensive des adversaires de 2 et contre-attaque la première.
+
+Sensei
+CO Zone : 2,3,4 cases
+Effet : Parachutistes : +40/+10 pour les hélicos & infanterie.
+Rupture : Forces hélicos : +1 de mouvement pour les unités de transport. Toutes les unités d'infanterie, de transport et d'hélico sont soignées intégralement.
+SUPER Rupture : Frappe aérienne : +2 de mouvement pour les unités de transport. Des unités d'infanterie à 9 PV apparaissent dans toutes vos villes.
+
+Grimm
+CO Zone : 1,2,3 cases
+Effet : En avant : +30% d'attaque. Pas de bonus de défense.
+Rupture : Concassage : 15% d'attaque supplémentaire
+SUPER Rupture : Kamikaze : +30% d'attaque supplémentaire
+
+Kat
+CO Zone : 2,3,4 cases
+Effet : Terrain favorable : Utilise la couverture défensive pour booster ses attaques (5% par étoile).
+Rupture : Francs-tireurs : Aucune pénalité de mouvement
+SUPER Rupture : Commando : Aucune pénalité de mouvement. Double l'effet de la couverture.
+
+Maverick
+CO Zone : 1,2,3 cases
+Effet : Présence noire : +20/+10.
+Rupture : Vague noire : -1 PV contre toutes les unités adverses.
+SUPER Rupture : Orage noire : +1 PV pour toutes ses unités et -2 PV pour toutes les unités adverses.
+
+Jugger
+CO Zone : Map
+Effet : Random : Les dégâts varient +15/-5
+Rupture : Martèlement : Les dégâts varient +45/-10
+SUPER Rupture : Tous azimuts : Les dégâts varient +75/-15.
+
+Zak
+CO Zone : 3,4,5 cases
+Effet : Autoroutes : +20% d'attaque depuis les routes.
+Rupture : Attaque éclair : +1 de mouvement, +10% supplémentaire depuis les routes.
+SUPER Rupture : Blitzkierg : +2 de mouvement, +20% supplémentaire depuis les routes.
+
+Candy
+CO Zone : 2,3,4 cases
+Effet : Combat urbain : +30% d'attaque depuis les bâtiments.
+Rupture : Révolution : -2 PV pour toutes les unités adverses sur des bâtiments. +10% supplémentaires depuis les bâtiments.
+SUPER Rupture : Féroce cité :+2% pour châque bâtiment possédé, +20% supplémentaires depuis les bâtiments.
+
+Von LOLt
+CO Zone : Map
+Effet : +10/+10
+Rupture : Nah.
+SUPER Rupture : Foudre ultime : Envoie un missile de 4*4 sur la plus grosse concentration d'ennemis. - 3 PV aux unités touchées et elles ne peuvent pas agir au prochain tour.
+
+------ REMAXE AW : DoR ---------------
+Ed 
+CO Zone : 2,3,4
+Effet : Attaques terrestres : +20% d'attaque aux véhicules directs
+Rupture : Commando : +2 de mouvement pour les unités terrestres d'attaque directe.
+SUPER Rupture : Espoir : +2 de mouvement et +20% d'attaque pour les unités terrestres d'attaque directe.
+
+O'Brian
+CO Zone : 3,4,5
+Effet : Défense totale : +20% de défense
+Rupture : Sauvetage : +3 PV pour toutes les unités
+SUPER Rupture : Persévérance : +3 PV pour toutes les unités. Si une unité ayant plus de 1 PV devait être détruite, il lui reste 1 PV à la place.
+
+Lin
+CO Zone : 1,2,3
+Effet : Elite terrestre : +20/+20 aux unités terrestres
+Rupture : Vision de nuit : +2 de vision pour les unités terrestres + voit dans les récifs & forêts (etc...)
+SUPER Rupture : Quadrillage : Les unités adverses perdent 1 PV pour chaque point de couverture qu'elles ont. <- HOLY SHIT
+
+Catleia :
+CO Zone : 2,3,4
+Effet : Encouragement général : +10/+10 à toutes les unités
+Rupture : Myrmidons : +1 de portée et de déplacement pour toutes les unités.
+SUPER Rupture : Argonautes : +2 de portée / déplacement pour toutes les unités.
+
+Zadia :
+CO Zone : 1,2,3
+Effet : Attaque aérienne : +40/+20 aux unités aériennes
+Rupture : Horizon : +2 de déplacement aux unités aériennes
+SUPER Rupture : RAF Tactics : +2 de déplacement aux unités aériennes. +40% d'attaque contre les autres unités aériennes, +20% contre les autres.
+
+Trak :
+CO Zone : 2,3,4
+Effet : Attaque longue portée : +20/+10 aux unités indirectes & aux navires
+Rupture : Amplitude : +2 de portée
+SUPER Rupture : Magnitude : +2 de portée. Les unités indirectes peuvent riposter avec une attaque directe (60% de puissance). <- Lol rien que pour ça je le prends
+
+Carter :
+CO Zone : 5
+Effet : Charisme : +10/+10 à toutes les unités
+Rupture : nope.avi
+SUPER Rupture : [idée provisoire] Les unités ennemis ne peuvent contre-attaquer. A chaque offensive donnée, l'attaque de vos unités augmente de 5%. La limite est de 8 offensives, toutes vos unités ont alors 150% d'attaque.
+
+Finn:
+CO Zone : 2,3,4
+Effet : Défense aérienne : +20/+30 aux unités aériennes
+Rupture : Fuselage : +270% de défense aux unités aériennes
+SUPER Rupture : Opportunisme : +270% de défense aux unités aériennes. +10% d'attaque pour chaque PV manquant (0 à 10 PV).
+
+Sigismundo
+CO Zone : 2,3,4
+Effet : Défense maritime : +10/+40 aux unités maritimes & aux hélicos
+Rupture : Soutien logistique : Ravitaillement complet (ressource compris)
+SUPER Rupture : Grande Armada : Ravitaillement complet (ressource compris). +1 de mouvement et +40% de défense pour toutes les unités maritimes.
+
+Lili :
+CO Zone : 2,3,4
+Effet : Imperméabilité : Immunité au climat
+Rupture : Enigme : Modification du climat pour 2 tours.
+SUPER Rupture : Paradoxe : Sélectionnez le temps pour les 2 prochains tours.
+
+Larissa 
+CO Zone : 0,1,2 (omg)
+Effet : +50/+50 à toutes les unités
+Rupture : Ravage : Envoie un missile : 4 dégâts sur 2 cases autour de la cible.
+SUPER Rupture : Hécatombe : 8 dégâts sur 2 cases autour de la cible.
+
+Stolos : Fétoaplaizaure
+
+[Lol j'ai tout mis dans le tableur oué]
+Sa vie, son œuvre : Stolos est le personnage le plus badass qui nous ait jamais été donné de rencontrer. Commençant des études dans la science, les cours ne l'intéressèrent guère et commença à mener ses premières expériences en solo. A 30 ans, il fonda la compagnie IDS : Exécutant divers opérations illégales dans le pays, il fit rapidement faillite, et commença à commettre divers larcins en secret. Entre autres : Expériences sur des humains innocents. Il découvrit comment cloner un être vivant et s'empressa de le faire sur lui-même, plus quatre enfants. Ces multiples copies vivent reclus dans son laboratoire souterrain, construit en secret. Pour tout dire la vérité : Le cataclysme des aérolithes fut providentiel, et Stolos en profita pour sortir de l'ombre et, -enfin- continuer ses expériences sur le terrain... Vous dites ? C'est un vieux fou pervers ne trouvant son intérêt que dans la mort ? Vous mentez. Ce mec est juste FASCINATING !
+
+CO Zone : -3.14, 42, 9000
+Effet : Utiliser Stolos dans le jeu vous fait automatiquement bannir de toutes les parties multijoueurs ou en ligne, et de tous les tournois. Merci qui ?
+Rupture : Triche : Ravitaille toutes les unités, leur donne 10 PV supplémentaires (elles peuvent dépasser les 10 PV max.), leur donne le double de mouvement et de portée, toutes les unités ennemies passent un tour, vos unités de transport peuvent attaquer (omfg), votre Q.G est maintenant impossible à capturer, il faut que l'ennemi vous bute d'abord, upgrader un mégatank au niveau As vous fait instantanément gagner le jeu, et ce n'est pas tout : Ce pouvoir vous prépare également un sandwich gratuitement. Merci qui ?
+SUPER Rupture : Fascinating ! : Vous dominez le monde entier. A ce point-là, que demander de plus. Merci qui ?
+
+
+------ NEW CO -----
+Levail
+Un jeune commandant dont la loyauté lui a permi de gravir rapidement la hiérarchie. Mais c'est loin d'être un arriviste
+CO Zone : 3,4,5 cases
+Effet : Loyauté : Double les bonus d'attaque liées au rang
+Rupture : Capitanat : Toutes les unités gagnent un rang.
+SUPER Rupture : Promotion générale : Triple tous les bonus d'attaque liés au rang.
+
+Klaus
+Un magnat de l'industrie pour qui la guerre n'est qu'un moyen comme un autre pour gagner de l'argent.
+CO Zone : 3,4,5 cases (affecte les bâtiments). Se remplit en achetant des unités.
+Effet : Lobby industriel : -10% de coût d'achat.
+Rupture : Industrialisation : Les unités achetées ce tour-ci peuvent agir.
+SUPER Rupture : Surproduction : Les unités achetées ce tour-ci peuvent agir et coûtent -40% (soit un total de -50%).
+
+Formiotoriis
+Un général dont le passé est inconnu. Violent et sanguinaire, il est cependant un allié de confiance... à quel prix.
+CO Zone : 1,2,3 cases
+Effet : Goût du sang : +30% d'attaque pour les unités directes. A chaque fois qu'une unité détruit un bataillon adverse, elle gagne +1 PV.
+Rupture : Instinct : Annule les pénalités de mouvement.
+SUPER Rupture : Déchainement de sang : Annule les pénalités de mouvement et +20% d'attaque pour toutes les unités.
+
+Priam
+Ancien maire de Throi, il a tout perdu lors de la destruction de sa ville lors d'une "mission d'entrainement" et désire plus que tout savoir qui est derrière ce cheval géant de métal qui était en réalité une bombe. Il coopère avec Red Nova dans cette optique.
+CO Zone : 3,4,5 cases
+Effet : Mobilisation : Réparations gratuites. +20% de défense directe dans les villes & routes.
+Rupture : Urbanisation : +20% de défense directe (+ éventuel bonus de terrain). Les constructions d'aéroport et de port provisoires ne prennent qu'un tour.
+SUPER Rupture : Guérilla urbaine : +40% de défense directe (+ éventuel bonus de terrain). Toutes les unités ennemies situées sur des propriétés à vous perdent 3 PV et passeront leur tour.
+
+Heyden
+Commandant de la division des renseignements, ce général sait tout ce qu'il faut savoir, sans que personne ne sache comment. Il est les yeux et les oreilles de Red Nova.
+CO Zone : 4,5,6 cases
+Effet : Renseignement : +10% d'attaque pour les unités directes.
+Rupture : Guet-Apens : Vous gagnez vision totale sur toutes les propriétés et vous pouvez placer une mine sur une case : lorsqu'une unité adverse tombe dessus, cela arrête son mouvement et elle perd 3 PV.
+SUPER Rupture : Espionnage : Vous gagnez vision totale sur toutes les propriétés. Lorsque vos unités tombent sur une unité adverse, elles peuvent modifier leur mouvement ou attaquer.
+
+Khrall
+Saboteur expert, il a risqué plus d'une fois sa vie pour la beauté des explosions. Impulsif, il sous-estime souvent les risques de ses opérations. Travaille généralement pour Red Nova.
+CO Zone : 2,3,4 cases
+Effet : Outsider : +40% d'attaque pour les unités directes lorsqu'elles sont en désavantage (aka Jaune / Rouge) AVANT prise en compte du bonus.
+Rupture : Sabotage : Leurs unités dépensent 2x plus de munitions et de carburants lors des déplacements.
+SUPER Rupture : Black-out : Les adversaires ne peuvent pas ni ravitailler ni réparer. Les unités de transport ennemies ne peuvent pas bouger (mais peuvent continuer à construire / charger / décharger).
+
+Tamerlan
+Commandant de la section des éclaireurs, il a toujours un pied d'avance. Insaisissable, ses adversaires n'ont généralement que le temps de compter leurs blessures. Très secret, on raconte qu'il aurait fui la direction de son pays natal avant de venir à Red Nova.
+CO Zone : 2,3,4 cases
+Effet : Wagenburg : +30% de défense pour les véhicules directs et les transports.
+Rupture : Comme un murmure : Les unités directes peuvent attaquer puis bouger d'une case. +20% de défense pour toutes les unités.
+SUPER Rupture : Tactiques Parthes : Les unités directes peuvent attaquer puis terminer le reste de leur mouvement. Les unités sortant de transports peuvent agir (-50% d'attaque, -2 mouvement).
+
+Peitr
+Artilleur de renom, c'est un mercenaire qui aime beaucoup son travail. C'est à dire envoyer des obus sur la tête de ceux qui ont moins payé que les autres pour s'offrir ses services.
+CO Zone : 1,2,3 cases
+Effet : Artificier : +10/+40 aux unités indirectes.
+Rupture : Bombe à fragmentation : +20% d'attaque aux unités indirectes. Les unités adjacentes aux unités touchées par vos unités indirectes perdent 1 PV.
+SUPER Rupture : Bombardement : +30% d'attaque aux unités indirectes. Les unités adjacentes aux unités touchées par vos unités indirectes perdent 1 PV et 1 de mouvement (la perte de mouvement ne stack pas).
+
+Damian
+Ingénieur de métier, il s'est tourné vers l'armée pour satisfaire son envie de créer des engins. Souvent inconscient du potentiel mortel de ses armes, il reste très fiable.
+CO Zone : 2,3,4
+Effet : Haute technologie : Les unités coûtant 14 000+ ont +10/+20.
+Rupture : A la pointe : Réapprovisionne toutes les unités. Bonus de CO abaissé à 11 000.
+SUPER Rupture : Secret-défense : Bonus de CO abaissé à 11 000. Vous gagnez la moitié de la valeur de toutes vos unités coûtant 14 000+.
+
+Erik
+Impressionnant chef de guerre d'un pays lointain et barbare, il s'est vite aux armes modèles pour paraitre encore plus impressionnant. Sa barbe rouge est légendaire.
+CO Zone : 3,4,5
+Effet : Intimidation : Les unités adverses ont -20% d'attaque.
+Rupture : Cri de guerre :  Les unités adverses ont -20% de défense.
+SUPER Rupture : Hurlement de rage : Les unités adverses perdent 1 de mouvement et n'attaqueront pas une unité dont la valeur est supérieure à la leur (Valeur = Cout * PV)
+
+Vigarde
+Commande d'une légion de mercenaire, il dit toujours "Qui peut lutter lorsque le tank qu'il vient d'abattre est remplacé par un autre la seconde d'après ?"
+CO Zone : 2,3,4
+Effet : Meute : Les unités coûtant 9000- ont +30/+10
+Rupture : Horde : Les unités ayant fusionné peuvent continuer d'agir si les deux unités pouvaient agir avant fusion. Les unités coûtant 9000- gagnent +10% d'attaque supplémentaire.
+SUPER Rupture : L'union fait la force ! : Vos unités gagnent 2% pour chaque unité que vous contrôlez (fixé au début du tour).
+
+Eirika
+Dans l'armée depuis ses 15 ans, cette femme a du combattre dur pour lutter contre les préjugés. Elle est toujours sur ses gardes pour prouver qu'elle mérite sa place.
+CO Zone : 2,3,4
+Effet : Ligne défensive : +2% de défense pour toutes les unités pour chaque unité dans la CO Zone.
+Rupture : Tranchée : Le bonus est abaissé à 1% (bawi, ça prend toute la map). Les contre-attaques sont 40% plus puissantes.
+SUPER Rupture : Mur de fer : Le bonus est abaissé à 1%. Contre-attaques 50% plus puissantes. Pour chaque case parcourue, les unités adverses perdent 4% d'attaque.
+
+Syrene
+Sans peur et (presque) reproche, cette commandante téméraire n'hésite pas à se lancer à corps perdu dans la mêlée.
+CO Zone : 1,2,3
+Effet : Troupe de choc : 20%/10% toutes les troupes
+Rupture : Avancée : Contre-offensive de votre adversaire 10% moins forte pour chaque case parcourue avant votre attaque.
+SUPER Rupture : Chargez ! : Vos unités gagnent +10% d'attaque pour chaque case parcourue avant leur attaque.
+
+Ardan
+Général de Purple Nebulae, Ardan a pour ainsi fait et défait la vie politique de son pays, mais jamais aveuglément. Blindé de relations, il connait tout le monde, et c'est l'homme à connaitre… de préférence de son côté.
+CO Zone : 3,4,5
+Effet : Cohésion : +30% de défense aux troupes terrestres.
+Rupture : Discipline : Toutes vos unités subissent -10% dégâts (bruts : 55% ? 45%, reste sujet à la chance).
+SUPER Rupture : Coup d'état : Toutes vos unités subissent -15% dégâts (bruts : 55% ? 40%, reste sujet à la chance). Un Tank apparaît dans tous les QG. +1 mvt pour les unités terrestres.
+
+Boris
+Président actuel de Purple Nebulae. Ardan pense que c'est sa marionette, mais ce jeune président nourrit des ambitions un peu plus élevées…
+CO Zone : 2,3,4
+Effet : Ambition : +10/+20 aux unités de rang 2 ou As.
+Rupture : Ralliement des foules : Toutes les unités adverses ayant 2 PV ou moins changent de camp.
+SUPER Rupture : Trahison : A chaque fois qu'une unité devrait être tuée, elle vous rejoint avec 2 PV à la place (et peut agir immédiatement).
+
+Rolland
+Officier de l'armée de Purple Nebulae, et élève d'Ardan. Il est fier de son maître, mais pense qu'il s'est affaibli avec l'âge. Il est en particulier méfiant du nouveau président. Son mot d'ordre : méfiance absolue.
+CO Zone : 2,3,4
+Effet : Retranchement : +40% de défense aux unités directes.
+Rupture : Célérité : Les ripostes ennemies sont 50% moins puissantes.
+SUPER Rupture : Frappe préventive :  A chaque fois que votre adversaire attaque une de vos unités (attaque directe seulement), elle perd 2 PV avant l'attaque.
+
+
+
+-----------------------------------------------------------------------------------
+
+    Présentation des unités
+
+
+TERRESTRE
+Infanterie
+Bazooka
+Motard
+Recon
+Fusée éclairante
+Tank
+Char d'assaut
+Medium tank
+Porte étendard
+Neotank
+Mégatank
+Tank AA
+Missiles AA
+Artillerie
+Canon de campagne
+Canon défensif
+Lance roquettes
+Obusier
+VTA
+VTB/Génie (*)
+Mur de défense
+
+MARINE
+Vedette
+Barge (*)
+Lance torpilles (!)
+Destroyer (!)
+Submersible (!)
+Croiseur
+Cuirassé
+Porte-avion
+
+AVIATION
+Hélico transport (*)
+Hélicoptère
+ARA
+Avion de chasse
+Bombardier
+Chasseur/ASA
+Intercepteur
+Furtif
+
+(*) : Unité de transport ne pouvant pas attaquer
+(!) : Signifie que l'unité peut attaquer un SUB immergé
+
+
+------ COMMENTAIRES UNITES ------
+
+
+    -> Infanterie
+Etant donné que c'est l'unité la moins chère du jeu (1500G), il est normal que ses performances en combat soient fortement limités.
+Il n'est réellement efficace... que contre lui-même. Cette unité vous servira pour les captures étant donné son prix, ce qui vous permettra d'en produire beaucoup.
+En défense, faites attention car n'importe quelle unité en pleine forme lui enlèvera au moins la moitié de sa vie. La seule unité qui inflige moins de dégâts à l'infanterie, mis à part lui-même, est... l'ARA (50%).
+Une Infanterie au rang As saura se débrouiller contre d'autres soldats, mais devra toujours craindre les autres unités.
+Avec cette unité, il est vital de se servir du terrain pour attaquer et prendre l'avantage ! Une offensive menée de la montagne n'a rien à voir avec une offensive menée de la route.
+En bref, une unité de début de partie qui donnera le ton et l'avantage à celui qui saura le mieux l'utiliser.
+
+    -> Bazooka
+Cette unité est une infanterie améliorée. Gardant ses propriétés de capture, il possède une plus grande force d'attaque, mais en contrepartie c'est l'unité la moins mobile du jeu (2 mvt).
+Enfin... la moins mobile peut-être, mais son type de mouvement lui permet d'avancer d'une case par terrain, même sur les montagnes. Sinon, sachez que les unités de transport se révèlent très utiles pour le Bazooka.
+Il n'empêche que pour tirer pleinement parti de cette unité, vous devez l'escorter de près et vous en servir à bon escient pour entamer ou finir les adversaires (il peut détruire un tank à 5PV, profitez-en !)
+Un Bazooka montant au rang As peut également vous être utile car sa puissance d'attaque encore améliorée peut carrément détruire certains ennemis en un coup !
+
+    -> Motard
+Cette unité, également une infanterie améliorée, ne bénéficie pas du même bonus d'attaque que le Bazooka mais tire son épingle du jeu grâce à son mouvement.
+En effet, un soldat à 5 de mouvement est extrêmement utile en début de jeu et vous garantit une grande mobilité tout de suite, pour 2500G seulement. (Le combo Infanterie + VTB coûtait 1000 + 5000 dans les opus GBA).
+La meilleure utilité du Motard est donc de capturer les villes lointaines avant les villes proches en début de partie, ce qui vous procure une avance considérable sur les fonds gagnés.
+
+    -> Recon
+Voici le Recon, unité spécialisée dans la reconnaissance comme son nom l'indique. Il possède la plus haute vision du jeu en brouillard de guerre (5), couplé avec un mouvement élevé (8). Sa mobilité est son meilleur atout comme toute unité de reconnaissance. Attention par contre : le Recon est sur des roues, et sera grandement limité en plaines (4 cases), ou pire en forêt.
+En dehors du brouillard de guerre, son utilité n'est pas si grande mis à part calmer les soldats qui s'approcheraient un peu trop de vos propriétés.
+Enfin, il se révèle d'une utilité certaine contre les indirects, leur causant presque 50% de dommages en moyenne. Et ce n'est que grandissant dans le cas des unités suivantes... mais le Recon sera une solution peu coûteuse pour infliger des dégâts "gratuits" aux indirects.
+    
+    -> Fusée éclairante
+Pour 1000G de plus, vous obtenez une unité de reconnaissance d'un genre différent. Il ne possède pas une excellente vision de base, mais ses trois fusées éclairantes embarquées pourront vous aider dans votre tâche. Ces fusées peuvent éclairer tout type de terrain à deux cases de rayon.
+A noter que sa mitrailleuse est légèrement plus puissante que le recon et son blindage est également plus solide, donc pour son prix, il peut se révéler une unité indispensable dans certaines situations (brouillard de guerre...)
+
+    -> Tank
+Une unité blindée classique. Par rapport à son prix il possède une puissance plutôt correcte contre la plupart des unités terrestres. Idéal tant pour attaquer en surnombre que pour contenir une avancée.
+En pratique, c'est l'unité qui termine la phase de commencement, puisqu'à partir de là, les joueurs débuteront tout de suite une construction d'unités plus chères. En particulier, le Tank est très efficace contre toutes les unités moins chères que lui, qui servent beaucoup au commencement du jeu. Le Tank marque donc la transition entre le début de partie et le milieu de partie, et quoi de mieux pour commencer cette phase, qu'une unité blindée d'une puissance et mobilité correctes ?
+
+    -> Char d'assaut [DELETED]
+Nouvelle unité dans cette charte, il est inspiré du fameux Tank normal avec quelques petites modifications.
+Tout d'abord, il est plus cher (7000 + 1500 = 8500G). Cela au profit d'un point de mouvement supplémentaire (7 en chenilles, ce qui vous permettra une excellente mobilité, sauf en terrain difficile où il a la même vitesse que le Tank).
+Il embarque également 9 munitions et 90 de fuel (comparez-le au Tank basique à 6 munitions et 70 fuel), ce qui fait que vous n'aurez quasiment pas besoin de ravitaillement. Cependant, sa puissance est moins grande tant au niveau attaque que défense. Assez bizarre me direz-vous, pourquoi payer plus cher pour une unité moins puissante ?
+En réalité, cette unité ne s'utilise pas comme un tank ordinaire. Faible contre les blindés, il reste assez puissant contre les terrestres légers et les indirects, cela peut être une solution alternative au Recon, à la Fusée éclairante ou au Tank AA. Il est idéal pour percer des défenses faibles grâce à son mouvement supérieur.
+En défense, il se révèle plus faible que le Tank mais un tout petit peu plus fort que le Tank AA.
+
+    -> Medium tank
+Plus fort, plus gros, plus cher que le Tank. Il est meilleur contre les unités lourdes notamment, grâce à son blindage supérieur. Son prix correct en fait une excellente unité de front, ou alors pour embarquer un CO.
+Il est cependant moins adapté pour les manoeuvres à cause de sa vitesse un peu plus limitée.
+
+    -> Porte étendard
+L'unité de soutien par excellence. Sa mitrailleuse lourde n'est utile que contre les unités faiblement blindées (infanterie et indirect en particulier).
+Mais il a de bonnes statistiques défensives, une vitesse correcte lui permettant d'accompagner raisonnablement des groupes de tanks.
+Surtout, c'est sa capacité à donner +5% aux unités qui l'entourent qui en fait une unité importante. La différence, quoique faible, peut transformer une offensive en donnant un avantage d'un PV à l'unité attaquante. 
+Même s'il ne se cumule pas, ce bonus est bon à prendre si vous misez sur d'autres choses comme les tours de com., tout pouvoir de général, ...
+
+    -> Neotank
+Rapide et brutal, tel est le Neotank. Il a la capacité de déplacement d'un Tank et une puissance de feu supérieure à celle du Tank Medium.
+Qui plus est, dans les anciens opus il pouvait très bien agir sans soutien avec ses nombreuses munitions. Seulement ici, le nombre de munitions maxi est rabaissé de 9 à 5.
+Fer de lance d'offensives coûteuses, c'est une unité ne présentant aucun point faible majeur, en dehors de son coût. Son mouvement de 6 lui permet en particulier de détruire les Lance-Roquettes sans avoir à s'exposer.
+
+    -> Mégatank
+Très peu d'unités sont capables de faire face au Mégatank. Les unités mineures sont simplement annihilées par son canon dévastateur.
+Mais s'il est le roi du combat direct et constitue une pièce défensive formidable, il n'est pas recommandé pour l'offensive : il est lent, a peu de munitions et est, compte tenu de son coût, assez vulnérable aux unités indirectes.
+
+    -> Tank AA
+Ces Tanks sont le pain et le beurre de toute mesure de défense contre les opérations aériennes.
+Peu cher (presque autant qu'un Hélicoptère), ils sont extrêmement efficaces compte tenu de leur coût. Les seules unités aériennes capable de les mettre à terre sont les Bombardiers (seulement si le Bombardier a l'initiative !), et il est moyennement efficace contre les Furtifs... Pour 3 fois leur coût.
+En plus de leurs capacités anti-aériennes, les Tanks AA sont capables d'éliminer promptement les fantassins. Ils sont cependant assez faibles contre les blindés.
+
+    -> Missiles AA
+Les Missiles AA sont incroyablement destructeurs contre toute unité volante. Elles sont toutes simplement mises à terre en un unique coup.
+Mais étant des unités indirectes, ils ne sont pas capables de se déplacer vers ces unités très mobiles. Ils sont donc mieux utilisés pour dissuader une aire de toute présence aérienne. Leur meilleure utilisation est donc en groupe.
+Ils ont tendance à attirer les attaques des autres unités, à cause de leur puissance. N'hésitez pas à vous en servir comme appât.
+
+    -> Artillerie
+L'unité indirecte de base. Douée d'une puissance raisonnable vu son prix, elle est évidemment vulnérable aux attaques directes.
+Accompagnée d'autres unités peu chères, elle est efficace à la fois pour tenir une position et mettre la pression sur les défenses adverses. Elle a la vitesse d'Tank Medium avec des chenilles, ce qui lui permet d'être facilement amenée d'un point chaud à un autre (non c'est pas de la convection thermique).
+Lorsque massées, elles sont encore plus puissantes.
+ 
+    -> Canon de campagne
+Moins puissante que l'Artillerie, cette unité tire aussi moins loin. Mais en réalité, sa portée est supérieure car elle peut bouger de deux cases avant de tirer (ce qui en fait le plus souvent une unité de portée 1~4), et elle se déplace de 6 cases par tour.
+Son canon et son blindage sont cependant plus légers que ceux de l'artillerie : elle peine à faire des dégâts aux unités lourdes.
+Privilégiez cette unité pour des campagnes de mouvement, car son avantage n'existe plus lorsqu'elle ne peut plus manoeuvrer.
+    
+    -> Canon défensif
+L'Anti-Tank par excellence. Le Canon défensif peut parvenir à vaincre un Neotank même si celui-ci a frappé le premier, et offre un challenge de choix au Mega-Tank.
+Son blindage en fait une excellente unité de première ligne contre les tanks, tout en étant capable de répliquer avec force.
+Cependant, cette unité est peu mobile, et très vulnérable aux mitrailleuses (donc à l'infanterie et en particulier les Bazookas), surtout compte tenu de son coût.
+
+    -> Lance roquettes
+"Glass canon". Le Lance roquettes est puissant, tape loin mais très vulnérable. Il coûte cher et un simple Tank le réduit à 1/2 PV.
+Mais bien protégé, un Lance roquettes est une menace formidable, capable de diviser par deux la puissance d'un Neotank, et de vaporiser toutes les unités faibles.
+Sa portée est son plus grand atout, faites cependant attention à son "angle mort" également augmentée à 1~2 cases, où les unités ennemies se feront un malin plaisir de s'y réfugier. N'utilisez donc JAMAIS cette unité toute seule.
+    
+    -> Obusier
+Prenez le Lance roquettes, et poussez-le à l'extrême. Vous avez un Obusier. Incroyablement puissant (même les bateaux sont fortement endommagés), il a en plus une portée considérable.
+Mais entre son coût très élevé, sa lenteur chronique et ses défenses affligeantes (un Tank l'amène à 1 PV), il est peu adapté pour les campagnes de mouvement, où il sera à la traîne, et vous serez probablement incapable de le défendre efficacement.
+Utilisez-le là où il excelle : en défense, ou pour des positions étroites. Sa portée terriblement grande fait que, plus vous l'éloignez du front (jusqu'à sept cases), plus il aura de chances d'être efficace. Prenez garde aux ennemis mobiles cependant.
+    
+    -> VTA
+Le VTA est un VTB armé. Considérez la situation avant de choisir quoi construire.
+Le VTA est plus cher (7000G), mais a une mitrailleuse de motard. C'est suffisant pour faire quelques dégâts aux unités indirectes, mais surtout pour fortement affaiblir les piétons adverses, ou, pourquoi pas, forcer l'adversaire à gâcher des munitions.
+Il est donc idéal dans les phases de capture, pour à la fois amener les soldats au front et attaquer les fantassins adverses. Sa vision supérieure (3) peut s'avérer un atout de taille.
+    
+    -> VTB/Génie
+Le VTB est, comparé à son homologue le VTA, moins cher. Les 2000G de différence correspondent à quasiment le prix d'un Motard, ce qui peut s'avérer utile en début de partie.
+Un autre avantage du VTB est son mouvement d'une case supérieure. De même, bien que faible, la différence peut s'avérer cruciale.
+Les deux unités ont la même défense, mais compte tenu du coût, le VTB fait un meilleur bouclier. Dernier atout pour le VTB : seul lui peut construire des aéroports / ports.
+    
+    -> Mur de défense
+Comme son nom l'indique, cette unité est spécialisée dans les formations défensives. Incroyablement résistant contre les attaques terrestres directs (surtout les tanks, où le mur de défense arrive à briller face au canon défensif !), il vous offrera un peu de temps pour réviser votre stratégie.
+Il se révèle un peu moins résistant contre les attaques indirectes et aériennes par rapport au canon défensif. Restez-en donc au direct.
+Cette unité possède un blindage géant orientable de deux manières : position basse (TERRESTRE DIRECT, par défaut lorsque construit) ou haute (TOUS INDIRECTS + AVIONS), qui augmente la défense de 50% contre les unités, les attaques reçues sont réduites d'environ un tiers.
+Avec ce blindage, sa défense se révèle alors correct sur tous les points. Mais pour changer la position de celui-ci, cette unité devra passer un tour sans agir.
+En attaque, il n'est pas trop conseillé de l'utiliser, compte tenu de son coût et de sa mobilité (autant que le canon défensif, encore une fois). Cette unité vous aidera à vous sortir d'une situation désespéré en bloquant un point sensible à l'adversaire. L'utiliser en groupe n'est pas trop conseillé compte tenu de ce prix élevé.
+
+    -> Vedette
+La Vedette est, de loin, le navire le plus rapide. Avec 8 cases par tour, et la possiblité de transporter une infanterie, inutile de préciser que la Vedette est utile à toute opération de débarquement.
+Elle est aussi capable de se défendre efficacement, avec un impressionnant 50% sur les Destroyers (même si elle va perdre ensuite). Ce qui la rend véritablement importante est sa capacité à réparer des unités sur le champ de bataille. A hauteur de 1 PV par tour, cela peut néanmoins se révéler suffisant pour changer le cours d'un duel.
+Cependant, cela reste des navires très fragiles (en dehors d'elles mêmes, elles perdent au minimum 70%) et avec seulement 2 munitions, elles ne peuvent sustenir un assaut de plus d'un tour généralement.
+Profitez des avantages du ravitaillement : Avec deux vedettes en votre possession, vous reproduisez sur mer les fameux exploits du VTB (avec la réparation de 1PV en plus). Il devient alors possible de jouer dans une map 100% mer !
+ 
+    -> Barge
+La Vedette permet de débarquer des infanteries, mais est incapable d'établir une tête de pont efficace. La Barge le peut cependant, grâce à sa capacité à contenir deux unités terrestres, quelles qu'elles soient. 2 Barges suffiront pour débarquer une force imposante.
+Elles sont aussi relativement résistantes du moment que vous les tenez éloignées des SUB(way hahaha). Indispensables à toute opération mer-terre d'envergure.
+Dans un souci de réalisme, les Barges consomment plus de fuel s'il y a des unités chargés étant donné que c'est la seule unité pouvant embarquer, par exemple un mégatank... même si cela forme une certaine contrainte, n'en tenez pas compte car les pertes sont négligeables en comparaison de la consommation normale de la barge : 1 fuel par tour pour 99 de fuel initial.
+    
+    -> Lance torpilles
+Pour 12 500, le Lance torpilles est suffisament puissant pour enlever 50% à n'importe quel navire (sauf le croiseur). Il est même capable de frapper les SUB immergés (à condition qu'il soit visible) ! Il n'a ni la puissance de feu, ni la portée, ni la capacité mer-terre du Cuirassé, mais il coûte deux fois moins cher et est bien plus mobile.
+En parlant de sa portée, sachez qu'il fonctionne comme le canon défensif, donc cette unité peut riposter face à toute attaque directe.
+Un navire d'escorte correct en somme, efficace pour dissuader l'ennemi d'attaquer des unités plus importantes.
+    
+    -> Destroyer
+La Destroyer a deux fonctions essentielles : protéger votre flotte des SUB et de l'aviation ennemie.
+Hormis le Bombardier (et avec difficulté !), aucune des unités ci-dessus ne peut engager le combat et sortir victorieuse d'un duel contre un Destroyer. Pour un prix modéré, c'est donc une solution efficace à ce genre de problème. Un membre indispensable dans toute campagne aéro-navale.
+Outre ce rôle vital, le Destroyer peut transporter des hélicoptères, ce qui est rarement utile, mais n'oubliez pas qu'il peut le faire.
+    
+    -> Submersible
+Le Submersible est le navire le plus efficace contre les navires. Hormis les Destroyers, il fait de gros dégâts contre toutes les unités, et en particulier contre des cibles tactiques telles que les Barges, les Cuirassés et les Portes Avions.
+Immergés, seuls les autres SUB, les Destroyers et les Lances Torpilles peuvent les toucher, mais faire ainsi fera grimper à un taux alarmant leur consommation. Evitez donc ce mode si vous le pouvez. Autre chose : toute unité capable de toucher le SUB dans ce mode lui fera de gros dégâts.
+Gardez en mémoire que somme toute, le SUB est assez lent, et est surtout une unité de support visant à éliminer des cibles clés.
+    
+    -> Croiseur
+    
+    -> Cuirassé
+La seule unité indirecte capable de se déplacer complètement avant de frapper. Et cette frappe fera souvent mal, avec 40% sur les Méga-Tanks.
+Côté mer, vous n'avez pas à vous soucier d'une quelconque menace exceptée les SUB et les autres cuirassés. Attention aux Vedettes et aux Lance-Torpilles, qui même s'ils perdent à la longue, font de gros dégâts compte tenus de leur prix.
+C'est un navire très efficace pour apporter du soutien au front terrestre. Sa plus grande faiblesse sera finalement les menaces aérienne
+    
+    -> Porte-avion
+A la fois le meilleur ami et le pire ennemi des avions (cela dépend du camp auquel vous appartenez), vous pourrez ravitailler et réparer deux unités de ce type à chaque tour, tout en les protégeant.
+Mais ce n'est pas tout : Vous ne pourrez fabriquer les Intercepteurs, unités aériennes polyvalentes, qu'avec l'aide du Porte-avion. Cette manoeuvre est certes chère mais fraîchement récompensée. Vous pourrez en fabriquer jusqu'à 4 pour chaque porte-avions (cela vous coûtera de 43000G à 98000G). 
+Il détruit en un coup certaines de ses cibles et en neutralise d'autres (60% minimum) mais étant une unité directe assez peu mobile (seulement 5 de déplacement), vous aurez le plus souvent un grand mal à les atteindre.
+Les 4 de vision en brouillard de guerre peut vous aider à voir arriver les SUBs, mais évitez de laisser les porte-avions tous seuls, vu son prix.
+
+    -> Hélico transport
+Cette unité est théoriquement la plus fragile du jeu, étant donné qu'elle n'attaque pas et qu'elle se prend des dégâts par la majorité des autres unités (30% au minimum !). Néanmoins, son faible coût permet de le renouveler facilement, et il peut servir d'appât dans moults situations. Laissez les forces ennemies le détruire, afin de donner la priorité à vos unités d'escorte !
+Bien entendu, on préfèrera l'infanterie dans le rôle de "chair à canon" mais l'hélico de transport est une version tout terrain de ce procédé.
+Sinon, il peut transporter une infanterie ou un bazooka afin de leur faire gagner du temps : Vous pourrez parcourir 6 cases quel que soit le terrain, ce qui est plus efficace qu'un véhicule de transport terrestre.
+
+    -> Hélicoptère
+    -> ARA
+    -> Avion de chasse
+    -> Bombardier
+    -> Chasseur/ASA
+    -> Intercepteur
+
+
+
+    -> Furtif
+Le Furtif est une unité aérienne assez spéciale, étant donné qu'il ne bénéficie pas forcément des mêmes avantages que tous les autres avions.
+Commençons par ses points forts. Unité polyvalente, le Furtif peut espérer faire des dégâts modérés à tout le monde, néanmoins il est bon de noter que par rapport à l'Intercepteur, il gère mieux le côté terrestre (en grapillant quelques % par ci par là), il fait moins mal à la division marine et n'est réellement efficace que contre le Bombardier pour la division aérienne.
+En défense, le Furtif sera meilleur à encaisser les menaces terrestres mais il se verra être plus fragile face aux autres avions... dois-je rappeller que le Furtif est l'unité aérienne la plus chère à 24000G, vous devez en prendre soin !
+Heureusement, son plus grand atout est de se rendre invisible aux yeux de "tous" vos ennemis, et vous serez innattaquable tant qu'une unité ennemi ne se sera pas placée à côté. Vous pouvez aussi créer des embuscades comme en FoW.
+La contrainte en employant cette tactique est qu'il consomme du carburant. Beaucoup. +8 par tout comparé aux +5 déjà élevés de façon normale, cela réduit un peu plus la durée de vie de cette unité, et par conséquent vous devez obligatoirement avoir un ravitailleur à portée en toutes circonstances.
+Le plus gros point faible de cet unité est qu'il a un ennemi naturel nommé l'ARA. Il perd forcément contre ce dernier, dont le coût est deux fois moins cher.
+
+----------------------
+
+
+
+    -> Jake
+    
+Le premier général que l'on contrôle dans AWDS, il est forcément très équilibré et facile à prendre en main, mais que valent réellement ses pouvoirs ?
+Son effet est d'augmenter de 20% l'attaque de toutes les unités en plaine, ainsi on se rapproche de Ed, sauf qu'on se limite à un type de terrain pour toute la division terrestre. La plaine étant un élément commun dans la majorité des maps, cela peut bien sûr être avantageux.
+De plus, sa CO-zone porte sur 2-3-4 cases, à comparer avec Ed qui possède des bonus équivalents.
+ 
+De base, chaque unité a 130/110 en CO-zone et 150/130 pour l'unité du général. Il semble judicieux de l'embarquer dans un tank ici, étant donné qu'ils se déplacent rapidement et ont une bonne attaque globale contre tous les blindés.
+-Faisons un test pour deux tanks : Tank@Jake(10PV) en Plaines [150/140] VS Tank(10PV) en Plaines [100/110] => 8.8PV contre 2.5PV. (en temps normal : 7.5PV contre 5PV)
+Jake rend ainsi inutilisable tout ce qui est au même niveau que lui.
+-Jake peut carrément prendre l'avantage sur un tank de niveau supérieur à lui, à condition que celui-ci n'ait que très peu de défense !
+Tank@Jake(10PV) en Plaines [150/140] VS MdTank(10PV) => 52% sur Route, 47% sur Plaines, contre 35% en temps normal. Mais gaffe à la contre-attaque qui est de 27% environ.
+En bref, un effet qui peut être bénéfique si vous embarquez Jake dans une unité forte. N'oubliez pas que c'est un bon tankiste !
+Les généraux qui offrent une bonne défense de base sauront contrer cet effet. (Kanbei, Jess, Maverick...)
+
+RUPTURE : Cette fois, toutes les unités terrestres sur plaine gagnent +10/+10.
+/!\ Le bonus s'applique en fonction de l'offensive, et non au début du tour. Ce qui donne les valeurs suivantes : 140/120 à tous et 160/140 pour le général.
+-Pour le premier matchup Tank VS Tank, on obtient 80% cette fois, peu de différence mais cela peut toujours servir. Résultat : 9.3PV contre 2PV.
+-Pour le second matchup par contre : 56% sur Route, 51% en Plaines, et la contre-attaque ne fait plus que 23%. Résultat : 7.7PV contre 4.4~4.9PV.
+ 
+SUPER RUPTURE : Le bonus sur plaines passe à +20/+20 et toutes les unités terrestres directes ont +1 mvt.
+Vous vous souvenez de ce que j'ai dit plus tôt ? Jake embarqué dans une unité peut maîtriser une unité qui est de niveau supérieur (ex. Tank contre MdTank). C'est encore plus vrai lorsque vous activez la Super Rupture. Ainsi vous dominez tous les match-ups égaux à 55%, 45%...
+Tank@Jake(10PV) en Plaines [170/160] VS Tank(10PV) en Plaines [100/110] => 9.3PV contre 1.5PV.
+Vous pouvez même égaler la puissance d'un tank de DEUX niveaux supérieurs !
+Tank@Jake(10PV) en Plaines [170/160] VS Neotank(10PV) en Plaines [100/110] => 6.3PV contre 6.1PV.
+MdTank@Jake(10PV) en Plaines [170/160] VS Megatank(10PV) en Plaines [100/110] => 6.4PV contre 5.4PV !
+
+"Utiliser sa SR ou la garder ?"
+La différence entre la rupture et la SR (super rupture) paraît faible, néanmoins elle peut tirer son épingle du jeu sur une map adaptée (n'oubliez pas que dès que l'on sort de la plaine, tous les bonus s'envolent !).
+Garder sa CO-zone de quatre cases peut aussi être bon si vous sentez que vous obtenez souvent les bonus d'attaque. Mais il est fortement conseillé de passer en SR tout de suite et de déglinguer tout le monde grâce au bonus de mouvement ! >:)
+
+En résumé, Jake peut être très bon sur des maps classiques comme sur quelques maps spécifiques.
+Cependant, il faut noter que ses bonus ne s'appliquent que sur plaine et avec des unités terrestres (directes + indirectes). Il reste néanmoins que la plaine est un terrain très commun, donc ce général n'est pas vraiment map-specific.
+
+
+
+    -> Rachel
+
+Voici un général qui s'utilise plutôt de façon simple. Ne bénéficiant pas de bonus d'attaque ni de défense à proprement parler (mis à part un bonus de luck dans ses pouvoirs), Rachel sera particulièrement un général prisé des débutants.
+Son effet est de doubler l'efficacité des réparations dans les propriétés. Embarquez Rachel dans une unité, de préférence mobile et peu coûteuse (le recon, tank ou char d'assaut sont conseillés, ainsi que l'ARA côté air ou la vedette côté mer). Toutes les propriétés dans sa CO-zone répareront 4PV au lieu de 2, au début de chaque tour.
+Ainsi, nul besoin d'attendre de nombreux tours pour retrouver des unités en forme. Une unité à 1PV n'a seulement besoin que de trois tours de répération au lieu de cinq en temps normal ! Ajoutez à cela une grande CO-zone (de 4 à 6 cases) qui agira comme un vrai camp de secours.
+Malheureusement, il y a un revers à la médaille. Les coûts de réparation sont également doublés, ce qui puisera beaucoup dans vos fonds. Il faudra donc prévoir des économies en conséquence.
+
+Pas besoin de calculs puisque Rachel bénéficie des bonus de stats par défaut, passons directement au descriptif des pouvoirs.
+
+RUPTURE : Ses unités bénéficient d'une chance pouvant aller jusqu'à 30%. Attention, celui-ci peut toujours prendre des valeurs de 0 à 30, c'est la valeur maximum qui se retrouve triplée.
+Tout de même, ce pouvoir peut se révéler puissant car le luck comptant comme des dégâts en valeur absolue, les unités peuvent infliger jusqu'à 30% de dégâts "bruts" supplémentaires ! Autrement dit, un coup à 55% peut être augmenté à 85%, cela fait tout de suite la différence.
+Avec ce pouvoir, vous pouvez assumer de détruire en un coup une unité à partir de 85% de dégâts (la probabilité ici est de 1/2).
+Pas grand chose à dire sinon. Ce pouvoir à l'aspect "cheap" peut fortement vous aider ou alors vous empêtrer encore plus.
+
+SUPER RUPTURE : 
+Sa super rupture ne se joue pas sur la chance cette fois. Trois missiles équivalents aux silos (3PV enlevés à deux cases de rayon, 13 cases au total) tombent et font des dégâts aux unités ennemis, de façon à faire le plus de dommages.
+Avant chaque tir, une zone de 13 cases est déterminée en fonction de la valeur des unités qui s'y trouvent (on regarde le prix et les PV restants des unités). Les missiles tombent sur les zones qui ont le plus de valeur.
+En calculant les meilleures conditions possibles, vous pouvez donc enlever 9PV à 13 des unités les plus chères du jeu : Les porte-avions (28000G). Ce qui représente 327600G de dégâts !!!
+Bien entendu, ce cas n'arrivera normalement jamais en pratique. Vous aurez, en moyenne, infligé entre 20000G et 30000G de dégâts, ce qui est beaucoup moins élevé mais reste conséquent pour des dégâts totalement gratuits.
+
+"Utiliser sa SR ou la garder ?"
+Gardez vos pouvoirs si vous n'êtes pas sûr et certain que leur avantage sera maximal.
+Utilisez votre pouvoir basé sur la chance comme vous le souhaitez (il est impossible de prévoir leur comportement en pleine partie), mais attendez un peu avant d'utiliser votre super rupture.
+Il est nécessaire, pour cela, de repérer une zone où l'ennemi a rassemblé ses "grosses" unités, tout en faisant attention aux rassemblements de faibles unités. En effet, un adversaire humain ayant anticipé la menace organisera souvent cette parade afin de neutraliser (en partie) votre SR.
+Entre un rassemblement de 13 recons et 2 bombardiers, les missiles frapperont d'abord les recons une fois !
+
+En conclusion, Rachel est un général conseillé aux débutants qui recherchent des pouvoirs variés et ne veulent pas trop jouer avec les stats.
+Ce général ne reste néanmoins pas exceptionnel étant donné sa super rupture qui est facilement contrable (soit vous regroupez toutes vos unités faibles ou inutiles, soit vous dispersez tout le monde le plus possible). Faites attention aux généraux qui ont de gros bonus de stats et qui ne manqueront pas de vous dépasser.
+
+
+
+    -> Andy [OBSOLETE]
+
+Andy est, lui aussi, un général simple et fun à jouer. Il ne récupère pas de bonus d'attaque et de défense dans son effet ou ses ruptures.
+Une de ses particularités est le fait que vous ne pouvez embarquer Andy dans une unité. Conséquence : Vous n'avez pas besoin de lui pour remplir votre barre de rupture, ce qui fait que vous serez souvent le premier à utiliser vos pouvoirs si vous maîtrisez bien le mécanisme de remplissage de la barre !
+(Ici, vous devez vous prendre une attaque qui fait plus de 50% de dégâts en PRATIQUE, ce qui arrivera assez souvent même en début de partie). Il est possible de gagner deux barres si vous vous faites détruire en un coup à 10PV.
+Pour remplir totalement cette barre, de façon générale, vous aurez à sacrifier 9 unités minimum (en entier) ce qui est tout de même conséquent ! Ainsi, repliez vos unités faibles (5PV ou moins) et réparez-les, car ils ne vous rapporteront pas de barre.
+L'inconvénient majeur d'Andy est qu'il est le seul à ne pas avoir de CO-zone ni d'unité propre à lui, donc adieu les bonus de CO-zone, vous ne pourrez vous fier qu'aux rangs.
+Très souvent, vous aurez à craindre les généraux ayant de bons bonus de stats de base (Kanbei, Grimm...). Pour vaincre les CO-zone de ces brutes, vous n'aurez d'autre choix que d'envoyer un bataillon de vos meilleures unités (avec un bon rang), et faire attention à ne pas vous faire repousser.
+Avec Andy, vous ne devez jamais hésiter dans votre tâche (comme tenir une zone à captures) et l'appliquer jusqu'au bout, qu'elle se solde par une réussite ou un échec.
+Heureusement, ses pouvoirs vous y aideront, voyons par quelle manière.
+
+RUPTURE : Toutes vos unités regagnent 2PV. Un pouvoir moins représentatif que O'Brian par exemple, mais cela peut vous sauver la mise si vous avez beaucoup d'unités touchées.
+
+SUPER RUPTURE : Toutes vos unités regagnent cette fois 5PV. Autrement dit, toutes vos unités touchées pour faire grimper votre pouvoir seront remis entièrement à neuf ! De plus, vous bénéficiez d'un point de mouvement supplémentaire ce qui vous assure la priorité pour l'offensive à venir. De quoi renverser certaines situations !
+
+"Utiliser sa SR ou la garder ?"
+Sans aucune hésitation, vous devrez utiliser votre SR le plus vite possible !! Attendez au moins d'avoir beaucoup d'unités touchées (mais pas détruites) afin d'optimiser les effets.
+Gardez cependant en tête que vous n'avez PAS de CO-zone, et donc vous êtes toujours potentiellement vulnérable aux simples bonus de vos adversaires. Andy est globalement un personnage assez faible qui doit constamment utiliser ses ruptures pour compenser ses réparations.
+
+
+
+    -> Max
+
+Max est plutôt intéressant sur des maps prédéployées ou de contact. Il excelle dans le combat direct, où toutes ses unités de ce groupe ont, de base, un bonus massif de 30% en attaque ! Toutes les divisions sont concernées : Terrestre, marine, aviation.
+Cependant, sa CO-zone est assez limitée au début, vous devrez donc bien calculer vos offensives, et de préférence toujours garder la possibilité de détruire l'ennemi en un coup.
+
+De base, toute unité d'attaque directe a 140/110 dans la CO-zone et 160/130 pour l'unité du général. L'unité du général est assurée de détruire l'ennemi en un coup à partir de 63% de dégâts ! (à condition que celui-ci n'ait pas de bonus en défense).
+Tout matchup se trouve fortement bouleversé. Un exemple :
+MdTank@Max(10PV) en Plaines [160/140] VS Neotank*As(10PV) en Plaines [120/130] => 6.1PV contre 5.1PV.
+Avec Max en adversaire, vous devez faire extrêmement attention à sa zone d'attaque et tenter de le prendre de vitesse, puisque sa défense reste à ses valeurs de base. Il paraît judicieux d'utiliser des unités indirectes contre lui.
+
+RUPTURE : Toutes les unités d'attaque directe bénéficient d'un mouvement augmenté de 1. Une fois de plus, ce genre de pouvoir vous assure l'initiative et met la pression à votre adversaire. Utilisez-le si vous devez investir rapidement un endroit-clef de la map.
+N'oubliez pas que lorsque vous déclenchez une rupture, les effets du général s'étendent sur toute la map durant le tour actuel. Ainsi, TOUTES vos unités directes bénéficieront d'un joli bonus d'attaque.
+
+SUPER RUPTURE : En plus du mouvement supplémentaire, vos unités d'attaque directe gagnent +50% d'attaque au total (toujours pas de bonus de défense par contre).
+Max devient alors une véritable brute de force et peut vous mettre K.O en combat direct, à partir de 56% de dégâts seulement. Oui, cela signifie que les matchups à 55% tiennent TOUT JUSTE si Max se ramasse 0% de luck pour chaque attaque.
+Voyons voir comment les matchup désavantagés évoluent :
+MdTank@Max(10PV) en Plaines [180/140] VS Neotank*As(10PV) en Plaines [120/130] => 6.8PV contre 4.5PV.
+Tank@Max(10PV) en Plaines [180/140] VS Neotank(10PV) en Plaines [100/110] => 6.4PV contre 5.9 PV.
+
+"Utiliser sa SR ou la garder ?"
+Ceci est une question intéressante. Utiliser sa SR tout de suite paraît une bonne idée, étant donné sa puissance exceptionnelle niveau attaque (mais pas niveau défense).
+D'un autre côté, avoir un bonus de 30% d'attaque sur trois cases de rayon au lieu de 50% est tout de même quelque chose de conséquent, surtout si vous devez gérer un point chaud sur la map.
+Gardez donc votre pouvoir pour une meilleure utilisation lors d'une attaque tous azimuts sur un front étendu. La super rupture se révèle plus efficace dans ce genre de cas.
+
+Pour finir, Max est parfait à l'utilisation du combat direct, cependant, il peut souffrir plus d'une fois de son manque de défense, notamment si vous ne prenez pas l'initiative lors de la bataille.
+Peu de généraux peuvent le contrer en combat direct mais des spécialistes dans d'autres domaines tels que Grit ou Trak peuvent attaquer sans craindre de représailles. Max a toujours été faible en combat indirect, et cela ne changera pas.
+
+
+
+    -> Sami
+
+Ah, Sami. Commandante en chef d'une armée de commandos élites (surtout ceux qui ont des bazookas). Ceux qui ont joué aux anciens AW sauront de quoi je parle.
+Elle bénéficie d'un entraînement de choc pour ses soldats qui ont une puissance au bord de la folie. Tous ses soldats dans la CO-zone ont 130/140 de base. Oui, DE BASE. Et 150/160 dans le cas d'une unité où Sami est "embarquée" dedans.
+Sa CO-zone est tout de même de 3-4-5 cases ce qui est assez conséquent, bien que son pouvoir ne concerne qu'un nombre très limité d'unités. Jouer Sami reviendra généralement à dominer le début de la partie, axer ses offensives dans le but de capturer, et enfin à remporter la victoire par prise du Q.G ennemi. Plus la partie dure, moins Sami aura de chances de gagner par captures.
+Enfin, en parlant de captures, Sami bénéficie d'un bonus de captures de propriétés en valeur absolue cette fois, ce qui peut être utile pour les unités moyennement touchées. (Par exemple, à titre de comparaison : Une unité à 10PV capture maintenant 12 points au lieu de 15 ; à 4PV capture 6 points tout comme avant).
+
+Il est inutile de dire que contre Sami, vous ne pouvez pas envisager un combat à armes égales. Vous devez obligatoirement traiter ses infanteries avec un Recon au minimum, et ses Bazooka avec des tank AA. Veillez à ce que ses Bazooka soient toujours neutralisés du premier coup (3 PV au plus) ou elle vous fera mal, très mal.
+Motard@Sami'sCOZone(10PV) en Plaines [130/150] VS Motard*As(10PV) en Plaines [120/130] => 7.8PV contre 4.5PV. // Sans le rang As : 8.5PV contre 3.5PV.
+N'envoyez pas de Recon contre les Bazooka, le résultat attendu pourrait se retourner contre vous.
+Recon(10PV) en Ville [100/120] VS Bazooka@Sami'sCOZone(10PV) en Plaines [130/150] => 4.5PV contre 6PV. (Normalement 6.1PV contre 4.5PV)
+Ce général devra faire attention à ceux qui bénéficient d'une puissance augmentée pour les unités motorisées (Jess, Jake, Ed...). Ceux qui savent réparer plus vite que la normale pourront combler les lacunes contre la forte puissance des Bazooka de Sami.
+
+RUPTURE : Elle ne bénéficie pas de bonus de stats rajoutés dans ses pouvoirs, mais -encore une fois- du mouvement supplémentaire sur ses soldats et ses unités de transport. Le but bien entendu est d'optimiser les captures.
+Elle sera notamment aidée par 3 points de capture supplémentaires (5 au total). Donc une unité à 10PV capturera un peu plus de la même façon que dans les jeux AW précédents.
+
+SUPER RUPTURE : Cette fois-ci, le bonus de mouvement est à 2 et le bonus de capture à 8 (10 au total). Entendez-vous ? Une de ses unités à 10PV peut capturer des propriétés en un tour, y compris votre Q.G. Si elle se débrouille bien, la victoire lui est assurée.
+Ici, les Motards devront être particulièrement surveillées car ils peuvent vous faire directement perdre la partie si votre Q.G leur est accessible à 7 cases !!
+
+"Utiliser sa SR ou la garder ?"
+Sa SR sera redoutable pour les captures surtout en milieu de partie, car elle pourra renverser la balance des gains de fonds en sa faveur.
+En règle générale, dès que votre barre de pouvoir est pleine, utilisez-la. Déjà parce qu'un mouvement amélioré vous accordera de toutes façons l'initiative durant ce tour, et car le bonus de stats s'étendra sur toute la map ! Votre principale force réside dans l'infanterie donc servez-vous en le plus possible.
+Le seul moment où vous pourrez vous abstenir d'utiliser un pouvoir sera donc lorsque vous n'avez pas assez d'infanteries (ce qui serait étonnant) et/ou que vous n'avez pas assez de propriétés à votre portée. Ne gaspillez jamais le potentiel des pouvoirs de Sami.
+
+En résumé, Sami est un général très particulier. Parfois carrément broken dans le cas de petites maps où elle prendra l'avantage dès le début et le gardera.
+Il peut être difficule de la maîtriser car peu de généraux se jouent de la même manière (axé captures de propriétés et du Q.G).
+
+
+
+    -> Nell
+
+Hmm... le moins que l'on puisse dire, c'est que Nell est un général imprévisible. Chaque partie sera très différente des autres.
+La principale caractéristique de Nell est de compter sur sa chance, elle bénéficie donc un luck augmenté jusqu'à 20%, de base. Ses pouvoirs augmentent cette chance jusqu'à atteindre des valeurs absurdes durant un temps limité.
+Mais à part ça, c'est tout. Pas de bonus de stats, pas de spécialité sur une division d'unités. Rien. Ce général n'est à utiliser que pour rigoler un coup, elle n'est tout simplement pas jouable en partie normale étant donné que toutes ses compétences reposent sur l'aléatoire.
+Enfin, dans tous les cas, parlons brièvement de ses différentes ruptures :
+
+RUPTURE : Luck augmenté à 30%. Ce pouvoir est exactement le même que celui de Rachel, je me contente donc de le recopier ici.
+Ce pouvoir peut se révéler puissant car le luck comptant comme des dégâts en valeur absolue, les unités peuvent infliger jusqu'à 30% de dégâts "bruts" supplémentaires ! Autrement dit, un coup à 55% peut être augmenté à 85%, cela fait tout de suite la différence.
+Avec ce pouvoir, vous pouvez assumer de détruire en un coup une unité à partir de 85% de dégâts (la probabilité ici est de 1/2).
+Pas grand chose à dire sinon. Ce pouvoir à l'aspect "cheap" peut fortement vous aider ou alors vous empêtrer encore plus.
+
+SUPER RUPTURE : Luck augmenté à 50%. Cela peut sembler plus faible qu'une rupture X 2, mais n'oubliez pas que se sont des dégâts "bruts", et que par conséquent, un coup à 55% en temps normal peut être augmenté à 105% ici.
+Vous pouvez vous attendre à détruire en un coup une unité à partir de 75% de dégâts (probabilité 1/2).
+Ce qui fait la force de cette super rupture est surtout la capacité à renverser complètement les matchup fragiles en votre faveur, par exemple :
+Infanterie(10PV)+40luck en Plaines [100/110] VS Tank(10PV) en Plaines [100/110] => 5.9PV contre 5.5PV. Vous avez, grosso modo, une chance sur 5 pour réduire de moitié les forces d'un tank basique uniquement avec une infanterie. Plutôt donné.
+Bazooka(10PV)+40luck en Plaines [100/110] VS Megatank(10PV) sur Route [100/100] => 5.7PV contre 5.0PV.
+Vous voyez que cela est valable pour N'IMPORTE QUELLE unité. Toutes les unités comptent pour faire du dégât massif, à condition... que vous ayez de la chance, évidemment. Il se peut très bien qu'un pouvoir se révèle complètement inutile car vous n'avez jamais eu le luck nécessaire (normalement, le jeu autorise automatiquement un luck élevé régulièrement tous les X offensives).
+
+"Utiliser sa SR ou la garder ?"
+Quelle question... Pour une SR qui est une version plus puissante de votre effet de base, qu'allez-vous faire ? 
+
+Rien d'autre à dire sur Nell. Utilisez-la si ça vous chante. Elle n'a aucune valeur niveau stratégie.
+
+
+
+    -> Hachi
+
+Hachi était un général bien redouté à l'époque. Peu de monde souhaitait l'utiliser dans une partie stratégique du fait de son aspect "cheap" (aucun malus pour une ristourne de 10% sur le prix des unités, pouvoirs disponibles rapidement...)
+Rassurez-vous donc, il est redevenu à peu près jouable grâce aux mécanismes de CO-zone tirés de AWDoR.
+
+Sur une zone de 4-5-6 cases, Hachi fait gagner 10% de défense à toutes les unités. Cependant, la baisse de prix a disparu. Il était en effet préférable de transformer un bonus "indirect" de stats (dû à cette baisse de prix) en véritable bonus, et de laisser tomber ce gimmick du prix d'achat, du moins pour son effet de base.
+Enfin bref, ce bonus de défense accorde 110/120 de base à toute unité en CO-zone et 130/140 dans le cas de Hachi. Un bonus peu conséquent sur une grande zone vous permet de grapiller quelques dégâts de moins par-ci par-là, tout en augmentant rapidement votre barre de rupture. Eh oui, l'expérience de Hachi n'a pas diminué après toutes ces années.
+
+RUPTURE : "Bienvenue !" C'est jour de soldes, toutes les unités coûtent 50% moins cher, cela signifie que vous pouvez en construire deux fois plus, en théorie ! Bien entendu, il faudrait que vous ayez assez de bases de constructions disponibles pour cela...
+Qu'est-ce cela donne en pratique ? Eh bien, tout d'abord vous achetez des megatank ou des bombardiers à 11000G... autant dire que vous faites de sacrés affaires. Profitez de ce pouvoir pour construire tout ce que vous avez de plus lourd de préférence (les promotions sont moins intéressantes dans le cas de l'infanterie par exemple).
+Ensuite, comme à l'accoutumée, le bonus de stats s'étend à toute la map, donc vous avez un petit bonus de défense qui peut toujours servir.
+
+SUPER RUPTURE : Une promotion identique à celle de la rupture normale, mais avec une petite différence, qui est en fait de taille : Vous pouvez construire quasiment de n'importe où !! Toutes vos unités terrestres peuvent être produits depuis des Villes et votre Q.G.
+/!\ Cela n'est pas précisé mais vos ports/aéroports provisoires peuvent également servir à la construction durant ce tour.
+Vous n'aviez pas assez de bases pour satisfaire vos achats compulsifs ? Cette super rupture efface complètement les défauts de son prédécesseur. Allez-y gaiement sur vos dépenses, et préparez une attaque massive pour les prochains tours. Ce pouvoir se révèle également très utile en défense et si vous êtes proche de la défaite. Hachi n'abandonne pas si facilement.
+
+"Utiliser sa SR ou la garder ?"
+Même à 6 cases de rayon, le bonus de stats n'est pas si puissant surtout si vous affrontez d'autres généraux qui sont spécialisés dans l'attaque+défense (Kanbei pour ne pas le citer).
+Il est donc fortement conseillé d'utiliser vos pouvoirs le plus possible. Deux stratégies s'offrent à vous : Soit vous spammez la rupture qui vous donne rapidement des promotions sur les unités lourdes, soit vous vous rabattez plutôt sur la super rupture qui offre un avantage conséquent sur la production de masse, et retourner une situation désespérée en votre faveur.
+Vous pouvez également combiner les deux méthodes, mais vous verrez que pour en tirer en avantage maximal selon la map, vous devez vous fixer un objectif en choisissant de toujours utiliser la rupture ou la SR, et prévoir les fonds en conséquence.
+
+En bref... Hachi possède un petit effet de base mais des pouvoirs qui peuvent être monstrueux (et presque broken sur quelques maps spécifiques) pour votre adversaire. Votre meilleure force, c'est l'argent. Pour le reste, il se joue comme un général sans bonus comme Andy.
+
+
+
+    -> Olaf
+
+Voici le général qui ne craint pas le froid. Toutes ses unités sont immunisées au climat enneigé, ce qui constitue un sacré avantage dans de telles conditions : En effet la neige est devenue plus handicapante qu'avant (mouvement -1 ET consommation fuel X2).
+Garder un mouvement intact quel que soit le climat, voilà quelque chose qui peut faire la différence dans les grandes maps.
+
+De plus, toutes les unités de la CO-zone obtiennent 120/120 quand il neige, et 140/140 dans le cas d'Olaf. Ce qui constitue un joli bonus, à condition que vous jouiez dans un climat non fixe.
+MdTank(10PV) sur Route [100/100] VS Neotank(10PV) sur Plaines [100/110] => 4.8PV contre 6.4PV.
+MdTank@Olaf(10PV) sur Route [140/140] VS Neotank(10PV) sur Plaines [100/110] &Neige => 7.3PV contre 4.9PV !
+Sinon, les pouvoirs d'Olaf vous aideront à bénéficier de ce bonus dans tous les cas. Heureusement, ceux-ci se chargent plutôt vite dans une zone de 3-4-5 cases.
+
+RUPTURE : Il neige durant un tour et toutes les unités obtiennent +10/+10 supplémentaires. Ce qui signifie que toutes les unités, durant ce tour, ont 130/130 de base (150/150 pour Olaf).
+Pour une rupture normale, cela est plutôt puissant, sans compter que l'adversaire galèrera à rattraper sa situation étant donné les pénalités du climat neigeux.
+N'hésitez vraiment pas à l'utiliser quand le besoin s'en fait sentir.
+
+SUPER RUPTURE : Cette fois-ci, il neige durant deux tours et tout le monde obtient +20/+20 supplémentaires pour ce tour seulement.
+Le premier tour donc, toutes les unités auront 140/140 de base (160/160 pour Olaf) ce qui constituera un atout considérable, vous serez presque intouchable même contre les généraux les plus coriaces.
+MdTank@Olaf(10PV) sur Route [160/160] VS Megatank(10PV) sur Ville [100/120] &Neige => 6.4PV contre 6PV (2.4PV contre 7.5PV en temps normal !)
+Le deuxième tour, les bonus de stats reviennent à la normale mais vous conservez l'avantage du climat, ce qui fait que votre adversaire sera toujours pénalisé pour un moment.
+/!\ Attention, à la fin de ses ruptures le climat repasse au soleil, ou au climat sélectionné si celui-ci est fixe.
+
+"Utiliser sa SR ou la garder ?"
+Dans le cas d'un climat fixe qui n'est pas de la neige, bien entendu, il faut utiliser ses pouvoirs dès que possible. Ceci afin de bénéficier des bonus plus souvent et pénaliser votre adversaire en fuel.
+Dans une map où le terrain est globalement difficile, cela peut devenir rageant pour l'adversaire qui peinera encore plus à avancer, mais n'en tenez pas compte. Les pénalités normales de terrain ne changent pas non plus pour vous. Seule la neige vous est bénéfique.
+
+En résumé, tant qu'il neige, Olaf est un très bon général et saura vous mettre facilement en difficulté. Si le climat n'est pas avantageux dès le début, alors utilisez vos pouvoirs plus souvent que d'ordinaire.
+Ce général gagnant en attaque aussi bien qu'en défense, il devient très difficile d'égaler sa puissance quand il passe en rupture. Mieux vaut s'éloigner et attendre le retour du beau temps. Si le climat est fixe et neigeux, Olaf est à la limite du broken.
+
+
+
+    -> Grit
+
+Grit est à Max ce que les unités indirectes sont aux unités directes. Son truc, c'est le combat indirect, vous l'aurez tous deviné.
+Etant donné que les unités indirectes ne se jouent pas tout à fait de la même façon, ce général n'est pas une copie exacte de Max quand bien même toutes les caractéristiques du premier et du second sont identiques.
+Il y a seulement 2 différences notables entre les caractéristiques de ces généraux, mis à part le type d'unités.
+La première, c'est la taille de la CO-zone. Cette fois de 2-3-4 cases, Grit en a besoin car les unités indirectes ne sont pas aussi mobiles que les directes. Elles ne doivent pas bouger pour tirer, et si Grit devait se débrouiller avec une CO-zone d'une case de rayon, il ne pourrait jamais rivaliser contre la mobilité supérieure de Max.
+L'autre différence, c'est que Grit gagne de la portée d'attaque dans ses pouvoirs au lieu du mouvement. Cela est tout à fait logique et plus adapté à son style d'offensive. Souvenez-vous de Grit et ses lance-missiles à +3 de portée... heureusement, les ruptures n'iront pas aussi loin ici.
+
+Toute unité indirecte dans la CO-zone gagne 30% d'attaque de base, ce qui donne 140/110 (160/130 avec Grit).
+Artillerie@Grit(10PV) sur Route [160/130] VS MdTank(10PV) sur Plaines [100/110] => 10PV contre 3.5PV (5.9PV en temps normal).
+La différence ? C'est que vous n'avez pas à craindre de contre-attaque, bien entendu ! Pas besoin donc de bonus de défense si vous savez bien protéger vos unités indirectes (ce que tout joueur doit s'efforcer de faire s'il veut les garder !). 
+En revanche, tel un "tout ou rien", vous êtes perdant si vous vous faites attaquer en premier étant donné que vous ne contre-attaquerez pas non plus.
+MdTank(10PV) sur Plaines [100/110] VS Artillerie@Grit(10PV) sur Plaines [160/140] => 10PV contre 3.9PV. En bref, côté défense vous êtes presque un général lambda.
+
+RUPTURE : Toute unité indirecte gagne +1 en portée. Certes, cette rupture semble moins efficace que celle de Trak par exemple (ce dernier augmente de 2 la portée dans sa rupture normale !), mais cela est compensé par le bonus d'attaque supérieur chez Grit.
+Toutes vos unités indirectes de toute la map ont au moins 140/110 et +1 de portée. Si vous avez beaucoup de cibles à portée, cela se révèle très intéressant et vous n'avez presque pas besoin d'attendre votre super rupture.
+
+SUPER RUPTURE : Cette fois, les unités indirectes ont +2 de portée au total et gagnent 20% d'attaque supplémentaires. Cela donne 160/110 pour toutes les unités indirectes (et 180/130 pour l'unité du général !)
+Tout comme Max, son unité à 180/130 peut mettre K.O en un coup toute unité si les dégâts de base sont à 56% ou plus. Sans compter que la portée supplémentaire vous octroie une cible facile dans la très grande majorité des cas...
+Cette super rupture paraît explosive, mais encore une fois vous ne recevez jamais de bonus de défense, donc attention à ne jamais vous laisser approcher.
+
+"Utiliser sa SR ou la garder ?"
+Pour refaire, une fois de plus, un parallèle avec Max, la super rupture est une brute de puissance, mais garder une CO-zone de 4 cases avec +30% d'attaque est pas mal non plus s'il n'y a qu'un seul point chaud dans la bataille.
+Cette CO-zone devrait être concentrée juste derrière votre première ligne si vous jouez côté terrestre, ainsi vous donnez +10% de défense à vos unités protectrices tandis que vous attaquez avec vos Artilleries ou Lance-missiles.
+Côté mer, les choses diffèrent un peu étant donné que le terrain est toujours plus large et qu'il y a moins d'unités indirectes. Côté air, ce n'est même pas la peine d'en parler.
+Dans tous les cas, utilisez vos ruptures seulement si vous vous sentez prêt à prendre un gros avantage durant ce tour, autrement vous devez garder votre position et prendre lentement mais sûrement quelques endroits stratégiques.
+Le fait que Grit ne gagne pas de bonus de défense à proprement parler est moins grave car de toutes façons, ses unités ne sont pas faites pour encaisser des attaques, et elles ne peuvent contre-attaquer (sauf les canon défensifs).
+
+Quand vous jouez contre Grit, une règle d'or : Anticipez TOUJOURS le tour suivant. S'il a bientôt un pouvoir à sa disposition, commencez par adopter la stratégie de prudence. Eloignez-vous de ses unités indirectes en fonction de leur portée + une case. Sinon... eh bien, vous vous ferez violemment repousser, pas besoin de longues explications pour le comprendre.
+Essayez de toujours profiter des angles morts de ses unités (stationner à deux cases des lance-missiles par exemple), ou d'utiliser des unités intouchables comme des avions. Il ne vous reste qu'à faire attention aux unités anti-aériennes.
+Un combat à armes égales est inutile (sauf si votre général est aussi spécialisé dans les unités indirectes), étant donné que vous n'avez pas à craindre de contre-attaque si vous venez au contact.
+Si vous jouez Grit, la parade est bien évidemment de protéger vos unités indirectes par des tanks ou autres véhicules.
+Contrairement à son homologue en attaque directe, la CO-zone doit très rarement se trouver en première ligne et tenter une avancée lente mais sûre. Ensuite, profitez de votre portée augmentée pour accélérer un peu les choses.
+
+
+
+    -> Colin
+
+Colin est définitivement un général intéressant à jouer, ses caractéristiques misant sur l'argent au détriment de l'attaque (dans les opus GBA, il avait quand même un léger bonus car ses unités coûtaient 80% de leur prix par rapport à 90% d'attaque... et leur défense n'était même pas diminuée !).
+Ici, il garde ce gimmick de -20% de prix mais -10% d'attaque seulement, mais avec d'autres avantages : Tout d'abord, il est le seul général hors Black Hole bénéficiant d'une CO-zone infinie. C'est-à-dire qu'il se joue à peu près comme un général dans les trois premiers opus AW.
+Enfin, l'embarquer dans une unité ne coûte que 25% de son prix au lieu de 50%, soit deux fois moins cher. L'avantage est mineur dans le cas d'un tank par exemple, mais imaginez cela sur un bombardier...
+/!\ Les 25% sont pris en compte dans le prix déjà diminué, donc en réalité l'embarquement ne coûte que 80%X25% = 20% du prix d'une unité normale ! Colin est donc définitivement gagnant en ce qui concerne les prix des unités (Hachi peut aller revoir ses stratégies fissa).
+De base, toute unité a 100/110 et 120/130 pour le général. Je ne me suis pas trompé, le bonus de CO-zone s'applique à tout le monde étant donné qu'il est infinie. Le malus d'attaque est en réalité une absence de bonus dans le cas de Colin, ce qui fait qu'il se joue un peu comme Andy.
+
+Il est assez trivial de faire des matchup quand vos unités ne changent pas beaucoup en stats, mais c'est pour prouver que -10% d'attaque ne change en définitive pas grand chose dans le cas de matchup égaux ou déjà avantageux.
+Infanterie(10PV) [x/100] VS Infanterie(10PV) [100/110] => 7.3PV contre 5PV à 100% d'attaque ; 6.7PV contre 5.5PV à 90%.
+En revanche, plus le matchup est risqué (75/75 par exemple), plus vous risquez de souffrir.
+
+RUPTURE : Vos réserves d'argent sont doublés avec une limite de +100000G. C'est aussi simple que ça.
+Activez cette rupture au début de votre tour tout en ayant économisé une petite somme d'argent, et c'est le jackpot ! Ne gaspillez jamais le potentiel de ce pouvoir quand bien même il y a une limite fixée, si vous pouvez gagner jusqu'à 100000G en une seule fois, faites-le donc.
+Pour simplifier, admettons que vous vouliez acheter une unité précise. Economisez la somme demandée puis passez en rupture. Ainsi, vous pourrez acheter deux unités de ce type ! Cela ne vous rappelle rien... ? Ah oui, la rupture de Hachi.
+
+SUPER RUPTURE : Et maintenant, il est temps de parler de ce fameux pouvoir qui a tant détruit nos parties et la balance même du jeu, je veux bien entendu parler de POWER OF MONEY !!! (Argent roi pour les bons français).
+Tous les 1000G en votre possession au moment où vous activez votre rupture, vous gagnez +2% d'attaque. Il n'y a strictement AUCUNE LIMITE. A partir de 5000G vous jouez déjà comme un général sans bonus conséquents, puis vers 20000~25000G vous êtes capables de rivaliser avec ce fameux Kanbei (sans pouvoirs) !!
+Je me passerai de décrire ce qu'il se passe si vous avez plus de 50000G donc +100% d'attaque. Si ? Vous l'aurez voulu :
+Tank@Colin'sCOZone(10PV) en Plaines [200/110] VS Megatank(10PV) en Q.G [100/140] => 7.3PV contre 2.1PV.
+Poussons le bouchon au maximum en regardant ce qu'il se passe avec 999999G !!! C'est bien parce que vous le voulez :
+Infanterie@Colin'sCOZone(10PV) [999+/100] VS Megatank(10PV) [100/100] => 10PV contre 0PV (oui, vous gagnez pour peu que vous fassiez des dégâts)
+/!\ Il y a bien une limite d'attaque en réalité à 999%, ce qui vous garantit un OHKO dans la majorité des cas même à 1% de dégâts de base, si l'ennemi n'a pas trop de défense. En arrondissant, ce bonus équivaut à 500000G possédés. Il est inutile d'aller plus loin que cette somme.
+Comme pour la rupture normale, vous devez l'activer au tout début de votre tour sans rien acheter, afin d'optimiser encore plus ses effets qui sont ici primordiaux (vous pouvez avoir un bonus d'attaque monstre rien qu'avec de l'argent... j'espère qu'Hachi n'entend rien).
+
+"Utiliser sa SR ou la garder ?"
+Vous pouvez faire encore mieux : Utiliser dans un premier temps votre rupture normale pour faire gonfler vos fonds : le plus vite possible la première fois, ce qui vous permettra de passer la barre des 20000G facilement et de rester au dessus.
+Puis économisez légèrement afin de rester à un niveau d'argent suffisant pour votre super rupture. Inutile de garder la totalité de vos biens, +50% d'attaque pour 25000G suffit largement. Cette combinaison magique est justement tout ce qui faisait la puissance de Colin.
+De toutes façons, votre CO-zone est déjà infinie à partir du moment où le général est embarqué donc il n'y a aucune différence entre une barre de rupture vide ou pleine.
+
+En conclusion, Colin peut être totalement broken ou bien parfaitement jouable par rapport à la façon dont vous gérez votre argent. Il est capable de rivaliser face à tout le monde sur n'importe quelle map, c'est donc un des généreux les plus versatiles du jeu...
+Qui a dit que Colin était inutile car il manque de puissance ?
+
+
+
+    -> Sasha
+
+Le dernier général en date de Blue Moon et la soeur de Colin. Ses pouvoirs se basent aussi sur l'argent mais d'une différente manière.
+Tout d'abord, elle possède la plus grande CO-zone du jeu (en exclusant les Infinis) avec 5-6-7 cases. Ceci est nécessaire à cause de son effet : Toutes les propriétés de la zone vous rapportent 1100G au lieu de 1000G au début du tour.
+La stratégie à adopter est assez difficile, si vous décidez d'aller en première ligne mais de vous éloigner de vos propriétés, vous ne profiterez pas du bonus de fonds. Inversement, il ne sera pas aisé de stationner dans la zone la plus concentrée en propriétés tout en remplissant la barre. Ne prêtez donc pas une attention cruciale à cet effet si vous n'optimisez pas vos fonds à l'unité près.
+Pas de bonus de stats à déclarer, à ce niveau-là Sasha se joue comme un général sans bonus.
+
+Dans le jeu originel, le pouvoir normal de Sasha était Démoralisation et son super pouvoir se nommait Précepteur. Pour des raisons d'équilibrage, les deux ruptures ont été inversées et l'effet de Précepteur s'applique aussi dans la SR.
+
+RUPTURE : 20% des dégâts que vous infligez aux adversaires sont convertis en argent et vous reviennent.
+Cela signifie, pour un matchup ASA VS ASA par exemple, que vous faites environ 10000G de dommages donc vous gagnez 2000G (les dommages sont arrondis aux dégâts divisés par 10).
+Pour une bonne utilisation de cette rupture, elle doit obligatoirement être accompagnée d'une attaque massive.
+
+SUPER RUPTURE : En plus du pouvoir du Précepteur, vous bloquez la barre de rupture de votre adversaire. Durant ce tour, celui-ci ne pourra ni l'augmenter ni l'utiliser. De quoi faire enrager plus d'une personne...
+De plus, c'est le seul pouvoir du jeu qui peut bloquer les utilisations de pouvoirs.
+
+"Utiliser sa SR ou la garder ?"
+La rupture de Sasha est un bon moyen de gagner de l'argent si vous avez la force brute nécessaire mais pas assez de propriétés. De plus, sa super rupture vous permet de ne pas vous soucier d'une quelconque "contre-stratégie", de la part de votre adversaire.
+Etant donné son effet de base assez faible mais sur une grande zone, on peut être tenté de faire grimper la barre de rupture très vite. Néanmoins, il est bon de noter que Sasha ne gagne jamais de bonus de stats !
+Ainsi, il est inutile de se presser et activer tout de suite votre super rupture. Attendez le bon moment de façon à ce que votre adversaire ne puisse pas tirer l'avantage de ses pouvoirs à lui.
+
+Un général assez faible mais avec des pouvoirs très spéciaux (pour ne pas dire uniques), voilà ce qu'on pourrait en conclure. Sur certaines maps elle pourra briller, grâce à son gimmick basé sur l'argent.
+Mais sur le long terme, elle ne pourra pas rivaliser avec les généraux bruts de force. Prenez donc du recul, et fiez-vous aux rangs.
+
+
+
+    -> Kanbei
+
+Parlons maintenant de ce fier samouraï bien connu pour son armée supérieure en puissance, mais aussi plus coûteuse. Il y a tant de choses à dire, mais nous allons essayer de faire court...
+
+Vous le savez sûrement déjà (nous en avons parlé maintes fois durant les généraux précédents), Kanbei bénéficie de +20% d'attaque ET de défense de base. Cela veut dire que toute unité dans la CO-zone (de taille correcte qui plus est, 2-3-4) a au moins 130/130, et Kanbei bénéficie d'une jolie unité à 150/150 !!
+Dans une bataille normale, il massacre tous les matchup égaux et les tournent tous en sa faveur. En tant qu'adversaire, à moins que vous utilisiez constamment vos pouvoirs, ou bien bénéficier également de gros bonus, il y a fort peu de chances que vous puissiez combattre à armes égales. Eloignez vos infanteries en toutes circonstances.
+Il y a cependant une contrepartie à cet effet complètement abusif : toutes les unités de Kanbei coûtent 20% plus cher si celui-ci est embarqué dans une unité (en d'autres termes, tant que la CO-zone est présente). Cela ramène un certain équilibre dans le rapport qualité/prix, les amenant même en dessous du potentiel de Colin car la différence de prix, d'attaque et de défense est la même pour tout (20%).
+Néanmoins, Kanbei a de multiples options à prendre. Soit il bénéficie tout de suite du bonus mais devra économiser plus de fonds pour pallier à la différence de prix, ou alors il peut former une petite armée avant d'embarquer et de lancer la première offensive (tout en risquant de perdre l'initiative).
+Quoi qu'il en soit, l'unité du général a tout l'air d'une unité déjà en rupture alors que ce n'est pas le cas ! Tout matchup s'en trouve bouleversé comme le prouvent ces calculs suivants :
+Tank@Kanbei(10PV) sur Route [150/150] VS Tank(10PV) sur Q.G [100/140] => 8.2PV contre 4.1PV (6.2PV contre 6.1PV en temps normal).
+Tank@Kanbei(10PV) sur Route [150/150] VS Neotank(10PV) en Plaines [100/110] => 6.0PV contre 6.6PV (3.2 contre 7.7 en temps normal, preuve que ce général n'est pas non plus invulnérable sur une différence de deux niveaux).
+Après tout cela, vous aimeriez bien savoir ce que Kanbei peut avoir de plus n'est-ce pas ?
+
+RUPTURE : Vous avez 20% de défense supplémentaire ainsi que +30% de contre-attaque (valable pendant le tour de l'ennemi).
+Contrairement aux anciens jeux, les pouvoirs de Kanbei misent plus sur la défense que l'attaque pure, et c'est une bonne chose ! Etant donné qu'en rupture ce général est quasi-intouchable, il aurait été fou de lui donner encore plus de puissance...
+Dans tous les cas, mieux vaut s'éloigner des unités de Kanbei durant sa rupture.
+
+SUPER RUPTURE : Le bonus de défense passe à 30% et la contre-attaque passe à +50%.
+D'ailleurs, que se passe-t'il si vous avez le malheur d'attaquer Kanbei durant ses pouvoirs plutôt que dans l'autre sens ? Eh bien, il y a de grandes chances pour que vous soyez en désavantage même pour des matchup en votre faveur. En d'autres termes, il vaudrait mieux laisser attaquer Kanbei dans ces cas-là !!
+Tour d'attaque : Tank@Kanbei(10PV) en Plaines [150/190] VS MdTank(10PV) en Plaines [100/110] => 7.8PV contre 5.2PV
+Tour de défense : MdTank(10PV) en Plaines [100/110] VS Tank@Kanbei(10PV) en Plaines [150+50/190] => 5.5PV contre 6.3PV ! (6.7PV contre 6.3PV pour une contre-attaque normale)
+De plus, le prix des unités revient momentanément à la normale, c'est donc le moment d'utiliser vos fonds et d'agrandir votre armée.
+/!\ Heureusement que ces nouvelles unités achetées ne bénéficient pas des bonus rajoutés...
+
+"Utiliser sa SR ou la garder ?"
+Vous avez le choix entre un effet brutal, une rupture explosive et une SR dévastatrice. Mais pour être un peu plus sérieux, les deux ruptures ayant l'air déséquilibrés au premier abord (la rupture semble assez puissante comparé à la SR), la différence se joue sur cette remise de prix à la normale.
+Il convient donc, dans le cas de maps non-déployées, de se former un bataillon avant d'embarquer le général. Sinon, c'est là que se joue votre super rupture : utilisez-le le plus possible afin de vous offrir des tours de déploiement.
+Si vous débutez dans la stratégie, utilisez vos pouvoirs comme vous le souhaitez, l'effet de base du général est déjà largement suffisant.
+Bien entendu, Kanbei est généralement à proscrire dans les maps prédéployées symétriques, où il est carrément broken du début jusqu'à la fin. Vos adversaires vous en seront très reconnaissants...
+
+Pour conclure, Kanbei est LE général qui se fait le plus connaître de part ses bonus de stats complètement dingues au premier abord, mais qui restent contrables finalement (sauf en rupture).
+Etant donné que n'importe quel autre général sera plus faible en comparaison, vous devez obligatoirement adopter une stratégie particulière comme affaiblir ses unités avec l'indirect puis les finir avec le direct.
+Sinon, vous pouvez aussi mettre à profit sa faiblesse sur l'argent et utiliser des généraux tels que Colin pour vous former une armée plus rapidement, ou alors l'empêcher de construire des unités le plus possible, miser sur les bonus d'attaque en valeur absolue...
+Enfin, Sasha peut maîtriser les pouvoirs de Kanbei en les bloquant, ce qui laisse une petite marge de manoeuvre, sachant que chaque tour compte dans Advance Wars !
+
+
+
+    -> Sonja
+
+Sonja est quant à elle, un génie stratégique spécialisée dans la reconnaissance. C'est la seule qui bénéficie, de base, d'un bonus de vision pour ses unités (mais pas pour tout le monde comme on le verra juste après). Elle ne bénéficie pas de bonus de stats sous quelque forme que ce soit (excepté le bonus de CO-zone), mais cela est compensé d'une autre manière.
+
+Tout d'abord, sa CO-zone est assez large par rapport à beaucoup d'autres : 4-5-6 cases. Cela est nécessaire pour son effet de base qui est l'augmentation de la vision. Oui, seuls les unités en CO-zone ont une vision augmentée de 1 (pour l'instant), ce qui donne un avantage modéré en brouillard de guerre.
+Son autre effet est de réduire la défense adverse par rapport au terrain, c'est-à-dire que leur couverture défensive est réduite d'une étoile partout. Ainsi, ils seront sans protection en Plaines, ce qui vous procure un léger avantage lorsque vous attaquez en premier. Voyez un combat standard d'infanteries comme si vous étiez en Plaines et l'adversaire sur Route.
+De bonus légers sur une grande zone, tel est l'effet de base de Sonja... nous allons tout de même voir que ses ruptures n'ont plus rien à voir avec le reste :
+
+RUPTURE : Vous obtenez un avant-goût du potentiel de Sonja, la capacité de voir sur tout type de terrain y compris les forêts, les récifs...
+N'oubliez pas que lorsque vous êtes en rupture, l'augmentation de vision s'applique à toutes vos unités. Cela est donc utile de les disperser un peu, afin de couvrir une plus grande zone en brouillard de guerre.
+L'autre capacité est assez utile également, puisque la couverture défensive des adversaires est encore diminuée d'une étoile, soit deux au total. Le général ennemi qui risque le plus d'en souffrir est Kat, qui verra alors sa puissance considérablement diminuer avec sa défense !
+
+SUPER RUPTURE : Pour commencer, vous bénéficiez des mêmes avantages que la rupture basique, mis à part que la vision augmente de 2 au lieu de 1.
+C'est déjà très fort, mais quelque chose d'encore plus puissant vient se rajouter à la liste. Durant le tour de l'adversaire, vous contre-attaquerez avant lui ! De quoi occasionner des renversements de situations car vous êtes assuré de causer des représailles à votre adversaire MÊME si certaines de vos unités sont considérées comme perdues !
+Par exemple, peu importe la puissance de l'adversaire ou s'il déclenche une rupture à son tour, vous lui renverrez des dégâts non négligeables avant de vous prendre ses coups. Attention à ne pas utiliser ce pouvoir à tort et à travers et évitez de l'utiliser quand votre adversaire a une défense bien supérieure (quand bien même celle-ci a déjà été diminuée).
+Enfin, dans tous les cas cette super rupture vous offre un bon nombre d'avantages ce qui est rare parmi tous les généraux du jeu.
+
+Vous ne gagnez pas de bonus de stats à proprement parler donc si vous couplez ces pouvoirs avec des rangs, c'est encore mieux.
+
+"Utiliser sa SR ou la garder ?"
+Tout dépend de la map et de la situation actuelle. En brouillard de guerre, il est bon d'adopter régulièrement la rupture basique, qui vous assure une vision globale pour un temps limité.
+Si vous n'êtes pas en brouillard de guerre et que la map est centrée sur du terrain comme les forêts ou les villes, utilisez aussi la rupture basique qui sera suffisante pour annuler plus vite les bonus défensifs de ce terrain.
+Dans les autres cas, foncez et prenez la super rupture ! Cela ne sera pas trop long à organiser grâce à sa grande CO-zone.
+
+Ainsi, Sonja peut être joué hors brouillard de guerre contrairement aux opus GBA, avec cette fameuse capacité à enlever la défense des adversaires (sa tendance à être malchanceuse a également été supprimée), ce qui ne la rend plus map-specific désormais.
+Sa capacité à briller contre les généraux qui tirent parti du terrain ou qui ont une attaque supérieure à la défense, la rend jouable dans un bon nombre de situations. Donnez-lui un peu de puissance en plus (tours de com., rangs...) et elle sera presque parfaite.
+
+
+
+    -> Sensei
+
+Le doyen de Yellow Comet en a encore à redire sur le champ de bataille. Sa stratégie particulière (basée sur un mélange de Sami et de Hachi) l'a rendu broken et détesté de tous, dans nombre de situations. Heureusement, après une rapide révision de ses pouvoirs, on espère qu'il soit redevenu plus jouable.
+
+Son effet de CO-zone sur 3-4-5 cases concerne un nombre limité d'unités mais tout comme Sami, les rend très puissants dès le début. Ces unités sont les hélicos de combat et les soldats. Ils ont 140/120 de base et 160/140 dans le cas de Sensei. Autant dire qu'il faudra se méfier lourdement de ces unités-là surtout en rupture.
+Ah oui, de plus ce général possède des unités de transport au mouvement amélioré de 1 dans la CO-zone. Le bonus des Hélicoptères n'est pas négligeable : ceux-ci sont des unités beaucoup plus mobiles et polyvalentes que l'infanterie, menant à des match-up intéressants :
+Hélicoptères@Sensei(10PV) en Plaines [140/120] VS MdTank(10PV) en Plaines [100/110] => 9PV contre 0PV. Oui, ça fait mal.
+Un dernier point par contre : si vous décidez de faire monter Sensei dans un hélicoptère, attention aux ASA et autres Missiles AA : les hélicoptères restent fragiles.
+
+RUPTURE : Forces Hélicos augmente fortement la puissance des hélicos / soldats, atteignant une puissance (sur toute la carte !) de 160/140. C'est assez effrayant de voir une petite flotte d'hélicoptères mettre à mal des unités lourdes.
+Inutile de préciser aussi que les unités indirectes non protégées seront réduites en bouillie. Le bonus de défense pour l'infanterie est également assez utile pour assurer une capture.
+Enfin, tous les soldats et transports seront soignés : idéal pour une phase de capture ! Pensez notamment que n'importe quelle unité ayant commencé une capture le tour précédent sera assurée de la finir grâce à votre Rupture.
+
+SUPER RUPTURE : Vos unités boostées passent à 180/140. L'attaque est impressionnante, et est couverte par une défense non négligeable. Vos hélicoptères deviennent des armes de mort ambulantes... et volantes ! Vous avez assurément la mobilité de votre côté, et vous faites très mal à des unités très chères! Hélicoptères@Sensei(10PV) en Plaines [180/140] VS Néotank(10PV) en Plaines [100/110] => 8PV contre 0PV.
+Mais le deuxième atout est bien évidemment l'envoi de parachutistes dans toutes vos villes, sous la forme d'infanterie (à 9 PV car on suppose que l'un d'eux a péri à l'atterissage). Ils forment, au choix, une manne d'argent décente si vous décidez de les fusionner, ou bien de la chair à canon gratuite.
+Le principal intérêt reste, à mon avis, le massif boost de dégâts aux hélicoptères, mais ces infanteries sont un véritable atout stratégique.
+
+"Utiliser sa SR ou la garder ?"
+Une  question intéressante. Sur des cartes assez petites, il vaudra mieux  tenir la SR un petit moment : votre CO-Zone agrandie est quand même  assez large, et souvent suffisante pour tenir un front complet.
+Dès  que vous avez besoin de percer une ligne défensive, de former un mur  humain vous-même, ou bien de lancer une attaque à grande échelle, faites  tout péter avec la SR.
+oui
+
+
+
+
+
+    -> Grimm
+
+Grimm est quelqu'un de très sympathique : il fonce. Ses pouvoirs montrent qu'il fonce, il passe son temps à vouloir taper. On sait où on va avec ce gars-là : on frappe le premier, et on espère que l'autre a suffisament mal pour ne pas pouvoir riposter.
+    
+Les unités dans la CO Zone de Grimm bénéficient de +30% d'attaque, mais n'ont pas le traditionnel bonus en défense : cela veut dire que dans 2-3-4 cases autour de Grimm, vous avez une armada d'unités à 140/100.
+Notez que ce bonus concerne TOUT votre état-major. Les bombardiers, comme les navires, comme les véhicules. Ca fait de Grimm un général somme toute très polyvalent : il excelle en combat aérien et de manière plus générale dans les batailles aéronavales, tout comme dans les batailles terrestres.
+Le malus défensif n'est pas trop grave tant que vous gardez l'initiative. Après tout, une unité morte ne fait pas de dégâts ! Par contre, si votre adversaire arrive à vous ralentir suffisament pour vous assaillir d'attaques indirectes, vous serez vite sur le reculoir.
+
+RUPTURE : Et on passe de 140 à 155 d'attaque ! Le bombardier qui trainait dans le coin ? One shot le Neotank. Vos véhicules indirectes créent de véritables no man's land autour d'eux, et même vos véhicules moyens peuvent pulvériser à travers les défenses ennemies.
+Le problème vient du tour adverse. Vous devez avoir mis celui-ci sur la défensive, sous peine de vous faire sanctionner : après tout, je vous rappelle que vous n'avez pas de bonus défensifs.
+Pour gagner du temps contre cette rupture, l'utilisation de quelques "chair à canon" peut être appréciable... Mais attention à ne pas donner le rang AS aux unités de Grimm !
+
+SUPER RUPTURE : Pareil, mais on est à 180. Je rappelle que ceci s'applique à l'intégralité de vos unités. Je ne vais pas rentrer dans les détails, mais vous avez l'oppurtunité de semer la mort avec pratiquement n'importe quelle unité.
+Le contrecoup est que vous ne pourrez pas riposter durant votre tour. Ce n'est pas aussi grave qu'on pourrait le penser : de un, très peu d'unités ennemies devraient rester à portée des votres. De deux, la plupart des unités restant hors de portée des votres devraient être des unités indirectes : vous ne pourrez pas riposter de toute manière !
+De même, l'essentiel en défense est de laisser passer l'orage. Dites-vous par exemple que même un Méga-Tank sur son propre QG est réduit à 1/2 PV après l'attaque d'un bombardier.
+
+"Utiliser sa SR ou la garder ?"
+Pour  Grimm, la question est la même que pour beaucoup de monde :  privilégiera-t-on un bonus constant mais moyen et localisé, ou un bonus  général, mais qui va avoir un contre-coup assez violent ?
+Comme  Grimm encaisse de toute façon mal tout contrecoup, on préférera, en  général, lancez la SR dès que possible. Mais il existe des cas où une  zone de 4 cases avec 140 d'attaque est préférable.
+
+
+    -> Eagle
+    
+Pilote d'avion émérité, ce CO est spécialiste de la division aérienne, au charisme évident et ne supportant pas l'erreur.
+
+Le général possède une force aérienne augmentée, avec +20% d'attaque et +10% de défense aux avions de la CO-zone. Petite nouveauté, cet effet concerne également les hélicos ! Un effet tout simple sur 2-3-4 cases, ce qui représente une alternative à Zadia si vous jouez plus prudent.
+Sa principale force réside, bien entendu, dans la division avionique, qui ont l'habitude de briller en mobilité et accessoirement en reconnaissance.
+De base, les unités aériennes ont 130/120 et 150/130 pour Eagle, ce qui représente un impact non négligeable dans des maps spécialisées.
+Il est bon de noter que les offensives aériennes sont souvent tendues, c'est-à-dire que le moindre petit bonus d'un côté fera pencher la balance et accordera l'avantage surtout à celui qui attaque en premier.
+----
+...Ah oui, contrairement aux anciens jeux AW, ses avions consomment autant de carburant que les autres généraux. Mais cela ne s'applique qu'hors rupture.
+
+RUPTURE : Les unités aériennes passent à 140/130 (160/140 pour Eagle). De plus, elles ne consomment pas de fuel dans leur déplacement durant ce tour. Cela rend certaines unités comme les Furtifs, ou les Intercepteurs beaucoup plus utilisables !
+----
+Cependant, prenez garde à leur niveau actuel : Si leur fuel est bientôt épuisé (moins de 5 unités restantes), ne courez pas de risque et allez les ravitailler dans un aéroport, porte-avions, voire un VTB placé à côté.
+Sinon, tant que vous ne vous éloignez pas trop de vos bases, tout devrait aller pour le mieux.
+/!\ Eagle reste sensible à la perte de fuel causé par ses adversaires, par là je veux notamment parler des pouvoirs de Drake.
+
+SUPER RUPTURE : Un pouvoir tout simple, mais qui justifie complètement la célébrité de ce général. Toutes les unités, excepté les soldats, peuvent rejouer un tour ! Ce second tour accordé à la majorité de vos unités vous procurera bien sûr, un avantage doublé, mais il peut servir aussi à retourner dans les rangs au cas où quelques unités seraient en difficulté.
+Pas besoin d'illustrer ce pouvoir, attaquez une fois, balancez votre super rupture, et attaquez une seconde fois. Le résultat devrait être probant et votre adversaire aura peu de chances d'organiser une contre-offensive. Néanmoins, utilisez-le TOUJOURS à la fin de votre tour car seules les unités ayant déjà bougé seront prises en compte.
+
+"Utiliser sa SR ou la garder ?"
+Seule la rupture normale doit être utilisée de façon réfléchie. Elle peut trouver quelques défauts par le fait que seul le mouvement ne fait pas consommer de carburant (mais vous recevez toujours les pénalités au début de chaque tour contrairement à quelques anciens opus AW).
+Les Furtifs et Intercepteurs doivent être utilisés attentivement afin de ne pas gaspiller leur potentiel et surtout, ne pas les jeter tout droit dans la gueule du loup.
+En revanche, la super rupture n'offre aucun défaut particulier et peut s'utiliser en toutes situations, alors foncez, surtout si vous ne jouez pas essentiellement au niveau aérien !
+
+Au final, Eagle est un très bon général au niveau aérien, seul un autre général pourrait le surpasser mais nous en parlerons plus tard.
+A part cela, il pourra tirer profit de ses autres divisions par son super pouvoir simple d'utilisation et terriblement efficace. Eagle possède une certaine polyvalence dont il serait dommage de s'en priver.
+
+
+    -> Drake
+    -> Jess
+    -> Javier
+    -> Helmut
+    -> Kat
+    -> Adder
+    -> Maverick
+    -> Sturm
+    -> Jugger
+    -> Zak
+    -> Candy
+    -> Von Bolt
+    
+    -> Ed
+    -> O'Brian
+    -> Lin
+    -> Catleïa
+    -> Zadia
+    -> Trak
+    -> Carter
+    -> Finn
+    -> Sigismundo
+    -> Lili
+    -> Larissa
+    -> Stolos... non on déconne, lui il joue pas
+    
+    -> Levail
+
+Le soldat parfait : Loyal, compétent et droit. Bon, il vient peut être de Fire Emblem : Radiant Dawn, mais il s'est vite adapté à son nouvel univers, dirons-nous.
+    
+Le bonus de base de Levail est doubler les bonus d'attaque liés au rang dans une zone de 3-4-5 cases. En début de partie, c'est très médiocre : même des unités de rang 1 n'atteindront "que" 130/110 (au lieu de 120/110), et elles seront déjà peut être endommagées.
+Plus la partie dure, et plus ce bonus risque d'être utile : plus d'unités signifie plus de vétérans. Assurez un service soin minimum pour permettre de garder vos anciens combattants.
+Rappelez-vous que le bonus s'applique à toutes les unités. Cela peut vous assurer une domination aérienne durable, par exemple.
+
+RUPTURE : Un bonus très simple : Toutes vos unités gagnent un rang. Simple, mais loin d'être faible : c'est un pouvoir qui ne s'arrête pas à la fin du tour !
+En fin de partie, ça peut transformer petit à petit votre armée en horde d'unités de rang Vétéran, c'est à dire une map remplie d'unitées 150/130. Rien que ça ! En début de partie, à spammer autant que possible.
+
+SUPER RUPTURE : En début de partie, presque inutile. En fin de partie, dévastateur. Les unités Vétéran deviennent tout bonnement des 170/170. Et grâce à vos pouvoirs, c'est très facile d'en avoir toute une floppée !
+De plus, la partie "Promotion" reste permanente, donc les unités Vétéran assureront que la contre-offensive sera difficile : ces 170 de défenses ne sont pas négligeables !
+
+"Utiliser sa SR ou la garder ?"
+A Spammer. Enfin, en milieu de partie, quand vous avez un certain nombre d'unités. Au début évidemment, le bonus offensif sera négligeable, donc vous devrez plutôt utiliser Promotion Générale.
+Mais dès que vous aurez assez d'unités pour profiter du bonus de rang, n'hésitez plus.
+
+    -> Klaus
+    
+Klaus est votre industriel typique : un bon gros cigare à la bouche et une armée de secrétaires pour gérer ses relations. Du genre à vendre des armes de deux côtés d'une guerre.
+    
+Son pouvoir rappelera certains souvenirs : c'est celui de Hachi dans les jeux précédents. Compte tenu de ses méchaniques, il va avoir sa barre remplie très rapidement. 
+Pas grand chose d'autre à dire, si ce n'est pas une question : où mettre le CO ? Au front pour bénéficier de l'aura, ou en arrière ? En début de partie, il est préférable de l'envoyer au front : 10% sur un Tank ou un Motard, ce n'est pas énorme.
+Mais lorsque la partie avance, et que des unités comme des Md Tanks ou des Bombardiers sont disponibles, il est bon de pouvoir éconimiser.
+
+RUPTURE : Industrialisation permet de pouvoir déplacer les unités qui viennent d'être produites. C'est un pouvoir qui peut soit être sympa pour gagner du temps, soit juste dévastateur si des bâtiments de production sont près du front.
+Gardez aussi à l'esprit que le bonus économique s'étend à toute la carte. Il peut être intéressant de spammer la Rupture pour assurer un apport plus rapide de combattants moins chers.
+
+SUPER RUPTURE : En plus du bonus d'Industrialisation, la Super Rupture fait chuter les coûts à 50% des prix initiaux. Quoi dire de plus à part "achetez des unités chères" ?
+
+"Utiliser sa SR ou la garder ?"
+La question ne se pose pas : Klaus va chercher l'avantage technologique, il faut pour cela l'utiliser le pouvoir le plus possible. 
+Par contre, une nouvelle fois, en début de partie, il peut être intéressant de choisir la Rupture plutôt que la Super Rupture, si vos fonds sont limités.
+
+    -> Formiotoris
+    
+Certainement pas nommé depuis un démon de Fire Emblem : Sacred Stones. Formiotoris ne connaît pas de maître et ne souffre pas d'ordre. Il veut du sang. (ouiiii)
+
+Sa CO-Zone est pour le moins médiocre : 30% d'attaque pour toutes les unités directes, c'est bien mais sur seulement 1 case au début. L'effet "Vampirisme" (1 PV rendu à chaque fois qu'une unité en détruit une autre) est sympathique, mais trop faible pour être à la base d'une stratégie.
+Evidemment, lorsque la zone s'agrandit, ça devient assez mortel : un bonus massif, et la possibilité de soigner gratuitement des unités chères sont des armes assez... attrayantes.
+
+RUPTURE : Un pouvoir simple : annule les pénalités de mouvement. Ca ne veut bien sur pas dire que votre Tank pourra flotter ou traverser les montagnes, mais ça peut grandement faciliter des replacements défensifs, ou bien des attaques 
+Le point le plus intéressant est bien sur l'extension globale de la zone : un soin potentiel et un bonus massif d'attaque sur toute la carte.
+
+SUPER RUPTURE : Une nouvelle fois, on fait dans le simple : la même chose, avec plus d'attaque.
+Tout d'abord, ça fait que la carte sera remplie d'unités directes à 160/110. L'absence de bonus défensif est compensée par le vampirisme de Formiotoris, inutile de préciser que vous pouvez en profiter pour taper fort, et vite.
+
+"Utiliser sa SR ou la garder ?"
+Une nouvelle fois, tout dépend du dilemne "avoir une zone de mort avec une grande CO-Zone, ou se lancer à corps perdu". L'absence de pénalités de mouvement pendant la SR peut influencer votre décision.
+
+    -> Priam
+    
+Toute ressemblance avec une personne ou un fait réel est un produit fortuit de mon imagination.
+
+Priam est un général qui excelle dans les cartes urbaines. Il bénéficie, d'une part, de réparations gratuites, et d'autre part, d'un bonus défensif correct sur les cases urbaines (propriétés et routes).
+Le résultat est que là où Priam est le plus faible, c'est en plaine. Les réparations gratuites font qu'il est très difficile d'attaquer une unité se tenant sur une propriété de Priam.
+
+RUPTURE : La principale utilité de ce pouvoir est de pouvoir construire des structures temporaires en un seul jour. Combiné à l'extension de la Co-Zone sur toute la carte, et à la défense supplémentaire, ça fait de ce pouvoir un excellent outil de préparation.
+Les unités se tenant sur des propriétés seront à 110/150 (plus la couverture défensive) et auront été soignées gratuitement. Cela fait de Priam un général qui, malgré l'absence de bonus aéro-naval, un bon général dans ce domaine, en particulier pour le déploiement de Furtifs ou de SUB.
+
+SUPER RUPTURE : Là où la Rupture sert surtout à préparer une attaque, la Super Rupture (en plus de cela) est un outil mortel de contre attaque. La moindre capture (qui part d'un soldat à 10 PV) est non seulement bloquée pour le tour, puis ensuite retardée car cette unité n'aura que 7 PV !
+Gardez en mémoire que le bonus défensif s'applique non seulement sur les propriétés (ennemies comme amies !) mais aussi en route. Comme dit plus haut, vous pouvez investir la base adverse sans crainte.
+Et bien sur, vous avez toujours les constructions immédiates.
+
+"Utiliser sa SR ou la garder ?"
+Le point le plus intéressant de la SR est de bloquer les ennemis sur vos propriétés. En phase offensive, on préfèrera en conséquent avoir la Rupture sur 2 tours plus qu'un tour de Super Rupture.
+Ceci dit, dès que vous êtes sur le reculoir, la SR s'impose.
+
+    -> Heyden
+    
+Ce gars-là est du genre à connaître ce qu'il y a sur votre historique. Et à ne pas aimer ça.
+
+Hayden est un général de Fog of War. Il est bien sur utilisable en dehors, mais il n'a quasiment aucun avantage. Sa CO Zone le montre bien : grande (4-5-6) mais procurant un simple bonus de 10% d'attaque aux unités directes.
+C'est par exemple moins bien que Carter (qui est certes un cas à part), et comparable à Hachi... qui compense par des Ruptures très puissantes. Autant vous avertir, ce n'est pas le cas ici... Sauf si vous jouez avec du brouillard de guerre.
+
+RUPTURE : Je vais partir du fait que vous êtes en brouillard de guerre. Sinon, changez de général. Ce pouvoir vous permettra de débusquer facilement les positions adverses, car les propriétés sont des points stratégiques.
+Ca vous permettra, aussi, de pouvoir contrer les captures ennemies : que ce soit en pouvant attaquer directement les soldats qui capturent, ou bien en leur envoyant une fusée incendiaire sur la tête.
+D'ailleurs, profitez-en à fond ! Ce sont des dégâts gratuits, et ça rend les fusées éclairantes très utiles : des mini-roquettes pour pas chères !
+
+SUPER RUPTURE : On passe aux choses sérieuses. On perd les fusées-roquettes, mais on gagne en contrepartie un bonus non négligeable : la possibilité d'attaquer même si bloqué.
+Evidemment, ce n'est pas toujours profitable : vous n'avez peut être pas envie d'envoyer votre Infanterie au casse-pipe contre un tank embusqué. C'est pour cela qu'on privilégiera des charges de blindés, qui ne craidront que peu d'ennemis en face.
+Si vous êtes face à ce pouvoir, murez-vous avec des unités qui n'ont pas peur des unités directes : des Canons défensifs en particulier, ou bien des Murs défensifs. En mer, c'est différent : les cases cachette sont peu souvent côté à côté. Une seule option : la fuite.
+
+"Utiliser sa SR ou la garder ?"
+Foncez. La CO-Zone est de toute façon négligeable, et les deux bonus, combinés, sont suffisament puissants pour imposer une utilisation systématiques de la SR.
+Ceci étant dit, on pourra éventuellement préférer la Rupture pour les dégâts des fusées.
+
+    -> Khrall
+    
+Je ne sais même plus d'où vient son nom. Mais j'aime bien l'imaginer avec des lunettes de taupe et un bâton de dynamite à la main. Et légèrement fou.
+
+Il a une CO-Zone pour le moins inhabituel. L'attaque est fortement augmentée... Mais seulement si vous êtes en désavantage ! De taille raisonnable (2-3-4), l'intérêt n'est pas des match-ups violents comme Tank vs Méga Tank, mais dans des match-ups de type Bombardiers vs AA, où le premier qui tape annihile l'ennemi.
+Prenez ce dernier par exemple : aucune de ces unités n'est capable de détruire l'autre en un coup, mais le premier qui frappe gagne quand même. Sauf qu'il reste des survivants... Pas avec Khrall.
+Les bazookas aussi en bénéficient fortement, car étant fragile, ils sont souvent à la merci d'une riposte un peu trop forte pour leur défense en carton-pâte. Voyez plutôt : Bazooka@Khrall(10PV) en Plaines [150/110] VS MdTank(10PV) en Plaines [100/100] => 6PV contre 5PV. Je tiens à rappeler qu'un Bazooka coûte presque 5 fois qu'un Md Tank.
+
+RUPTURE : Un pouvoir qui ne paie pas de mine, mais peut se révéler très chiant. Tous les coûts logistiques (Fuel / Munitions) sont doublés. Si l'impact sur un Tank est faible, un Méga Tank va tout simplement balancer la moitié de ses munitions en un seul tir... qui pourrait très bien être une riposte.
+Profitez-en pour forcer votre adversaire à battre en retraite pour refaire le plein, ou à épuiser les munitions de certaines unités un peu gourmandes.
+Le pire est pour les SUBs et les Furtifs, pour qui le moindre mouvement devient un effort violent.
+
+SUPER RUPTURE : Pour peu que l'ennemi soit affaibli par des Ruptures répétées, vous pouvez le mettre à terre avec la SR. En effet, il interdit tout simplement les ravitaillements. Ce MégaTank sans munition ? Tant pis. Ce Furtif un peu bas en carburant ? A terre.
+Prenez conscience, par contre, que Khrall ne bénéficie d'aucun bonus statistique. Tout se joue sur l'épuisement de la logistique adverse. Si vous n'arrivez pas à y faire la différence, vous perdrez. Mais sinon, vous pourrez obtenir un semblant d'avantage statistique grâce aux rangs.
+En effet, les unités de rangs élevés ont déjà vu des batailles, et peuvent avoir besoin de ravitaillements... que vous leur interdirez.
+
+"Utiliser sa SR ou la garder ?
+Même si la CO-Zone est intéressante, elle ne fait pas le poids contre, soit un surcoût des manoeuvres, soit un blocage pur et simple des ravitaillements. Après, le choix se portera entre les deux Ruptures.
+Le but est en général de faire plier la logistique ennemie avec des Ruptures successives, avant de prendre l'avantage sur la SR.
+
+    -> Tamerlan
+    
+Je vais me répéter, mais il n'est certainement pas inspiré d'un personnage historique. Non monsieur.
+
+Tamerlan est pour le moins atypique. Dans une zone de 2-3-4 cases, les unités directes et les transports bénéficient de 30% de défense, ce qui est loin d'être négligeable. La preuve :
+VTA@Sensei(10PV) en Plaines [110/140] VS Bazooka(10PV) en Plaines [100/110] : 8 PV àr 5 PV. Gardez à l'esprit que le VTA est d'abord une unité de transport, qui est maintenant capable d'aller au contact d'unités faibles. Il est par exemple difficile pour un Recon de battre un VTA.
+Bien sur, cela fait d'unités comme les Tanks ou... les avions, des unités très résistantes.
+
+RUPTURE : La défense supplémentaire est massive. Cela transforme toutes les unités directes (blindés, mais aussi avions notamment) des unités à 110/160. Le bonus concerne également les unités indirectes, et en particulier les Canons Défensifs.
+Mais bien sur, ce n'est pas le plus gros intérêt. Vos unités directes pourront maintenant se déplacer d'une case après leur attaque. Que ce soit simplement pour laisser la place à un autre assaillant, ou pour vous mettre hors de portée des lignes défensives adverses, l'utilité est très grande.
+Cela réduit surtout l'utilité des chairs à canon face à Tamerlan, puisque même avec des Tanks il peut non seulement percer la ligne défensive adverse, puis foncer dans la faille. La clé est donc la qualité plutôt que la quantité, puisque que Tamerlan ne bénéficie pas de bonus offensif.
+
+SUPER RUPTURE : Vous ne bénéficiez plus de bonus défensif supplémentaire, mais vous pouvez maintenant utilisez TOUT le mouvement restant après vos attaques.
+Cela fait de Tamerlan un excellent général dans les manoeuvres air-sol, puisque ses avions peuvent aisément attaquer une cible puis se mettre à l'abri avec leur large mouvement. Les autres unités mobiles, comme les Tanks, en bénéficient fortement aussi.
+Enfin, les unités sortant des transports peuvent agir. Cela bénéficie bien sur pour les captures (qui n'ont pas de pénalité), mais aussi à des débarquements massifs où vous pourrez manoeuvrer vos troupes, voire même endommagés des unités indrectes se croyant à l'abri.
+
+"Utiliser sa SR ou la garder ?"
+Même si le bonus défensif n'est pas négligeable, il ne vaut pas la liberté de mouvement qu'offre la SR, en particulier si vous avez de nombreuses unités mobiles (Néotank, avions).
+Et puis, vous pouvez vous permettre de prendre des positions dangereuses grâce à des unités à 110/140.
+
+    -> Peitr
+    
+Peitr a une petite zone, de seulement 1-2-3 cases. Pire, le bonus est assez inhabituel : 10/40 pour les unités indirectes. Même si le bonus défensif semble impressionnant, rappelez-vous que vous ne devriez pas laisser vos unités indirectes en premier lieu !
+Cette zone a donc deux utilités : d'abord, minimisez (grandement) les dégâts infligés à vos unités indirectes. Vous pouvez vous permettre de les placer de manière un peu exposée. Les Ruptures de Peitre exploitent un grand nombre d'unités indirectes, qu'elles soient en bonne santé ou pas. Ce n'est pas une raison pour former une première ligne de Lance-Roquettes, ceci dit...
+La deuxième utilité est pour les Canons Défensifs. Ceux-ci tirent profit du bonus défensif pour leurs ripostes, et permettent de faire grandir la taille de la zone plus rapidement. Par exemple, même un Bombardier ne fait que 50~60% aux Canons défensifs de Peitr !
+Enfin, les unités indirectes de Peitr sont facilement capables de se mettre à portée des unités indirectes adverses, pour peu qu'elles sont un peu endommagées (ou que vous vous placez sur une case à haute couverture défensive).
+
+RUPTURE : L'attaque des unités indirectes augmente enfin significativement, mais rien d'impressionnant non plus. Non, la véritable utilité est de punir les formations serrées adverses, et renforce Peitr dans son rôle d'artilleur anti-indirect.
+Bien sur, cela est aussi très efficace pour détruire des groupes de Tanks ennemis. Gardez à l'esprit que même un Canon de Campagne avec 1 PV bénéficie des bombes, et que l'effet est encore plus dévastateur si vous concentrez votre feu.
+
+SUPER RUPTURE : Toutes vos unités indirectes deviennent des 150/150 ! Inutile de dire que cela fait des Lances-Roquettes des véritables engins de mort, et surtout de vos Canons Défensifs de robustes véhicules.
+En plus des dégâts de zone, les unités indirectes réduisent le mouvement des unités d'une case. Idéal pour couper la retraite d'unités comme les MégaTanks ou les unités indirectes adverses. C'est en particulier efficace si il y a beaucoup de terrain difficile qui généra encore plus les mouvements ennemis.
+
+"Utiliser sa SR ou la garder ?"
+Comme dans d'autres cas, la véritable question est "dois-je spammer Bombe à fragmentation ou stocker pour la SR ?". La principale utilité de la SR est la réduction du mouvement. Si vous voulez avancer vos lignes défensives, ou bien amputer les mouvements adverses, gardez pour la SR.
+Sinon, deux tours de Rupture seront plus efficaces, pour ce potentiel énorme de dégâts gratuits.
+
+
+
+    -> Damian
+    
+Damian améliore vos unités les plus chères. Sur terre, il améliore les Porte Etendard, Neotanks, MégaTank, Lance-Roquettes et Murs Défensifs. Il améliore tous les navires à part les transporteurs et les Lance-Torpilles, et les unités aériennes à part les hélicos et l'ARA.
+Le bonus est cependant assez modeste : 10/20 sur 2-3-4. Gardez cependant à l'espirt que cela s'applique à des unités déjà puissantes. Et, encore mieux, à quasiment toutes les unités des forces aéro-navales, ce qui n'est pas négligeable.
+Il devient alors évident qu'il faut éviter d'acheter des unités intermédiaires avec Damian. Un MdTank vaut peux-être moins cher qu'un NéoTank, mais ceux de Damian en valent largement la peine. De même, des ARA seront un peu faiblards comparés aux avions de chasse.
+
+RUPTURE : Une Rupture qui peut sembler faiblarde. Un réapprovisionnement général (y compris les VTB !) n'est pas négligeable, mais est-ce que ça en vaut la peine ?
+Cependant, l'abaissement de la limite est plus intéressante qu'il n'y parait. Cela permet de donner des bonus aux MdTank, Missiles AA, Canons Défensifs, ARA et Lance-Torpilles. Certaines de ces unités sont peu facilement remplaçables (Canons Défensifs, ARA en Fog of War, Missiles AA) et avoir un bonus qui s'étend à eux est intéressant.
+
+SUPER RUPTURE : Un pouvoir pour gagner de l'argent, tiens. Sachez que vous gagnez de l'argent pour toutes les unités d'une valeur de base supérieure à 14 000, mais que vous ne gagnez que la moitié de leur vraie valeur (c'est à dire qu'un Neotank réduit à 1 PV ne vous donnera que 1100G).
+Même si vous ne gagnez aucun avantage statistique, mais l'argent que vous gagnez servira à payer d'autres unités chères, qui... enfin vous avez compris le principe. Damian est efficace pour "snowballer" hors de contrôle. Plus il gagne de l'argent, plus il peut avoir de l'argent.
+Cependant, souvenez-vous que votre bonus de stat est au mieux correct. Ce qui en fait la force, c'est que cela s'applique à des unités déjà fortes.
+
+"Utiliser sa SR ou la garder ?"
+Etant donné que vous avez besoin d'argent, et que vous n'en avez jamais trop, autant le spammer.
+
+
+
+    -> Erik
+    
+Erik est un général pour le moins étrange. Contrairement aux autres, il n'affecte pas vos unités... Mais les unités adverses, avec un bonus d'ordre défensif.
+En effet, il réduit l'attaque des unités adverses dans sa zone (3-4-5). Attention, ce n'est pas exactement équivalent à une augmentation de 20% de votre défense. En particulier dans le cas des unités à hautes attaques : la réduction est plus importante que pour une augmentation de la défense.
+Par contre, pour des attaques faibles c'est moins intéressant.
+La deuxième différence est par contre en défaveur de Erik : Pour que le malus s'applique... il faut que l'unité ennemie soit dans la zone. Ce qui veut dire que les unités indirectes ont tout loisir de vous marcher dessus. A taille maximum, votre CO sera en sécurité (sauf des obusiers). Mais les unités en bordure restent vulnérables.
+
+RUPTURE : C'est une Rupture un peu différente des autres, puisqu'elle ne s'active pas. Une fois la barre de Rupture atteinte, toutes les unités situées dans la CO Zone (qui n'aura pas grandi, par contre) verront leur défense baisser, et ce jusqu'à ce que votre barre de Rupture repasse en dessous du seuil de Rupture.
+Un bonus offensif non négligeable, puis que cela permet à des unités un peu faiblardes de passer outre des unités assez solides. Gardez à l'esprit que ce sont les unités ennemies qui sont touchées. Cela veut dire si des unités à vous qui sont en dehors de la zone peuvent en bénéficier, du moment qu'elles visent des ennemis dans la zone.
+3 cases restent assez limitées, mais il est possible d'en profiter. Par contre, assurez-vous que votre CO soit dans un véhicule résistant, puisqu'il devra être en première ligne pour affecter le plus d'adversaire possibles. Il faudra aussi essayer de profiter du bonus de 10/10 de la CO-Zone.
+Rappelez-vous que cela touche toutes les unités d'état-major. Aucun Avion n'est cependant assez solide pour pleinement en profiter, et les navires sont souvent loin du front.
+
+SUPER RUPTURE : Le premier effet est la réduction de mouvement adverse. Cela est tout à fait profitable à Erik, puisque cela forcera votre opposant à regrouper ses troupes (faute de mouvement), ce qui sera d'autant plus facile pour vous de les affaiblir.
+Mais là n'est pas le plus utile. Tout d'abord, les unités les plus chères ne peuvent pas être attaquées par des unités moins chères (cela s'applique au prix actuel, càd qu'un Tank à 1 PV vaut 700G). Les Lance-Roquettes ne peuvent pas être attaquées par des Md Tank, les Bombardiers sont immunisés à tout ce qui n'est pas un Croiseur ou ASA (ou un Furtif) et j'en passe.
+En d'autre terme, cela veut dire que les unités de contre de l'adversaire sont fortement restreintes. Sachant qu'en plus elles ont moins de mouvement... Tous les ennemis peuvent riposter ceci dit.
+Ce pouvoir ne s'utilise pas comme tous les autres. Le but est de profiter du tour de Super Rupture pour se placer sans crainte de riposte adverse. Le bonus statistique est finalement mineur (80/80 à l'ennemi contre votre 110/110).
+
+"Utiliser sa SR ou la garder ?"
+Considérant l'avantage tactique que procure la SR, il n'y a que peu de raison de ne pas l'utiliser. Un point important quand même : même si utiliser la SR ne fait perdre qu'une case de CO Zone, cela veut surtout dire que la CO Zone ne baissera plus la défense des adversaires.
+
+    -> Vigarde
+    -> Eirika
+    -> Syrene
+
+    -> Vigarde
+    -> Eirika
+    -> Syrene
+
+
+
+CHANGELOG
+
+24 Aout 2014
+
+Custom CO
+
+    Le SCOP de Levail double aussi la défense liée au bonus de rang
+
+    Klaus : D2D : Réduction des coûts --> Gagne en argent une partie de la valeur des unités de sa CO-Zone
+
+    Priam : Le D2D est en défense directe ET indirecte. COP : Bonus de défense remplacé par : Sur activation de la Rupture, les unités susceptibles d'être réparées sont réparées. SCOP : Bonus de défense enlevé. Les usines activent aussi le blocage.
+
+    Tamerlan : Comme un Murmure : De "Les unités directes peuvent se déplacer d'une case après leur attaque" devient "Vos unités peuvent traverser les unités adverses". Les autres bonus sont enlevés.
+
+    Ardan : Modifié Coup d'Etat : Fait spawn un MégaTank dans votre QG, enlevé le boost de mouvement.
+
+    Boris : Rallier les foules devient Neutralité : Annule la chance de l'ennemi (hors COP). Les unités gagnant un rang ce tour-ci en gagnent deux à la place.
+
+
+CO de AW: Dual Strike
+
+    Andy : Le bonus d'attaque de Réparafond est aussi présent dans Génie logistique.
+
+    Sami : D2D : 3 points de capture supplémentaires (au lieu de 2). Marche forcée ne donne le bonus de mouvement qu'aux soldats (et plus aux transports), et plus que 2 pts de capture bonus (au lieu de 3, le total reste inchangé). Accorde en plus un bonus de 20% d'attaque aux soldats. Conquête ne donne plus que 7 pts de capture bonus (le total reste inchangé) et un bonus de 30% d'attaque aux soldats.
+
+    Hachi : Troc permet d'acheter des unités dans toutes vos villes (au lieu de baisser le prix à 50%)
+
+    Colin : Ruée vers l'Aure n'augmente le fond plus que de 50% (contre 100%, pour compenser le fait qu'il ait une CO Zone infinie)
+
+    Sensei : Force Hélicos : 20% d'attaque supplémentaire pour les hélicos & les soldats --> +30% d'attaque supplémentaire pour les hélicos seulement.
+
+    Grimm : Kamikaze : 40% d'attaque supplémentaire --> 45% d'attaque supplémentaire.
+
+    Jess : CO-Zone réduite d'une case. Pleine Puissance : 20% d'attaque supplémentaire --> 30% d'attaque supplémentaire.
+
+    Kat : CO Zone augmentée d'une case.
+
+    Adder : Priorité reworked : Aucun effet. La charge d'Adder se remplit d'une barre supplémentaire au début de chaque tour.
+
+    Candy : Féroce cité : 20% d'attaque supplémentaire depuis les cités --> 30% d'attaque supplémentaire depuis les cités.
+
+CO de AW: Days of Ruin
+
+    Ed : Espoir : 20% d'attaque supplémentaire pour les véhicules terrestres directs --> 30% d'attaque supplémentaire pour les véhicules terrestres directs.
+
+    Trak : Magnitude : La riposte des indirects s'effectue AVANT l'attaque (cc Aure)
+
+    Stolos : Rien changé. Fascinating. <- I approve.
+
+
+
+
+-> 12/08/2014
+
+Custom CO
+
+    Ajout de 3 nouveaux CO : Ardan ; Boris ; Rolland.
+
+
+
+-> 11/08/2014
+
+Commentaires
+
+    Modification dans commentaires unités.
+
+    Ajout des commentaires d'Eagle.
+
+
+
+-> 04/08/2014
+
+Custom units
+
+    Char d'assaut retiré. (RIP)
+
+
+
+---> Avant
+Nobody knows.
+:itisamystery::
+
+

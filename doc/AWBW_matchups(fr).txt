@@ -1,0 +1,4058 @@
+
+TERRESTRE
+Infanterie
+Bazooka
+Motard
+Recon
+Fusée éclairante
+Tank
+Char d'assaut
+Medium tank
+Porte étendard
+Neotank
+Mégatank
+Tank AA
+Missiles AA
+Artillerie
+Canon de campagne
+Canon défensif
+Lance roquettes
+Obusier
+VTA
+VTB/Génie (*)
+Mur de défense
+
+MARINE
+Vedette
+Barge (*)
+Lance torpilles (!)
+Destroyer (!)
+Submersible (!)
+Croiseur
+Cuirassé
+Porte-avion
+
+AVIATION
+Hélico transport (*)
+Hélicoptère
+ARA
+Avion de chasse
+Bombardier
+Chasseur/ASA
+Intercepteur
+Furtif
+
+
+----- TOUS LES MATCHUP PAR UNITE -----
+
+Légende :
+Une unité est Forte contre une autre si elle la détruit en 1, 2 ou 3 rounds durant son attaque.
+Une unité est Faible contre une autre si elle se fait détruire en 1 ou 2 rounds. (3 rounds étant assez rare, on ne traitera pas ce cas)
+A partir du 3ème round en défense, le combat est Indécidable. Tous les résultats 4+RKO ou 3+RKOD sont rangés là-dedans.
+Si les deux unités ne s'infligent pas des dégâts suffisants (<10% par round), le résultat est Neutre.
+Remarque : Si une des deux unités ne peut pas combattre, elle est tout de suite classée dans la catégorie faible. Donc (20/x) donnera Fort, et (x/20) donnera Faible. De plus le combat ne sera pas Indécidable quel que soient les dégâts.
+On assume que les unités combattent 1 par 1 comme suit : A->B ; B->A ; A->B ; B->A ; ...
+Les matchups suivants sont pris en compte avec des unités en pleine forme (100% de santé) et aucune différence en bonus de stats (100/100 affronte 100/100 ; 120/130 affronte 130/120...)
+
+Ex. : Unité A VS... Unité B (55/55 matchup) -> Résultat (santé restante des unités en % après 3 rounds max.)
+
+
+	Infanterie
+
+-> Fort contre...
+
+
+-> Faible contre...
+
+
+-> Indécidable (4+RKO ou 3+RKOD)
+
+
+-> Neutre
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+Chasseur/ASA (x/x)
+
+Infanterie (55/55) -> 2RKO après attaque (51%/0%)
+Bazooka(2nd) (45/65) -> 2RKOD après défense (0%/28%)
+Motard (45/65) -> 2RKOD après défense (0%/28%)
+Recon (12/75) -> 1RKOD après défense (0%/88%)
+Fusée éclairante (10/80) -> 1RKOD après défense (0%/90%)
+Tank(2nd) (5/75) -> 1RKOD après défense (0%/95%)
+Medium tank(2nd) (5/90) -> 1RKOD après défense (0%/95%)
+Porte étendard (1/90) -> 1RKOD après défense (0%/99%)
+Neotank(2nd) (1/105) -> 1RKOD après attaque (0%/99%)
+Mégatank(2nd) (1/105) -> 1RKOD après attaque (0%/99%)
+Tank AA (5/115) -> 1RKOD après attaque (0%/95%)
+Missiles AA (20/x) -> 5RKO après attaque (100%/0%)
+Artillerie (15/90) -> 
+Canon de campagne (30/75) -> 
+Canon défensif (30/75) -> 1RKOD après défense (0%/70%)
+Lance roquettes (20/100) -> 1RKOD après défense (0%/80%)
+Obusier (25/120) ->
+VTA (14/65) -> 1RKOD après défense (0%/86%)
+VTB/Génie (14/x) -> 8RKO après attaque (100%/0%)
+Mur de défense (20/70) -> 1RKOD après défense (0%/80%)
+
+
+Croiseur (x/70) -> 2RKOD après défense (0%/100%)
+Cuirassé (x/85) -> 2RKOD après défense (0%/100%)
+
+
+Hélico transport (30/x) -> 4RKO après attaque (100%/0%)
+Hélicoptère(2nd) (8/75) -> 1RKOD après défense (0%/92%)
+ARA (x/50) -> 2RKOD après défense (0%/100%)
+Avion de chasse (x/70) -> 2RKOD après défense (0%/100%)
+Bombardier (x/115) -> 1RKOD après défense (0%/100%)
+
+Intercepteur (x/90) -> 2RKOD après défense (0%/100%)
+Furtif (x/90) -> 2RKOD après défense (0%/100%)
+
+
+	Bazooka
+
+-> Fort contre...
+-> Faible contre...
+-> Indécidable (4+RKO ou 3+RKOD)
+-> Neutre
+
+Infanterie
+Bazooka
+Motard
+Recon
+Fusée éclairante
+Tank
+Char d'assaut
+Medium tank
+Porte étendard
+Neotank
+Mégatank
+Tank AA
+Missiles AA
+Artillerie
+Canon de campagne
+Canon défensif
+Lance roquettes
+Obusier
+VTA
+VTB/Génie
+Mur de défense
+
+Vedette
+Barge
+Lance torpilles
+Destroyer
+Submersible
+Croiseur
+Cuirassé
+Porte-avion
+
+Hélico transport
+Hélicoptère
+ARA
+Avion de chasse
+Bombardier
+Chasseur/ASA
+Intercepteur
+Furtif
+
+
+	Motard
+
+-> Fort contre...
+-> Faible contre...
+-> Indécidable (4+RKO ou 3+RKOD)
+-> Neutre
+
+Infanterie
+Bazooka
+Motard
+Recon
+Fusée éclairante
+Tank
+Char d'assaut
+Medium tank
+Porte étendard
+Neotank
+Mégatank
+Tank AA
+Missiles AA
+Artillerie
+Canon de campagne
+Canon défensif
+Lance roquettes
+Obusier
+VTA
+VTB/Génie
+Mur de défense
+
+Vedette
+Barge
+Lance torpilles
+Destroyer
+Submersible
+Croiseur
+Cuirassé
+Porte-avion
+
+Hélico transport
+Hélicoptère
+ARA
+Avion de chasse
+Bombardier
+Chasseur/ASA
+Intercepteur
+Furtif
+
+**************************
+***Refonte en cours...***
+**************************
+----------------------------
+SAMPLE : Unité attaquante VS...
+Unité défensive : Modèle de matchup (attaque infligée/contre-attaque reçue)
+Attaque globale obtenue avec la médiane et moyenne de toutes les attaques
+Défense globale obtenue avec 1 - médiane et moyenne de toutes les défenses
+
+
+
+TERRESTRE
+Infanterie
+Bazooka
+Motard
+Recon
+Fusée éclairante
+Tank
+Char d'assaut
+Medium tank
+Porte étendard
+Neotank
+Mégatank
+Tank AA
+Missiles AA
+Artillerie
+Canon de campagne
+Canon défensif
+Lance roquettes
+Obusier
+VTA
+VTB/Génie (*)
+Mur de défense
+
+MARINE
+Vedette
+Barge (*)
+Lance torpilles (!)
+Destroyer (!)
+Submersible (!)
+Croiseur
+Cuirassé
+Porte-avion
+
+AVIATION
+Hélico transport (*)
+Hélicoptère
+ARA
+Avion de chasse
+Bombardier
+Chasseur/ASA
+Intercepteur
+Furtif
+
+(*) : Unité de transport ne pouvant pas attaquer
+(!) : Signifie que l'unité peut attaquer un SUB immergé
+
+------ TOUS LES MATCHUP PAR UNITE ------ [Ancienne méthode]
+
+
+	Infanterie : Attaque globale 14%~17% Défense globale 17%~23%
+
+Infanterie (55/55)
+Bazooka (45/65)
+Motard (45/65)
+Recon (12/75)
+Fusée éclairante (10/80)
+Tank (5/75)
+Char d'assaut (5/70)
+Medium tank (5/90)
+Porte étendard (1/90)
+Neotank (1/105)
+Mégatank (1/120)
+Tank AA (5/115)
+Missiles AA (20/x)
+Artillerie (15/90)
+Canon de campagne (30/75)
+Canon défensif (30/75)
+Lance roquettes (20/100)
+Obusier (25/120)
+VTA (14/65)
+VTB/Génie (14/x)
+Mur de défense (20/70)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Croiseur (x/80)
+Cuirassé (x/85)
+Porte-avion (x/x)
+
+Hélico transport (30/x)
+Hélicoptère (8/75)
+ARA (x/50)
+Avion de chasse (x/70)
+Bombardier (x/115)
+Chasseur/ASA (x/x)
+Intercepteur (x/90)
+Furtif (x/90)
+
+
+
+
+	Bazooka : Attaque globale 55%~56% Défense globale 26%~30%
+	[Arme secondaire : Identique à Motard]
+
+Infanterie (65/45)
+Bazooka (55/55)
+Motard (55/55)
+Recon (85/60)
+Fusée éclairante (80/70)
+Tank (55/70)
+Char d'assaut (55/60)
+Medium tank (30/80)
+Porte étendard (20/80)
+Neotank (20/95)
+Mégatank (10/95)
+Tank AA (55/105)
+Missiles AA (85/x)
+Artillerie (70/85)
+Canon de campagne (75/65)
+Canon défensif (55/65)
+Lance roquettes (85/95)
+Obusier (100/110)
+VTA (75/55)
+VTB/Génie (75/x)
+Mur de défense (40/55)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Croiseur (x/70)
+Cuirassé (x/80)
+Porte-avion (x/x)
+
+Hélico transport (35/x)
+Hélicoptère (12/70)
+ARA (x/40)
+Avion de chasse (x/65)
+Bombardier (x/110)
+Chasseur/ASA (x/x)
+Intercepteur (x/85)
+Furtif (x/90)
+
+
+
+
+	Motard : Attaque globale 20%~23% Défense globale 26%~30%
+
+Infanterie (65/45)
+Bazooka (55/55)
+Motard (55/55)
+Recon (18/60)
+Fusée éclairante (15/70)
+Tank (8/70)
+Char d'assaut (8/60)
+Medium tank (5/80)
+Porte étendard (1/80)
+Neotank (1/95)
+Mégatank (1/95)
+Tank AA (5/105)
+Missiles AA (35/x)
+Artillerie (15/85)
+Canon de campagne (35/65)
+Canon défensif (35/65)
+Lance roquettes (35/95)
+Obusier (35/110)
+VTA (20/55)
+VTB/Génie (20/x)
+Mur de défense (25/55)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles(x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Croiseur (x/70)
+Cuirassé (x/80)
+Porte-avion (x/x)
+
+Hélico transport (35/x)
+Hélicoptère (12/70)
+ARA (x/40)
+Avion de chasse (x/65)
+Bombardier (x/110)
+Chasseur/ASA (x/x)
+Intercepteur (x/85)
+Furtif (x/85)
+
+
+
+
+	Recon : Attaque globale 32%~35% Défense globale
+
+Infanterie (75/12)
+Bazooka (60/85)
+Motard (60/18)
+Recon (35/35)
+Fusée éclairante (30/60)
+Tank (8/85)
+Char d'assaut (10/80)
+Medium tank (5/95)
+Porte étendard (4/50)
+Neotank (1/105)
+Mégatank (1/120)
+Tank AA (8/60)
+Missiles AA (45/x)
+Artillerie (35/80)
+Canon de campagne (40/60)
+Canon défensif (25/75)
+Lance roquettes (45/90)
+Obusier (45/100)
+VTA (45/18)
+VTB/Génie (45/x)
+Mur de défense (30/30)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Croiseur (x/60)
+Cuirassé (x/80)
+Porte-avion (x/x)
+
+Hélico transport (35/x)
+Hélicoptère (18/70)
+ARA (x/18)
+Avion de chasse (x/60)
+Bombardier (x/105)
+Chasseur/ASA (x/x)
+Intercepteur (x/80)
+Furtif (x/85)
+
+
+
+
+
+	Fusée éclairante : Attaque globale 36%~45% Défense globale
+
+Infanterie (80/10)
+Bazooka (70/80)
+Motard (70/15)
+Recon (60/30)
+Fusée éclairante (50/50)
+Tank (10/80)
+Char d'assaut (10/75)
+Medium tank (5/90)
+Porte étendard (4/45)
+Neotank (1/105)
+Mégatank (1/115)
+Tank AA (15/50)
+Missiles AA (55/x)
+Artillerie (45/75)
+Canon de campagne (50/60)
+Canon défensif (25/75)
+Lance roquettes (55/85)
+Obusier (55/95)
+VTA (45/15)
+VTB/Génie (45/x)
+Mur de défense (30/30)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Croiseur (x/55)
+Cuirassé (x/70)
+Porte-avion (x/x)
+
+Hélico transport (35/x)
+Hélicoptère (18/65)
+ARA (x/15)
+Avion de chasse (x/50)
+Bombardier (x/105)
+Chasseur/ASA (x/x)
+Intercepteur (x/80)
+Furtif (x/80)
+
+
+
+
+
+	Tank : Attaque globale Défense globale
+
+Infanterie (75/5)
+Bazooka (70/55)
+Motard (70/8)
+Recon (85/8)
+Fusée éclairante (80/10)
+Tank (55/55)
+Char d'assaut (60/45)
+Medium tank (35/70)
+Porte étendard (20/30)
+Neotank (25/85)
+Mégatank (10/100)
+Tank AA (65/20)
+Missiles AA (85/x)
+Artillerie (70/60)
+Canon de campagne (75/55)
+Canon défensif (30/75)
+Lance roquettes (85/70)
+Obusier (90/85)
+VTA (75/8)
+VTB/Génie (75/x)
+Mur de défense (8/10)
+
+Vedette (18/x)
+Barge (18/x)
+Lance torpilles (18/x)
+Destroyer (9/x)
+Submersible (9/x)
+Croiseur (5/40)
+Cuirassé (5/68)
+Porte-avion (8/x)
+
+Hélico transport (40/x)
+Hélicoptère (18/55)
+ARA (x/8)
+Avion de chasse (x/20)
+Bombardier (x/105)
+Chasseur/ASA (x/x)
+Intercepteur (x/75)
+Furtif (x/77)
+
+
+
+	Char d'assaut : Attaque globale Défense globale
+
+Infanterie (70/5)
+Bazooka (60/55)
+Motard (60/8)
+Recon (80/10)
+Fusée éclairante (75/10)
+Tank (45/60)
+Char d'assaut (50/50)
+Medium tank (25/75)
+Porte étendard (12/30)
+Neotank (15/90)
+Mégatank (5/110)
+Tank AA (55/25)
+Missiles AA (80/x)
+Artillerie (60/70)
+Canon de campagne (75/55)
+Canon défensif (25/80)
+Lance roquettes (80/80)
+Obusier (85/95)
+VTA (70/8)
+VTB/Génie (70/x)
+Mur de défense (5/10)
+
+Vedette (15/x)
+Barge (15/x)
+Lance torpilles (12/x)
+Destroyer (5/x)
+Submersible (5/x)
+Croiseur (5/45)
+Cuirassé (1/72)
+Porte-avion (3/x)
+
+Hélico transport (35/x)
+Hélicoptère (12/63)
+ARA (x/10)
+Avion de chasse (x/25)
+Bombardier (x/110)
+Chasseur/ASA (x/x)
+Intercepteur (x/82)
+Furtif (x/85)
+
+
+
+
+	Md tank : Attaque globale Défense globale
+
+Infanterie (90/5)
+Bazooka (80/30)
+Motard (80/5)
+Recon (95/5)
+Fusée éclairante (90/5)
+Tank (70/35)
+Char d'assaut (75/25)
+Medium tank (55/55)
+Porte étendard (45/10)
+Neotank (40/75)
+Mégatank (30/95)
+Tank AA (80/15)
+Missiles AA (90/x)
+Artillerie (85/45)
+Canon de campagne (90/35)
+Canon défensif (35/65)
+Lance roquettes (90/55)
+Obusier (105/75)
+VTA (90/5)
+VTB/Génie (90/x)
+Mur de défense (15/5)
+
+Vedette (25/x)
+Barge (22/x)
+Lance torpilles (30/x)
+Destroyer (12/x)
+Submersible (12/x)
+Croiseur (15/35)
+Cuirassé (8/55)
+Porte-avion (10/x)
+
+Hélico transport (40/x)
+Hélicoptère (24/35)
+ARA (x/5)
+Avion de chasse (x/15)
+Bombardier (x/95)
+Chasseur/ASA (x/x)
+Intercepteur (x/65)
+Furtif (x/70)
+
+
+
+
+	Porte étendard : Attaque globale Défense globale
+
+Infanterie (90/1)
+Bazooka (80/20)
+Motard (80/1)
+Recon (50/4)
+Fusée éclairante (45/4)
+Tank (30/20)
+Char d'assaut (30/15)
+Medium tank (10/45)
+Porte étendard (8/8)
+Neotank (8/60)
+Mégatank (4/75)
+Tank AA (30/10)
+Missiles AA (60/x)
+Artillerie (50/45)
+Canon de campagne (50/35)
+Canon défensif (35/65)
+Lance roquettes (60/50)
+Obusier (65/70)
+VTA (50/5)
+VTB/Génie (50/x)
+Mur de défense (30/3)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Croiseur (x/30)
+Cuirassé (x/50)
+Porte-avion (x/x)
+
+Hélico transport (50/x)
+Hélicoptère (35/25)
+ARA (x/4)
+Avion de chasse (x/10)
+Bombardier (x/80)
+Chasseur/ASA (x/x)
+Intercepteur (x/55)
+Furtif (x/60)
+
+
+
+	Neotank : Attaque globale Défense globale
+
+Infanterie (105/1)
+Bazooka (95/20)
+Motard (95/1)
+Recon (105/1)
+Fusée éclairante (105/1)
+Tank (85/25)
+Char d'assaut (90/15)
+Medium tank (75/40)
+Porte étendard (60/8)
+Neotank (55/55)
+Mégatank (45/70)
+Tank AA (95/10)
+Missiles AA (105/x)
+Artillerie (100/40)
+Canon de campagne (105/30)
+Canon défensif (40/55)
+Lance roquettes (105/50)
+Obusier (120/60)
+VTA (105/1)
+VTB/Génie (105/x)
+Mur de défense (20/1)
+
+Vedette (35/x)
+Barge (28/x)
+Lance torpilles (45/x)
+Destroyer (14/x)
+Submersible (14/x)
+Croiseur (20/20)
+Cuirassé (11/45)
+Porte-avion (15/x)
+
+Hélico transport (45/x)
+Hélicoptère (30/25)
+ARA (x/1)
+Avion de chasse (x/10)
+Bombardier (x/75)
+Chasseur/ASA (x/x)
+Intercepteur (x/55)
+Furtif (x/60)
+
+
+
+
+	Megatank : Attaque globale Défense globale
+
+Infanterie (105/1)
+Bazooka (95/10)
+Motard (95/1)
+Recon (120/1)
+Fusée éclairante (115/1)
+Tank (100/10)
+Char d'assaut (110/5)
+Medium tank (95/30)
+Porte étendard (75/4)
+Neotank (70/45)
+Mégatank (55/55)
+Tank AA (110/5)
+Missiles AA (120/x)
+Artillerie (115/35)
+Canon de campagne (120/30)
+Canon défensif (45/45)
+Lance roquettes (120/45)
+Obusier (135/50)
+VTA (115/1)
+VTB/Génie (115/x)
+Mur de défense (30/1)
+
+Vedette (50/x)
+Barge (33/x)
+Lance torpilles (60/x)
+Destroyer (17/x)
+Submersible (17/x)
+Croiseur (30/18)
+Cuirassé (14/40)
+Porte-avion (20/x)
+
+Hélico transport (45/x)
+Hélicoptère (30/15)
+ARA (x/1)
+Avion de chasse (x/5)
+Bombardier (x/55)
+Chasseur/ASA (x/x)
+Intercepteur (x/45)
+Furtif (x/50)
+
+
+
+
+	Tank AA : Attaque globale Défense globale
+
+Infanterie (115/5)
+Bazooka (105/55)
+Motard (105/5)
+Recon (60/8)
+Fusée éclairante (50/15)
+Tank (20/65)
+Char d'assaut (25/55)
+Medium tank (15/80)
+Porte étendard (10/30)
+Neotank (10/95)
+Mégatank (5/110)
+Tank AA (45/45)
+Missiles AA (55/x)
+Artillerie (50/75)
+Canon de campagne (50/55)
+Canon défensif (25/65)
+Lance roquettes (55/85)
+Obusier (60/100)
+VTA (50/5)
+VTB/Génie (50/x)
+Mur de défense (22/15)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Croiseur (x/45)
+Cuirassé (x/75)
+Porte-avion (x/x)
+
+Hélico transport (120/x)
+Hélicoptère (105/20)
+ARA (90/5)
+Avion de chasse (95/15)
+Bombardier (75/80)
+Chasseur/ASA (65/x)
+Intercepteur (75/45)
+Furtif (65/50)
+
+
+
+	Missiles AA : Attaque globale 108%~109% Défense globale
+
+Infanterie (x/20)
+Bazooka (x/85)
+Motard (x/35)
+Recon (x/45)
+Fusée éclairante (x/55)
+Tank (x/85)
+Char d'assaut (x/80)
+Medium tank (x/90)
+Porte étendard (x/60)
+Neotank (x/105)
+Mégatank (x/120)
+Tank AA (x/55)
+Missiles AA (x/x)
+Artillerie (x/80)
+Canon de campagne (x/70)
+Canon défensif (x/70)
+Lance roquettes (x/90)
+Obusier (x/110)
+VTA (x/35)
+VTB/Génie (x/x)
+Mur de défense (x/50)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Croiseur (x/65)
+Cuirassé (x/80)
+Porte-avion (x/x)
+
+Hélico transport (120/x)
+Hélicoptère (120/55)
+ARA (105/15)
+Avion de chasse (120/60)
+Bombardier (100/95)
+Chasseur/ASA (100/x)
+Intercepteur (110/70)
+Furtif (100/85)
+
+
+
+
+	Artillerie : Attaque globale Défense globale
+
+Infanterie (90/15)
+Bazooka (85/70)
+Motard (85/15)
+Recon (80/35)
+Fusée éclairante (75/45)
+Tank (60/70)
+Char d'assaut (70/65)
+Medium tank (45/85)
+Porte étendard (45/50)
+Neotank (40/100)
+Mégatank (35/115)
+Tank AA (75/50)
+Missiles AA (80/x)
+Artillerie (75/75)
+Canon de campagne (80/50)
+Canon défensif (55/65)
+Lance roquettes (80/80)
+Obusier (90/90)
+VTA (70/15)
+VTB/Génie (70/x)
+Mur de défense (65/40)
+
+Vedette (80/x)
+Barge (55/x)
+Lance torpilles (70/x)
+Destroyer (55/x)
+Submersible (60/x)
+Croiseur (60/50)
+Cuirassé (45/75)
+Porte-avion (45/x)
+
+Hélico transport (x/x)
+Hélicoptère (x/65)
+ARA (x/15)
+Avion de chasse (x/55)
+Bombardier (x/100)
+Chasseur/ASA (x/x)
+Intercepteur (x/70)
+Furtif (x/75)
+
+
+
+
+	Canon de campagne : Attaque globale Défense globale
+
+Infanterie (75/30)
+Bazooka (65/75)
+Motard (65/35)
+Recon (60/40)
+Fusée éclairante (60/50)
+Tank (55/75)
+Char d'assaut (55/75)
+Medium tank (35/90)
+Porte étendard (35/50)
+Neotank (30/105)
+Mégatank (30/120)
+Tank AA (55/50)
+Missiles AA (70/x)
+Artillerie (50/80)
+Canon de campagne (65/65)
+Canon défensif (45/60)
+Lance roquettes (65/90)
+Obusier (70/105)
+VTA (60/35)
+VTB/Génie (60/x)
+Mur de défense (50/50)
+
+Vedette (60/x)
+Barge (45/x)
+Lance torpilles (50/x)
+Destroyer (30/x)
+Submersible (30/x)
+Croiseur (45/50)
+Cuirassé (30/90)
+Porte-avion (20/x)
+
+Hélico transport (35/x)
+Hélicoptère (20/75)
+ARA (x/20)
+Avion de chasse (x/55)
+Bombardier (x/105)
+Chasseur/ASA (x/x)
+Intercepteur (x/80)
+Furtif (x/75)
+
+
+
+	Canon défensif : Attaque globale Défense globale
+
+Infanterie (75/30)
+Bazooka (65/55)
+Motard (65/35)
+Recon (75/25)
+Fusée éclairante (75/25)
+Tank (75/30)
+Char d'assaut (80/25)
+Medium tank (65/35)
+Porte étendard (65/35)
+Neotank (55/40)
+Mégatank (45/45)
+Tank AA (65/25)
+Missiles AA (70/x)
+Artillerie (65/55)
+Canon de campagne (60/45)
+Canon défensif (55/55)
+Lance roquettes (70/65)
+Obusier (75/70)
+VTA (65/35)
+VTB/Génie (65/x)
+Mur de défense (70/20)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Croiseur (x/30)
+Cuirassé (x/70)
+Porte-avion (x/x)
+
+Hélico transport (45/x)
+Hélicoptère (30/20)
+ARA (x/20)
+Avion de chasse (x/30)
+Bombardier (x/80)
+Chasseur/ASA (x/x)
+Intercepteur (x/50)
+Furtif (x/55)
+
+
+
+
+	Lance roquettes : Attaque globale Défense globale
+
+Infanterie (100/20)
+Bazooka (95/85)
+Motard (95/35)
+Recon (90/45)
+Fusée éclairante (85/55)
+Tank (70/85)
+Char d'assaut (80/80)
+Medium tank (55/90)
+Porte étendard (50/60)
+Neotank (50/105)
+Mégatank (45/120)
+Tank AA (85/55)
+Missiles AA (90/x)
+Artillerie (80/80)
+Canon de campagne (90/65)
+Canon défensif (65/70)
+Lance roquettes (85/85)
+Obusier (100/100)
+VTA (80/35)
+VTB/Génie (80/x)
+Mur de défense (75/50)
+
+Vedette (90/x)
+Barge (60/x)
+Lance torpilles (80/x)
+Destroyer (60/x)
+Submersible (65/x)
+Croiseur (60/55)
+Cuirassé (55/80)
+Porte-avion (60/x)
+
+Hélico transport (x/x)
+Hélicoptère (x/75)
+ARA (x/25)
+Avion de chasse (x/60)
+Bombardier (x/105)
+Chasseur/ASA (x/x)
+Intercepteur (x/80)
+Furtif (x/85)
+
+
+
+	Obusier : Attaque globale Défense globale
+
+Infanterie (120/25)
+Bazooka (110/100)
+Motard (110/35)
+Recon (100/45)
+Fusée éclairante (95/55)
+Tank (85/90)
+Char d'assaut (95/85)
+Medium tank (75/105)
+Porte étendard (70/65)
+Neotank (65/120)
+Mégatank (55/135)
+Tank AA (100/60)
+Missiles AA (110/x)
+Artillerie (90/90)
+Canon de campagne (105/70)
+Canon défensif (70/75)
+Lance roquettes (100/100)
+Obusier (110/110)
+VTA (90/35)
+VTB/Génie (90/x)
+Mur de défense (80/60)
+
+Vedette (100/x)
+Barge (70/x)
+Lance torpilles (85/x)
+Destroyer (65/x)
+Submersible (70/x)
+Croiseur (60/60)
+Cuirassé (60/95)
+Porte-avion (70/x)
+
+Hélico transport (x/x)
+Hélicoptère (x/80)
+ARA (x/30)
+Avion de chasse (x/65)
+Bombardier (x/120)
+Chasseur/ASA (x/x)
+Intercepteur (x/90)
+Furtif (x/100)
+
+
+
+	VTA : Attaque globale Défense globale
+
+Infanterie (65/14)
+Bazooka (55/75)
+Motard (55/20)
+Recon (18/45)
+Fusée éclairante (15/45)
+Tank (8/75)
+Char d'assaut (8/70)
+Medium tank (5/90)
+Porte étendard (5/50)
+Neotank (1/105)
+Mégatank (1/115)
+Tank AA (5/50)
+Missiles AA (35/x)
+Artillerie (15/70)
+Canon de campagne (35/60)
+Canon défensif (35/65)
+Lance roquettes (35/80)
+Obusier (35/90)
+VTA (20/20)
+VTB/Génie (20/x)
+Mur de défense (25/35)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Croiseur (x/60)
+Cuirassé (x/72)
+Porte-avion (x/x)
+
+Hélico transport (35/x)
+Hélicoptère (12/65)
+ARA (x/15)
+Avion de chasse (x/55)
+Bombardier (x/105)
+Chasseur/ASA (x/x)
+Intercepteur (x/75)
+Furtif (x/85)
+
+
+
+
+	VTB/Génie : Défense globale
+
+Infanterie (x/14)
+Bazooka (x/75)
+Motard (x/20)
+Recon (x/45)
+Fusée éclairante (x/45)
+Tank (x/75)
+Char d'assaut (x/70)
+Medium tank (x/90)
+Porte étendard (x/50)
+Neotank (x/105)
+Mégatank (x/115)
+Tank AA (x/50)
+Missiles AA (x/x)
+Artillerie (x/70)
+Canon de campagne (x/60)
+Canon défensif (x/65)
+Lance roquettes (x/80)
+Obusier (x/90)
+VTA (x/20)
+VTB/Génie (x/x)
+Mur de défense (x/35)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Croiseur (x/60)
+Cuirassé (x/72)
+Porte-avion (x/x)
+
+Hélico transport (x/x)
+Hélicoptère (x/65)
+ARA (x/15)
+Avion de chasse (x/55)
+Bombardier (x/105)
+Chasseur/ASA (x/x)
+Intercepteur (x/75)
+Furtif (x/85)
+
+
+
+
+
+	Mur de défense : Attaque globale Défense globale
+
+Infanterie (70/20)
+Bazooka (55/40)
+Motard (55/25)
+Recon (30/30)
+Fusée éclairante (30/30)
+Tank (10/8)
+Char d'assaut (10/5)
+Medium tank (5/15)
+Porte étendard (3/30)
+Neotank (1/20)
+Mégatank (1/30)
+Tank AA (15/22)
+Missiles AA (50/x)
+Artillerie (40/65)
+Canon de campagne (50/50)
+Canon défensif (20/70)
+Lance roquettes (50/75)
+Obusier (60/80)
+VTA (35/25)
+VTB/Génie (35/x)
+Mur de défense (35/35)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Croiseur (x/30)
+Cuirassé (x/75)
+Porte-avion (x/x)
+
+Hélico transport (30/x)
+Hélicoptère (12/22)
+ARA (x/18)
+Avion de chasse (x/25)
+Bombardier (x/95)
+Chasseur/ASA (x/x)
+Intercepteur (x/60)
+Furtif (x/57)
+
+
+
+
+	Vedette : Attaque globale Défense globale
+
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Tank (x/18)
+Char d'assaut (x/15)
+Medium tank (x/25)
+Porte étendard (x/x)
+Neotank (x/35)
+Mégatank (x/50)
+Tank AA (x/x)
+Missiles AA (x/x)
+Artillerie (x/80)
+Canon de campagne (x/60)
+Canon défensif (x/x)
+Lance roquettes (x/90)
+Obusier (x/100)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+
+Vedette (55/55)
+Barge (55/x)
+Lance torpilles (65/75)
+Destroyer (50/80)
+Submersible (40/110)
+Croiseur (40/70)
+Cuirassé (50/90)
+Porte-avion (40/x)
+
+Hélico transport (x/x)
+Hélicoptère (x/35)
+ARA (x/x)
+Avion de chasse (x/20)
+Bombardier (x/105)
+Chasseur/ASA (x/x)
+Intercepteur (x/90)
+Furtif (x/70)
+
+
+
+
+	Barge : Défense globale
+
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Tank (x/18)
+Char d'assaut (x/15)
+Medium tank (x/22)
+Porte étendard (x/x)
+Neotank (x/28)
+Mégatank (x/33)
+Tank AA (x/x)
+Missiles AA (x/x)
+Artillerie (x/55)
+Canon de campagne (x/45)
+Canon défensif (x/x)
+Lance roquettes (x/60)
+Obusier (x/70)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+
+Vedette (x/55)
+Barge (x/x)
+Lance torpilles (x/80)
+Destroyer (x/40)
+Submersible (x/90)
+Croiseur (x/60)
+Cuirassé (x/80)
+Porte-avion (x/x)
+
+Hélico transport (x/x)
+Hélicoptère (x/25)
+ARA (x/x)
+Avion de chasse (x/12)
+Bombardier (x/95)
+Chasseur/ASA (x/x)
+Intercepteur (x/85)
+Furtif (x/65)
+
+
+
+	Lance torpilles : Attaque globale Défense globale
+
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Tank (x/18)
+Char d'assaut (x/12)
+Medium tank (x/30)
+Porte étendard (x/x)
+Neotank (x/45)
+Mégatank (x/60)
+Tank AA (x/x)
+Missiles AA (x/x)
+Artillerie (x/70)
+Canon de campagne (x/50)
+Canon défensif (x/x)
+Lance roquettes (x/80)
+Obusier (x/85)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+
+Vedette (75/65)
+Barge (80/x)
+Lance torpilles (70/70)
+Destroyer (50/35)
+Submersible (50/55) !
+Croiseur (45/60)
+Cuirassé (50/70)
+Porte-avion (60/x)
+
+Hélico transport (x/x)
+Hélicoptère (x/40)
+ARA (x/x)
+Avion de chasse (x/6)
+Bombardier (x/85)
+Chasseur/ASA (x/x)
+Intercepteur (x/70)
+Furtif (x/50)
+
+
+
+
+	Destroyer : Attaque globale Défense globale
+
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Tank (x/9)
+Char d'assaut (x/5)
+Medium tank (x/12)
+Porte étendard (x/x)
+Neotank (x/14)
+Mégatank (x/17)
+Tank AA (x/x)
+Missiles AA (x/x)
+Artillerie (x/55)
+Canon de campagne (x/30)
+Canon défensif (x/x)
+Lance roquettes (x/60)
+Obusier (x/65)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+
+Vedette (80/50)
+Barge (40/x)
+Lance torpilles (35/50)
+Destroyer (25/25)
+Submersible (95/25) !
+Croiseur (20/25)
+Cuirassé (16/70)
+Porte-avion (20/x)
+
+Hélico transport (120/x)
+Hélicoptère (120/15)
+ARA (95/x)
+Avion de chasse (110/5)
+Bombardier (105/50)
+Chasseur/ASA (105/x)
+Intercepteur (105/40)
+Furtif (100/35)
+
+
+
+
+	Submersible : Attaque globale Défense globale
+
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Tank (x/9)
+Char d'assaut (x/5)
+Medium tank (x/12)
+Porte étendard (x/x)
+Neotank (x/14)
+Mégatank (x/17)
+Tank AA (x/x)
+Missiles AA (x/x)
+Artillerie (x/60)
+Canon de campagne (x/30)
+Canon défensif (x/x)
+Lance roquettes (x/65)
+Obusier (x/70)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+
+Vedette (110/40)
+Barge (90/x)
+Lance torpilles (55/50)
+Destroyer (25/95)
+Submersible (55/55) !
+Croiseur (65/50)
+Cuirassé (75/75)
+Porte-avion (90/x)
+
+Hélico transport (x/x)
+Hélicoptère (x/25)
+ARA (x/x)
+Avion de chasse (x/10)
+Bombardier (x/95)
+Chasseur/ASA (x/x)
+Intercepteur (x/55)
+Furtif (x/55)
+
+
+
+
+	Croiseur : Attaque globale Défense globale
+
+Infanterie (80/x)
+Bazooka (70/x)
+Motard (70/x)
+Recon (60/x)
+Fusée éclairante (55/x)
+Tank (40/5)
+Char d'assaut (45/5)
+Medium tank (35/15)
+Porte étendard (30/x)
+Neotank (20/20)
+Mégatank (18/30)
+Tank AA (45/x)
+Missiles AA (65/x)
+Artillerie (50/60)
+Canon de campagne (50/45)
+Canon défensif (30/x)
+Lance roquettes (55/60)
+Obusier (60/60)
+VTA (60/x)
+VTB/Génie (60/x)
+Mur de défense (30/x)
+
+Vedette (70/40)
+Barge (60/x)
+Lance torpilles (60/45)
+Destroyer (25/20)
+Submersible (50/65)
+Croiseur (50/50)
+Cuirassé (45/45)
+Porte-avion (55/x)
+
+Hélico transport (100/x)
+Hélicoptère (75/25)
+ARA (x/x)
+Avion de chasse (x/5)
+Bombardier (x/75)
+Chasseur/ASA (x/x)
+Intercepteur (x/55)
+Furtif (x/55)
+
+
+
+	Cuirassé : Attaque globale Défense globale
+
+Infanterie (85/x)
+Bazooka (80/x)
+Motard (80/x)
+Recon (80/x)
+Fusée éclairante (70/x)
+Tank (68/5)
+Char d'assaut (72/1)
+Medium tank (55/8)
+Porte étendard (50/x)
+Neotank (45/11)
+Mégatank (40/14)
+Tank AA (75/x)
+Missiles AA (80/x)
+Artillerie (75/45)
+Canon de campagne (90/30)
+Canon défensif (70/x)
+Lance roquettes (80/55)
+Obusier (95/60)
+VTA (72/x)
+VTB/Génie (72/x)
+Mur de défense (75/x)
+
+Vedette (90/50)
+Barge (80/x)
+Lance torpilles (70/50)
+Destroyer (70/16)
+Submersible (75/75)
+Croiseur (45/45)
+Cuirassé (50/50)
+Porte-avion (60/x)
+
+Hélico transport (x/x)
+Hélicoptère (x/25)
+ARA (x/x)
+Avion de chasse (x/10)
+Bombardier (x/75)
+Chasseur/ASA (x/x)
+Intercepteur (x/45)
+Furtif (x/45)
+
+
+
+	Porte-avion : Attaque globale Défense globale
+
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Tank (x/8)
+Char d'assaut (x/3)
+Medium tank (x/10)
+Porte étendard (x/x)
+Neotank (x/15)
+Mégatank (x/20)
+Tank AA (x/x)
+Missiles AA (x/x)
+Artillerie (x/45)
+Canon de campagne (x/20)
+Canon défensif (x/x)
+Lance roquettes (x/60)
+Obusier (x/70)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+
+Vedette (x/40)
+Barge (x/x)
+Lance torpilles (x/60)
+Destroyer (x/20)
+Submersible (x/90)
+Croiseur (x/55)
+Cuirassé (x/60)
+Porte-avion (x/x)
+
+Hélico transport (115/x)
+Hélicoptère (100/25)
+ARA (80/x)
+Avion de chasse (120/15)
+Bombardier (85/80)
+Chasseur/ASA (60/x)
+Intercepteur (70/65)
+Furtif (60/45)
+
+
+	Hélico transport : Défense globale
+
+Infanterie (x/30)
+Bazooka (x/35)
+Motard (x/35)
+Recon (x/35)
+Fusée éclairante (x/35)
+Tank (x/40)
+Char d'assaut (x/35)
+Medium tank (x/40)
+Porte étendard (x/50)
+Neotank (x/45)
+Mégatank (x/45)
+Tank AA (x/120)
+Missiles AA (x/120)
+Artillerie (x/x)
+Canon de campagne (x/35)
+Canon défensif (x/45)
+Lance roquettes (x/x)
+Obusier (x/x)
+VTA (x/35)
+VTB/Génie (x/x)
+Mur de défense (x/30)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/120)
+Submersible (x/x)
+Croiseur (x/100)
+Cuirassé (x/x)
+Porte-avion (x/115)
+
+Hélico transport (x/x)
+Hélicoptère (x/85)
+ARA (x/90)
+Avion de chasse (x/100)
+Bombardier (x/x)
+Chasseur/ASA (x/120)
+Intercepteur (x/95)
+Furtif (x/95)
+
+
+
+	Hélicoptère : Attaque globale Défense globale
+
+Infanterie (75/8)
+Bazooka (70/12)
+Motard (70/12)
+Recon (70/18)
+Fusée éclairante (65/18)
+Tank (55/18)
+Char d'assaut (63/12)
+Medium tank (35/24)
+Porte étendard (25/35)
+Neotank (25/30)
+Mégatank (15/30)
+Tank AA (20/105)
+Missiles AA (55/120)
+Artillerie (65/x)
+Canon de campagne (75/20)
+Canon défensif (20/30)
+Lance roquettes (75/x)
+Obusier (80/x)
+VTA (65/12)
+VTB/Génie (65/x)
+Mur de défense (22/12)
+
+Vedette (35/x)
+Barge (25/x)
+Lance torpilles (40/x)
+Destroyer (15/120)
+Submersible (25/x)
+Croiseur (25/75)
+Cuirassé (25/x)
+Porte-avion (25/100)
+
+Hélico transport (85/x)
+Hélicoptère (65/65)
+ARA (x/70)
+Avion de chasse (x/85)
+Bombardier (x/x)
+Chasseur/ASA (x/120)
+Intercepteur (x/85)
+Furtif (x/85)
+
+
+
+	ARA : Attaque globale Défense globale
+
+Infanterie (50/x)
+Bazooka (40/x)
+Motard (40/x)
+Recon (18/x)
+Fusée éclairante (15/x)
+Tank (8/x)
+Char d'assaut (10/x)
+Medium tank (5/x)
+Porte étendard (4/x)
+Neotank (1/x)
+Mégatank (1/x)
+Tank AA (5/90)
+Missiles AA (15/105)
+Artillerie (15/x)
+Canon de campagne (20/x)
+Canon défensif (20/x)
+Lance roquettes (25/x)
+Obusier (30/x)
+VTA (15/x)
+VTB/Génie (15/x)
+Mur de défense (18/x)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/95)
+Submersible (x/x)
+Croiseur (x/x)
+Cuirassé (x/x)
+Porte-avion (x/80)
+
+Hélico transport (90/x)
+Hélicoptère (70/x)
+ARA (50/50)
+Avion de chasse (65/60)
+Bombardier (45/x)
+Chasseur/ASA (35/85)
+Intercepteur (45/55)
+Furtif (60/40)
+
+
+
+
+	Avion de chasse : Attaque globale Défense globale
+
+Infanterie (70/x)
+Bazooka (65/x)
+Motard (65/x)
+Recon (60/x)
+Fusée éclairante (50/x)
+Tank (20/x)
+Char d'assaut (25/x)
+Medium tank (15/x)
+Porte étendard (10/x)
+Neotank (10/x)
+Mégatank (5/x)
+Tank AA (15/95)
+Missiles AA (60/120)
+Artillerie (55/x)
+Canon de campagne (55/x)
+Canon défensif (30/x)
+Lance roquettes (60/x)
+Obusier (65/x)
+VTA (55/x)
+VTB/Génie (55/x)
+Mur de défense (25/x)
+
+Vedette (20/x)
+Barge (12/x)
+Lance torpilles (6/x)
+Destroyer (5/110)
+Submersible (10/x)
+Croiseur (5/x)
+Cuirassé (10/x)
+Porte-avion (15/120)
+
+Hélico transport (100/x)
+Hélicoptère (85/x)
+ARA (60/65)
+Avion de chasse (50/50)
+Bombardier (60/x)
+Chasseur/ASA (45/65)
+Intercepteur (50/65)
+Furtif (75/60)
+
+
+
+	Bombardier : Attaque globale 94%~95% Défense globale
+
+Infanterie (115/x)
+Bazooka (110/x)
+Motard (110/x)
+Recon (105/x)
+Fusée éclairante (105/x)
+Tank (105/x)
+Char d'assaut (110/x)
+Medium tank (95/x)
+Porte étendard (80/x)
+Neotank (75/x)
+Mégatank (60/x)
+Tank AA (80/75)
+Missiles AA (95/100)
+Artillerie (100/x)
+Canon de campagne (105/x)
+Canon défensif (80/x)
+Lance roquettes (105/x)
+Obusier (120/x)
+VTA (105/x)
+VTB/Génie (105/x)
+Mur de défense (95/x)
+
+Vedette (105/x)
+Barge (95/x)
+Lance torpilles (85/x)
+Destroyer (50/105)
+Submersible (95/x)
+Croiseur (75/x)
+Cuirassé (75/x)
+Porte-avion (80/85)
+
+Hélico transport (x/x)
+Hélicoptère (x/x)
+ARA (x/45)
+Avion de chasse (x/60)
+Bombardier (x/x)
+Chasseur/ASA (x/75)
+Intercepteur (x/55)
+Furtif (x/70)
+
+
+
+	Chasseur/ASA : Attaque globale Défense globale
+
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Tank (x/x)
+Char d'assaut (x/x)
+Medium tank (x/x)
+Porte étendard (x/x)
+Neotank (x/x)
+Mégatank (x/x)
+Tank AA (x/65)
+Missiles AA (x/100)
+Artillerie (x/x)
+Canon de campagne (x/x)
+Canon défensif (x/x)
+Lance roquettes (x/x)
+Obusier (x/x)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/105)
+Submersible (x/x)
+Croiseur (x/x)
+Cuirassé (x/x)
+Porte-avion (x/60)
+
+Hélico transport (120/x)
+Hélicoptère (120/x)
+ARA (85/35)
+Avion de chasse (65/45)
+Bombardier (75/x)
+Chasseur/ASA (55/55)
+Intercepteur (65/45)
+Furtif (85/45)
+
+
+
+	Intercepteur : Attaque globale Défense globale
+
+Infanterie (90/x)
+Bazooka (85/x)
+Motard (85/x)
+Recon (80/x)
+Fusée éclairante (80/x)
+Tank (75/x)
+Char d'assaut (82/x)
+Medium tank (65/x)
+Porte étendard (55/x)
+Neotank (55/x)
+Mégatank (45/x)
+Tank AA (45/75)
+Missiles AA (70/110)
+Artillerie (70/x)
+Canon de campagne (80/x)
+Canon défensif (50/x)
+Lance roquettes (80/x)
+Obusier (90/x)
+VTA (75/x)
+VTB/Génie (75/x)
+Mur de défense (60/x)
+
+Vedette (90/x)
+Barge (85/x)
+Lance torpilles (90/x)
+Destroyer (40/105)
+Submersible (55/x)
+Croiseur (55/x)
+Cuirassé (45/x)
+Porte-avion (65/70)
+
+Hélico transport (95/x)
+Hélicoptère (85/x)
+ARA (55/45)
+Avion de chasse (65/50)
+Bombardier (55/x)
+Chasseur/ASA (45/65)
+Intercepteur (55/55)
+Furtif (65/50)
+
+
+
+
+	Furtif : Attaque globale Défense globale
+
+Infanterie (90/x)
+Bazooka (90/x)
+Motard (85/x)
+Recon (85/x)
+Fusée éclairante (80/x)
+Tank (77/x)
+Char d'assaut (85/x)
+Medium tank (70/x)
+Porte étendard (60/x)
+Neotank (60/x)
+Mégatank (50/x)
+Tank AA (50/65)
+Missiles AA (85/100)
+Artillerie (75/x)
+Canon de campagne (75/x)
+Canon défensif (55/x)
+Lance roquettes (85/x)
+Obusier (100/x)
+VTA (85/x)
+VTB/Génie (85/x)
+Mur de défense (57/x)
+
+Vedette (70/x)
+Barge (65/x)
+Lance torpilles (50/x)
+Destroyer (35/100)
+Submersible (55/x)
+Croiseur (55/x)
+Cuirassé (45/x)
+Porte-avion (45/60)
+
+Hélico transport (95/x)
+Hélicoptère (85/x)
+ARA (40/60)
+Avion de chasse (60/75)
+Bombardier (70/x)
+Chasseur/ASA (45/85)
+Intercepteur (50/65)
+Furtif (55/55)
+
+
+
+
+------ TOUS LES MATCHUP PAR TIERS ------
+
+
+Tableau :
+
+100+************************************************************
+   *S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*
+ 95*************************************************************
+   *S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*S=*A=*A=*
+ 90*************************************************************
+   *A+*A+*A+*A+*A+*A+*A+*A+*A+*A=*A=*A=*A=*A=*A=*A=*A=*A=*A=*A=*
+ 85*************************************************************
+   *A+*A+*A+*A+*A+*A+*A=*A=*A=*A=*A=*A=*A=*A=*A=*A=*A=*A=*A=*A-*
+ 80*************************************************************
+   *A+*A+*A+*A+*A+*A=*A=*A=*A=*A=*A=*A=*A=*A=*A=*A-*A-*A-*A-*A-*
+ 75*************************************************************
+   *A+*A+*A=*A=*A=*A=*A=*A=*A=*A=*A=*A-*A-*A-*A-*A-*A-*A-*A-*A-*
+ 70*************************************************************
+   *A+*A=*A=*A=*A=*A=*A=*A=*A=*A-*A-*A-*A-*A-*A-*A-*A-*A-*A-*A-*
+ 65*************************************************************
+   *A=*A=*A=*A=*A=*A=*A=*A-*A-*A-*A-*A-*A-*A-*A-*A-*A-*A-*A-*A-*
+ 60*************************************************************
+   *A=*A=*A=*A=*A=*A=*A=*A-*A-*A-*A-*A-*A-*A-*A-*A-*A-*B=*B=*B=*
+ 55*********************************X***************************
+   *A=*A=*A=*A=*A=*A-*A-*A-*A-*A-*A-*A-*A-*A-*A-*A-*B=*B=*B=*B=*
+ 50*************************************************************
+   *A=*A=*A=*A=*A-*A-*A-*A-*A-*A-*A-*A-*B=*B=*B=*B=*B=*B=*B=*B=*
+ 45*************************************************************
+   *A=*A=*A=*A-*A-*A-*A-*A-*A-*B=*B=*B=*B=*B=*B=*B=*B=*B=*B=*C+*
+ 40*************************************************************
+   *A=*A-*A-*A-*A-*A-*A-*B=*B=*B=*B=*B=*B=*B=*B=*B=*C+*C+*C=*C=*
+ 35*************************************************************
+   *A-*A-*A-*A-*A-*B=*B=*B=*B=*B=*B=*B=*B=*C+*C+*C=*C=*C=*C-*C-*
+ 30*************************************************************
+   *A-*A-*A-*B=*B=*B=*B=*B=*B=*B=*B=*C+*C+*C+*C=*C=*C=*C-*C-*C-*
+ 25*************************************************************
+   *A-*A-*B=*B=*B=*B=*B=*B=*B=*B=*C+*C+*C+*C+*C=*C=*C=*C-*C-*C-*
+ 20*************************************************************
+   *A-*B=*B=*B=*B=*B=*B=*B=*B=*C+*C+*C+*C+*C+*C=*C=*C=*C-*C-*C-*
+ 15*************************************************************
+   *0=*0=*B=*B=*B=*B=*B=*C+*C+*C+*C+*C+*C+*C=*C=*C=*C=*C-*C-*C-*
+ 10*************************************************************
+   *0=*0=*B=*B=*B=*B=*C+*C+*C+*C+*C+*C+*C+*C=*C=*C=*C-*C-*C-*C-*
+  5*************************************************************
+   *0=*0=*0=*B=*B=*C+*C+*C+*C+*C+*C+*C+*C=*C=*C=*C=*C-*C-*C-*C-*
+  0*************************************************************
+   0  5  10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100+
+
+
+
+X : Le matchup le plus commun (55/55)
+Tiers S : Chance de détruire l'unité adverse en un coup ! Avantage certain.
+Tiers A : Votre unité a l'avantage s'il attaque en premier.
+Tiers B : Niveau moyen, les deux unités se retrouveront à peu près au même nombre de PV.
+Tiers C : Vous êtes en désavantage, évitez à tout prix l'offensive (surtout au niveau C- !).
+Tiers 0 : Les deux unités ne se font pratiquement aucun dégât. Matchup négligeable.
+
+Les + ou - représentent un petit modificateur signifiant que l'attaque se rapproche d'un autre tiers. Exemple : C+ => Attaque de tiers C se rapprochant du tiers B.
+
+
+
+
+	Infanterie :
+
+A-	
+Infanterie (55/55)
+Missiles AA (20/x)
+VTB/Génie (14/x)
+Hélico transport (30/x)
+
+B
+Bazooka (45/65)
+Motard (45/65)
+
+C+
+VTA (14/65)
+ARA (x/50)
+
+C
+Recon (12/75)
+Fusée éclairante (10/80)
+Tank (5/75)
+Char d'assaut (5/70)
+Canon de campagne (30/75)
+Canon défensif (30/75)
+Mur de défense (20/70)
+Hélicoptère (8/75)
+Avion de chasse (x/70)
+
+C-
+Medium tank (5/90)
+Porte étendard (1/90)
+Neotank (1/105)
+Mégatank (1/120)
+Tank AA (5/115)
+Artillerie (15/90)
+Lance roquettes (20/100)
+Obusier (25/120)
+Croiseur (x/80)
+Cuirassé (x/85)
+Bombardier (x/115)
+Intercepteur (x/90)
+Furtif (x/90)
+
+0
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	Bazooka :
+
+
+S
+Obusier (100/110)
+
+A+
+Missiles AA (85/x)
+VTB/Génie (75/x)
+
+A
+Recon (85/60)
+Fusée éclairante (80/70)
+Canon de campagne (75/65)
+Lance roquettes (85/95)
+VTA (75/55)
+Hélico transport (35/x)
+
+A-
+Infanterie (65/45)
+Bazooka (55/55)
+Motard (55/55)
+Tank (55/70)
+Char d'assaut (55/60)
+Artillerie (70/85)
+Canon défensif (55/65)
+
+B
+Tank AA (55/105)
+Mur de défense (40/55)
+
+C+
+ARA (x/40)
+
+C
+Medium tank (30/80)
+Porte étendard (20/80)
+Croiseur (x/70)
+Hélicoptère (12/70)
+Avion de chasse (x/65)
+
+C-
+Neotank (20/95)
+Mégatank (10/95)
+Cuirassé (x/80)
+Bombardier (x/110)
+Intercepteur (x/85)
+Furtif (x/90)
+
+0
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	Motard :
+
+A
+Missiles AA (35/x)
+Hélico transport (35/x)
+
+A-
+Infanterie (65/45)
+Bazooka (55/55)
+Motard (55/55)
+VTB/Génie (20/x)
+
+B
+Canon de campagne (35/65)
+Canon défensif (35/65)
+
+C+
+Recon (18/60)
+Char d'assaut (8/60)
+VTA (20/55)
+Mur de défense (25/55)
+ARA (x/40)
+
+C
+Fusée éclairante (15/70)
+Tank (8/70)
+Lance roquettes (35/95)
+Croiseur (x/70)
+Hélicoptère (12/70)
+Avion de chasse (x/65)
+
+C-
+Medium tank (5/80)
+Porte étendard (1/80)
+Neotank (1/95)
+Mégatank (1/95)
+Tank AA (5/105)
+Artillerie (15/85)
+Obusier (35/110)
+Cuirassé (x/80)
+Bombardier (x/110)
+Intercepteur (x/85)
+Furtif (x/85)
+
+0
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	Recon :
+
+
+A+	
+Infanterie (75/12)
+
+A
+Motard (60/18)
+Missiles AA (45/x)
+VTB/Génie (45/x)
+Hélico transport (35/x)
+
+A-
+Bazooka (60/85)
+VTA (45/18)
+
+B
+Recon (35/35)
+Fusée éclairante (30/60)
+Canon de campagne (40/60)
+Lance roquettes (45/90)
+Mur de défense (30/30)
+ARA (x/18)
+
+C+
+Porte étendard (4/50)
+Tank AA (8/60)
+Artillerie (35/80)
+Obusier (45/100)
+
+C
+Char d'assaut (10/80)
+Canon défensif (25/75)
+Croiseur (x/60)
+Hélicoptère (18/70)
+Avion de chasse (x/60)
+
+C-
+Tank (8/85)
+Medium tank (5/95)
+Neotank (1/105)
+Mégatank (1/120)
+Cuirassé (x/80)
+Bombardier (x/105)
+Intercepteur (x/80)
+Furtif (x/85)
+
+0
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	Fusée éclairante :
+
+A+
+Infanterie (80/10)
+
+A
+Motard (70/15)
+Recon (60/30)
+Missiles AA (55/x)
+VTA (45/15)
+VTB/Génie (45/x)
+Hélico transport (35/x)
+
+A-
+Bazooka (70/80)
+Fusée éclairante (50/50)
+Canon de campagne (50/60)
+
+B
+Artillerie (45/75)
+Lance roquettes (55/85)
+Obusier (55/95)
+Mur de défense (30/30)
+ARA (x/15)
+
+C+
+Porte étendard (4/45)
+Tank AA (15/50)
+Croiseur (x/55)
+Hélicoptère (18/65)
+Avion de chasse (x/50)
+
+C
+Tank (10/80)
+Char d'assaut (10/75)
+Canon défensif (25/75)
+Cuirassé (x/70)
+
+C-
+Medium tank (5/90)
+Neotank (1/105)
+Mégatank (1/115)
+Bombardier (x/105)
+Intercepteur (x/80)
+Furtif (x/80)
+
+0
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	Tank :
+
+S
+Obusier (90/85)	
+
+A+	
+Infanterie (75/5)
+Motard (70/8)
+Recon (85/8)
+Fusée éclairante (80/10)
+Missiles AA (85/x)
+VTA (75/8)
+VTB/Génie (75/x)
+
+A
+Tank AA (65/20)
+Canon de campagne (75/55)
+Lance roquettes (85/70)
+Hélico transport (40/x)
+
+A-
+Bazooka (70/55)
+Tank (55/55)
+Char d'assaut (60/45)
+Artillerie (70/60)
+Vedette (18/x)
+Barge (18/x)
+Lance torpilles (18/x)
+
+B
+Medium tank (35/70)
+Porte étendard (20/30)
+Avion de chasse (x/20)
+
+C+
+Croiseur (5/40)
+Hélicoptère (18/55)
+
+C
+Canon défensif (30/75)
+Cuirassé (5/68)
+Intercepteur (x/75)
+Furtif (x/77)
+
+C-
+Neotank (25/85)
+Mégatank (10/100)
+Bombardier (x/105)
+
+0
+Mur de défense (8/10)
+Destroyer (9/x)
+Submersible (9/x)
+Porte-avion (8/x)
+ARA (x/8)
+Chasseur/ASA (x/x)
+
+
+
+	Char d'assaut :
+
+A+
+Infanterie (70/5)
+Recon (80/10)
+Fusée éclairante (75/10)
+Missiles AA (80/x)
+VTA (70/8)
+VTB/Génie (70/x)
+
+A
+Motard (60/8)
+Canon de campagne (75/55)
+Lance roquettes (80/80)
+Obusier (85/95)
+Hélico transport (35/x)
+
+A-
+Bazooka (60/55)
+Char d'assaut (50/50)
+Tank AA (55/25)
+Artillerie (60/70)
+Vedette (15/x)
+Barge (15/x)
+
+B
+Tank (45/60)
+Porte étendard (12/30)
+Mur de défense (5/10)
+
+C+
+Croiseur (5/45)
+Avion de chasse (x/25)
+
+C
+Medium tank (25/75)
+Canon défensif (25/80)
+Cuirassé (1/72)
+Hélicoptère (12/63)
+
+C-
+Neotank (15/90)
+Mégatank (5/110)
+Bombardier (x/110)
+Intercepteur (x/82)
+Furtif (x/85)
+
+0
+Lance torpilles (12/x)
+Destroyer (5/x)
+Submersible (5/x)
+Porte-avion (3/x)
+ARA (x/10)
+Chasseur/ASA (x/x)
+
+
+
+	Md tank :
+
+S
+Infanterie (90/5)
+Recon (95/5)
+Fusée éclairante (90/5)
+Canon de campagne (90/35)
+Lance roquettes (90/55)
+Obusier (105/75)
+VTA (90/5)
+VTB/Génie (90/x)
+
+A+
+Motard (80/5)
+Tank AA (80/15)
+Missiles AA (90/x)
+
+A
+Bazooka (80/30)
+Tank (70/35)
+Char d'assaut (75/25)
+Porte étendard (45/10)
+Artillerie (85/45)
+Hélico transport (40/x)
+
+A-
+Medium tank (55/55)
+Vedette (25/x)
+Barge (22/x)
+Lance torpilles (30/x)
+
+B
+Neotank (40/75)
+Canon défensif (35/65)
+Mur de défense (15/5)
+Croiseur (15/35)
+Hélicoptère (24/35)
+Avion de chasse (x/15)
+
+C+
+Cuirassé (8/55)
+
+C
+Intercepteur (x/65)
+Furtif (x/70)
+
+C-
+Mégatank (30/95)
+Bombardier (x/95)
+
+0
+Destroyer (12/x)
+Submersible (12/x)
+Porte-avion (10/x)
+ARA (x/5)
+Chasseur/ASA (x/x)
+
+
+
+	Porte étendard :
+
+
+S
+Infanterie (90/1)
+
+A+
+Bazooka (80/20)
+Motard (80/1)
+
+A
+Recon (50/4)
+Fusée éclairante (45/4)
+Missiles AA (60/x)
+VTA (50/5)
+VTB/Génie (50/x)
+Hélico transport (50/x)
+
+A-
+Tank (30/20)
+Char d'assaut (30/15)
+Artillerie (50/45)
+Canon de campagne (50/35)
+Lance roquettes (60/50)
+Obusier (65/70)
+Mur de défense (30/3)
+Hélicoptère (35/25)
+
+B
+Canon défensif (35/65)
+
+C+
+Medium tank (10/45)
+Neotank (8/60)
+Croiseur (x/30)
+Cuirassé (x/50)
+Intercepteur (x/55)
+
+C
+Mégatank (4/75)
+Tank AA (30/10)
+Furtif (x/60)
+
+C-
+Bombardier (x/80)
+
+0
+Porte étendard (8/8)
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+ARA (x/4)
+Avion de chasse (x/10)
+Chasseur/ASA (x/x)
+
+
+
+	Neotank :
+
+S
+Infanterie (105/1)
+Bazooka (95/20)
+Motard (95/1)
+Recon (105/1)
+Fusée éclairante (105/1)
+Char d'assaut (90/15)
+Tank AA (95/10)
+Missiles AA (105/x)
+Artillerie (100/40)
+Canon de campagne (105/30)
+Lance roquettes (105/50)
+Obusier (120/60)
+VTA (105/1)
+VTB/Génie (105/x)
+
+A+
+Tank (85/25)
+
+A
+Medium tank (75/40)
+Porte étendard (60/8)
+Vedette (35/x)
+Lance torpilles (45/x)
+Hélico transport (45/x)
+
+A-
+Neotank (55/55)
+Mur de défense (20/1)
+Barge (28/x)
+Destroyer (14/x)
+Submersible (14/x)
+Porte-avion (15/x)
+
+B
+Mégatank (45/70)
+Canon défensif (40/55)
+Croiseur (20/20)
+Hélicoptère (30/25)
+
+C+
+Cuirassé (11/45)
+Intercepteur (x/55)
+
+C
+Bombardier (x/75)
+Furtif (x/60)
+
+0
+ARA (x/1)
+Avion de chasse (x/10)
+Chasseur/ASA (x/x)
+
+
+
+	Megatank :
+
+
+S
+Infanterie (105/1)
+Bazooka (95/10)
+Motard (95/1)
+Recon (120/1)
+Fusée éclairante (115/1)
+Tank (100/10)
+Char d'assaut (110/5)
+Medium tank (95/30)
+Tank AA (110/5)
+Missiles AA (120/x)
+Artillerie (115/35)
+Canon de campagne (120/30)
+Lance roquettes (120/45)
+Obusier (135/50)
+VTA (115/1)
+VTB/Génie (115/x)
+
+A+
+Porte étendard (75/4)
+
+A
+Neotank (70/45)
+Vedette (50/x)
+Barge (33/x)
+Lance torpilles (60/x)
+Hélico transport (45/x)
+Hélicoptère (30/15)
+
+A-
+Mégatank (55/55)
+Canon défensif (45/45)
+Mur de défense (30/1)
+Destroyer (17/x)
+Submersible (17/x)
+Croiseur (30/18)
+Porte-avion (20/x)
+
+B
+Cuirassé (14/40)
+
+C+
+Bombardier (x/55)
+Intercepteur (x/45)
+Furtif (x/50)
+
+0
+ARA (x/1)
+Avion de chasse (x/5)
+Chasseur/ASA (x/x)
+
+
+
+	Tank AA :
+
+S
+Infanterie (115/5)
+Bazooka (105/55)
+Motard (105/5)
+Hélico transport (120/x)
+Hélicoptère (105/20)
+ARA (90/5)
+Avion de chasse (95/15)
+
+A+
+Chasseur/ASA (65/x)
+
+A
+Recon (60/8)
+Fusée éclairante (50/15)
+Missiles AA (55/x)
+VTA (50/5)
+VTB/Génie (50/x)
+Intercepteur (75/45)
+
+A-
+Tank AA (45/45)
+Artillerie (50/75)
+Canon de campagne (50/55)
+Bombardier (75/80)
+Furtif (65/50)
+
+B
+Porte étendard (10/30)
+Lance roquettes (55/85)
+Obusier (60/100)
+Mur de défense (22/15)
+
+C+
+Tank (20/65)
+Char d'assaut (25/55)
+Canon défensif (25/65)
+Croiseur (x/45)
+
+C
+Medium tank (15/80)
+Cuirassé (x/75)
+
+C-
+Neotank (10/95)
+Mégatank (5/110)
+
+0
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+
+
+
+	Missiles AA :
+
+S
+Hélico transport (120/x)
+Hélicoptère (120/55)
+ARA (105/15)
+Avion de chasse (120/60)
+Bombardier (100/95)
+Chasseur/ASA (100/x)
+Intercepteur (110/70)
+Furtif (100/85)
+
+B
+Infanterie (x/20)
+
+C+
+Motard (x/35)
+Recon (x/45)
+Fusée éclairante (x/55)
+Tank AA (x/55)
+VTA (x/35)
+Mur de défense (x/50)
+
+C
+Porte étendard (x/60)
+Canon de campagne (x/70)
+Canon défensif (x/70)
+Croiseur (x/65)
+
+C-
+Bazooka (x/85)
+Tank (x/85)
+Char d'assaut (x/80)
+Medium tank (x/90)
+Neotank (x/105)
+Mégatank (x/120)
+Artillerie (x/80)
+Lance roquettes (x/90)
+Obusier (x/110)
+Cuirassé (x/80)
+
+0
+Missiles AA (x/x)
+VTB/Génie (x/x)
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+
+
+
+	Artillerie :
+
+S
+Infanterie (90/15)
+
+A+
+Motard (85/15)
+Missiles AA (80/x)
+VTB/Génie (70/x)
+Vedette (80/x)
+Lance torpilles (70/x)
+
+A
+Bazooka (85/70)
+Recon (80/35)
+Fusée éclairante (75/45)
+Tank AA (75/50)
+Canon de campagne (80/50)
+Lance roquettes (80/80)
+Obusier (90/90)
+VTA (70/15)
+Mur de défense (65/40)
+Barge (55/x)
+Destroyer (55/x)
+Submersible (60/x)
+Porte-avion (45/x)
+
+A-
+Tank (60/70)
+Char d'assaut (70/65)
+Porte étendard (45/50)
+Artillerie (75/75)
+Canon défensif (55/65)
+Croiseur (60/50)
+
+B
+Medium tank (45/85)
+Cuirassé (45/75)
+ARA (x/15)
+
+C+
+Neotank (40/100)
+Avion de chasse (x/55)
+
+C
+Mégatank (35/115)
+Hélicoptère (x/65)
+Intercepteur (x/70)
+Furtif (x/75)
+
+C-
+Bombardier (x/100)
+
+0
+Hélico transport (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	Canon de campagne :
+
+A+
+Missiles AA (70/x)
+
+A
+Infanterie (75/30)
+Motard (65/35)
+VTB/Génie (60/x)
+Vedette (60/x)
+Barge (45/x)
+Lance torpilles (50/x)
+Hélico transport (35/x)
+
+A-
+Bazooka (65/75)
+Recon (60/40)
+Fusée éclairante (60/50)
+Tank (55/75)
+Char d'assaut (55/75)
+Tank AA (55/50)
+Canon de campagne (65/65)
+Lance roquettes (65/90)
+Obusier (70/105)
+VTA (60/35)
+Mur de défense (50/50)
+Destroyer (30/x)
+Submersible (30/x)
+Croiseur (45/50)
+Porte-avion (20/x)
+
+B
+Porte étendard (35/50)
+Artillerie (50/80)
+Canon défensif (45/60)
+ARA (x/20)
+
+C+
+Avion de chasse (x/55)
+
+C
+Medium tank (35/90)
+Hélicoptère (20/75)
+Furtif (x/75)
+
+C-
+Neotank (30/105)
+Mégatank (30/120)
+Cuirassé (30/90)
+Bombardier (x/105)
+Intercepteur (x/80)
+
+0
+Chasseur/ASA (x/x)
+
+
+
+	Canon défensif :
+
+A+
+Char d'assaut (80/25)
+Missiles AA (70/x)
+VTB/Génie (65/x)
+
+A
+Infanterie (75/30)
+Motard (65/35)
+Recon (75/25)
+Fusée éclairante (75/25)
+Tank (75/30)
+Medium tank (65/35)
+Porte étendard (65/35)
+Tank AA (65/25)
+Obusier (75/70)
+VTA (65/35)
+Mur de défense (70/20)
+Hélico transport (45/x)
+
+A-
+Bazooka (65/55)
+Neotank (55/40)
+Mégatank (45/45)
+Artillerie (65/55)
+Canon de campagne (60/45)
+Canon défensif (55/55)
+Lance roquettes (70/65)
+Hélicoptère (30/20)
+
+B
+ARA (x/20)
+
+C+
+Croiseur (x/30)
+Avion de chasse (x/30)
+Intercepteur (x/50)
+Furtif (x/55)
+
+C
+Cuirassé (x/70)
+
+C-
+Bombardier (x/80)
+
+0
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	Lance roquettes :
+
+S
+Infanterie (100/20)
+Bazooka (95/85)
+Motard (95/35)
+Recon (90/45)
+Missiles AA (90/x)
+Canon de campagne (90/65)
+Obusier (100/100)
+Vedette (90/x)
+
+A+
+VTB/Génie (80/x)
+Lance torpilles (80/x)
+Submersible (65/x)
+
+A
+Fusée éclairante (85/55)
+Char d'assaut (80/80)
+Tank AA (85/55)
+Artillerie (80/80)
+Lance roquettes (85/85)
+VTA (80/35)
+Mur de défense (75/50)
+Barge (60/x)
+Destroyer (60/x)
+Porte-avion (60/x)
+
+A-
+Tank (70/85)
+Porte étendard (50/60)
+Canon défensif (65/70)
+Croiseur (60/55)
+
+B
+Medium tank (55/90)
+Neotank (50/105)
+Cuirassé (55/80)
+
+C+
+Mégatank (45/120)
+ARA (x/25)
+
+C
+Hélicoptère (x/75)
+Avion de chasse (x/60)
+
+C-
+Bombardier (x/105)
+Intercepteur (x/80)
+Furtif (x/85)
+
+0
+Hélico transport (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	Obusier :
+
+S
+Infanterie (120/25)
+Bazooka (110/100)
+Motard (110/35)
+Recon (100/45)
+Fusée éclairante (95/55)
+Char d'assaut (95/85)
+Tank AA (100/60)
+Missiles AA (110/x)
+Canon de campagne (105/70)
+Lance roquettes (100/100)
+Obusier (110/110)
+VTA (90/35)
+VTB/Génie (90/x)
+Vedette (100/x)
+
+A+
+Barge (70/x)
+Lance torpilles (85/x)
+Destroyer (65/x)
+Submersible (70/x)
+Porte-avion (70/x)
+
+A
+Tank (85/90)
+Artillerie (90/90)
+Mur de défense (80/60)
+
+A-
+Medium tank (75/105)
+Porte étendard (70/65)
+Canon défensif (70/75)
+Croiseur (60/60)
+Cuirassé (60/95)
+
+B
+Neotank (65/120)
+
+C+
+Mégatank (55/135)
+ARA (x/30)
+
+C
+Avion de chasse (x/65)
+
+C-
+Hélicoptère (x/80)
+Bombardier (x/120)
+Intercepteur (x/90)
+Furtif (x/100)
+
+0
+Hélico transport (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	VTA :
+
+A
+Infanterie (65/14)
+Motard (55/20)
+Missiles AA (35/x)
+Hélico transport (35/x)
+
+A-
+Bazooka (55/75)
+VTB/Génie (20/x)
+
+B
+Recon (18/45)
+Canon de campagne (35/60)
+Canon défensif (35/65)
+VTA (20/20)
+Mur de défense (25/35)
+ARA (x/15)
+
+C+
+Fusée éclairante (15/45)
+Porte étendard (5/50)
+Tank AA (5/50)
+Lance roquettes (35/80)
+Avion de chasse (x/55)
+
+C
+Tank (8/75)
+Char d'assaut (8/70)
+Artillerie (15/70)
+Obusier (35/90)
+Croiseur (x/60)
+Cuirassé (x/72)
+Hélicoptère (12/65)
+Intercepteur (x/75)
+
+C-
+Medium tank (5/90)
+Neotank (1/105)
+Mégatank (1/115)
+Bombardier (x/105)
+Furtif (x/85)
+
+0
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	VTB/Génie :
+
+B
+Infanterie (x/14)
+Motard (x/20)
+VTA (x/20)
+ARA (x/15)
+
+C+
+Recon (x/45)
+Fusée éclairante (x/45)
+Porte étendard (x/50)
+Tank AA (x/50)
+Mur de défense (x/35)
+Avion de chasse (x/55)
+
+C
+Bazooka (x/75)
+Tank (x/75)
+Char d'assaut (x/70)
+Artillerie (x/70)
+Canon de campagne (x/60)
+Canon défensif (x/65)
+Croiseur (x/60)
+Cuirassé (x/72)
+Hélicoptère (x/65)
+Intercepteur (x/75)
+
+C-
+Medium tank (x/90)
+Neotank (x/105)
+Mégatank (x/115)
+Lance roquettes (x/80)
+Obusier (x/90)
+Bombardier (x/105)
+Furtif (x/85)
+
+0
+Missiles AA (x/x)
+VTB/Génie (x/x)
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+Hélico transport (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	Mur de défense :
+
+A
+Infanterie (70/20)
+Motard (55/25)
+Missiles AA (50/x)
+VTB/Génie (35/x)
+
+A-
+Bazooka (55/40)
+Canon de campagne (50/50)
+Lance roquettes (50/75)
+VTA (35/25)
+Hélico transport (30/x)
+
+B
+Recon (30/30)
+Fusée éclairante (30/30)
+Medium tank (5/15)
+Neotank (1/20)
+Tank AA (15/22)
+Artillerie (40/65)
+Obusier (60/80)
+Mur de défense (35/35)
+Hélicoptère (12/22)
+ARA (x/18)
+
+C+
+Porte étendard (3/30)
+Mégatank (1/30)
+Croiseur (x/30)
+Avion de chasse (x/25)
+
+C
+Canon défensif (20/70)
+Cuirassé (x/75)
+Intercepteur (x/60)
+Furtif (x/57)
+
+C-
+Bombardier (x/95)
+
+0
+Tank (10/8)
+Char d'assaut (10/5)
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Destroyer (x/x)
+Submersible (x/x)
+Porte-avion (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	Vedette :
+
+A
+Barge (55/x)
+Porte-avion (40/x)
+
+A-
+Vedette (55/55)
+Lance torpilles (65/75)
+
+B
+Tank (x/18)
+Char d'assaut (x/15)
+Destroyer (50/80)
+Croiseur (40/70)
+Cuirassé (50/90)
+Avion de chasse (x/20)
+
+C+
+Medium tank (x/25)
+Neotank (x/35)
+Mégatank (x/50)
+Hélicoptère (x/35)
+
+C
+Canon de campagne (x/60)
+Submersible (40/110)
+Furtif (x/70)
+
+C-
+Artillerie (x/80)
+Lance roquettes (x/90)
+Obusier (x/100)
+Bombardier (x/105)
+Intercepteur (x/90)
+
+0
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Porte étendard (x/x)
+Tank AA (x/x)
+Missiles AA (x/x)
+Canon défensif (x/x)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+Hélico transport (x/x)
+ARA (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	Barge :
+
+B
+Tank (x/18)
+Char d'assaut (x/15)
+Medium tank (x/22)
+Avion de chasse (x/12)
+
+C+
+Neotank (x/28)
+Mégatank (x/33)
+Artillerie (x/55)
+Canon de campagne (x/45)
+Vedette (x/55)
+Destroyer (x/40)
+Hélicoptère (x/25)
+
+C
+Lance roquettes (x/60)
+Obusier (x/70)
+Croiseur (x/60)
+Furtif (x/65)
+
+C-
+Lance torpilles (x/80)
+Submersible (x/90)
+Cuirassé (x/80)
+Bombardier (x/95)
+Intercepteur (x/85)
+
+0
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Porte étendard (x/x)
+Tank AA (x/x)
+Missiles AA (x/x)
+Canon défensif (x/x)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+Barge (x/x)
+Porte-avion (x/x)
+Hélico transport (x/x)
+ARA (x/x)
+Chasseur/ASA (x/x)
+
+
+
+	Lance torpilles :
+
+
+A+
+Barge (80/x)
+
+A
+Vedette (75/65)
+Porte-avion (60/x)
+
+A-
+Lance torpilles (70/70)
+Destroyer (50/35)
+Submersible (50/55)
+Cuirassé (50/70)
+
+B
+Tank (x/18)
+Char d'assaut (x/12)
+Croiseur (45/60)
+
+C+
+Medium tank (x/30)
+Neotank (x/45)
+Canon de campagne (x/50)
+Hélicoptère (x/40)
+Furtif (x/50)
+
+C
+Mégatank (x/60)
+Artillerie (x/70)
+Intercepteur (x/70)
+
+C-
+Lance roquettes (x/80)
+Obusier (x/85)
+Bombardier (x/85)
+
+0
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Porte étendard (x/x)
+Tank AA (x/x)
+Missiles AA (x/x)
+Canon défensif (x/x)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+Hélico transport (x/x)
+ARA (x/x)
+Avion de chasse (x/6)
+Chasseur/ASA (x/x)
+
+
+
+	Destroyer :
+
+S
+Submersible (95/25)
+Hélico transport (120/x)
+Hélicoptère (120/15)
+ARA (95/x)
+Avion de chasse (110/5)
+Bombardier (105/50)
+Chasseur/ASA (105/x)
+Intercepteur (105/40)
+Furtif (100/35)
+
+A
+Vedette (80/50)
+Barge (40/x)
+
+A-
+Porte-avion (20/x)
+
+B
+Medium tank (x/12)
+Neotank (x/14)
+Mégatank (x/17)
+Lance torpilles (35/50)
+Destroyer (25/25)
+Croiseur (20/25)
+
+C+
+Artillerie (x/55)
+Canon de campagne (x/30)
+
+C
+Lance roquettes (x/60)
+Obusier (x/65)
+Cuirassé (16/70)
+
+0
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Tank (x/9)
+Char d'assaut (x/5)
+Porte étendard (x/x)
+Tank AA (x/x)
+Missiles AA (x/x)
+Canon défensif (x/x)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+
+
+
+	Submersible :
+
+S
+Vedette (110/40)
+Barge (90/x)
+Porte-avion (90/x)
+
+A-
+Lance torpilles (55/50)
+Submersible (55/55)
+Croiseur (65/50)
+Cuirassé (75/75)
+
+B
+Medium tank (x/12)
+Neotank (x/14)
+Mégatank (x/17)
+
+C+
+Canon de campagne (x/30)
+Hélicoptère (x/25)
+Intercepteur (x/55)
+Furtif (x/55)
+
+C
+Artillerie (x/60)
+Lance roquettes (x/65)
+Obusier (x/70)
+
+C-
+Destroyer (25/95)
+Bombardier (x/95)
+
+0
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Tank (x/9)
+Char d'assaut (x/5)
+Porte étendard (x/x)
+Tank AA (x/x)
+Missiles AA (x/x)
+Canon défensif (x/x)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+Hélico transport (x/x)
+ARA (x/x)
+Avion de chasse (x/10)
+Chasseur/ASA (x/x)
+
+
+
+	Croiseur :
+
+
+S
+Hélico transport (100/x)
+
+A+
+Infanterie (80/x)
+Bazooka (70/x)
+Motard (70/x)
+Missiles AA (65/x)
+
+A
+Recon (60/x)
+Fusée éclairante (55/x)
+Tank (40/5)
+Char d'assaut (45/5)
+Tank AA (45/x)
+VTA (60/x)
+VTB/Génie (60/x)
+Vedette (70/40)
+Barge (60/x)
+Porte-avion (55/x)
+Hélicoptère (75/25)
+
+A-
+Medium tank (35/15)
+Porte étendard (30/x)
+Artillerie (50/60)
+Canon de campagne (50/45)
+Canon défensif (30/x)
+Lance roquettes (55/60)
+Obusier (60/60)
+Mur de défense (30/x)
+Lance torpilles (60/45)
+Submersible (50/65)
+Croiseur (50/50)
+Cuirassé (45/45)
+
+B
+Neotank (20/20)
+Mégatank (18/30)
+Destroyer (25/20)
+
+C+
+Intercepteur (x/55)
+Furtif (x/55)
+
+C
+Bombardier (x/75)
+
+0
+ARA (x/x)
+Avion de chasse (x/5)
+Chasseur/ASA (x/x)
+
+
+
+	Cuirassé :
+
+S
+Canon de campagne (90/30)
+Obusier (95/60)
+Vedette (90/50)
+
+A+
+Infanterie (85/x)
+Bazooka (80/x)
+Motard (80/x)
+Recon (80/x)
+Fusée éclairante (70/x)
+Tank (68/5)
+Char d'assaut (72/1)
+Tank AA (75/x)
+Missiles AA (80/x)
+Canon défensif (70/x)
+VTA (72/x)
+VTB/Génie (72/x)
+Mur de défense (75/x)
+Barge (80/x)
+
+A
+Medium tank (55/8)
+Porte étendard (50/x)
+Neotank (45/11)
+Artillerie (75/45)
+Lance roquettes (80/55)
+Lance torpilles (70/50)
+Destroyer (70/16)
+Porte-avion (60/x)
+
+A-
+Mégatank (40/14)
+Submersible (75/75)
+Croiseur (45/45)
+Cuirassé (50/50)
+
+C+
+Hélicoptère (x/25)
+Intercepteur (x/45)
+Furtif (x/45)
+
+C
+Bombardier (x/75)
+
+0
+Hélico transport (x/x)
+ARA (x/x)
+Avion de chasse (x/10)
+Chasseur/ASA (x/x)
+
+
+
+	Porte-avion :
+
+S
+Hélico transport (115/x)
+Hélicoptère (100/25)
+Avion de chasse (120/15)
+
+A+
+ARA (80/x)
+
+A
+Bombardier (85/80)
+Chasseur/ASA (60/x)
+
+A-
+Intercepteur (70/65)
+Furtif (60/45)
+
+B
+Destroyer (x/20)
+
+C+
+Neotank (x/15)
+Mégatank (x/20)
+Artillerie (x/45)
+Canon de campagne (x/20)
+Vedette (x/40)
+Croiseur (x/55)
+
+C
+Lance roquettes (x/60)
+Obusier (x/70)
+Lance torpilles (x/60)
+Cuirassé (x/60)
+
+C-
+Submersible (x/90)
+
+0
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Tank (x/8)
+Char d'assaut (x/3)
+Medium tank (x/10)
+Porte étendard (x/x)
+Tank AA (x/x)
+Missiles AA (x/x)
+Canon défensif (x/x)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+Barge (x/x)
+Porte-avion (x/x)
+
+
+
+	Hélico transport :
+
+C+
+Infanterie (x/30)
+Bazooka (x/35)
+Motard (x/35)
+Recon (x/35)
+Fusée éclairante (x/35)
+Tank (x/40)
+Char d'assaut (x/35)
+Medium tank (x/40)
+Porte étendard (x/50)
+Neotank (x/45)
+Mégatank (x/45)
+Canon de campagne (x/35)
+Canon défensif (x/45)
+VTA (x/35)
+Mur de défense (x/30)
+
+C-
+Tank AA (x/120)
+Missiles AA (x/120)
+Destroyer (x/120)
+Croiseur (x/100)
+Porte-avion (x/115)
+Hélicoptère (x/85)
+ARA (x/90)
+Avion de chasse (x/100)
+Chasseur/ASA (x/120)
+Intercepteur (x/95)
+Furtif (x/95)
+
+0
+Artillerie (x/x)
+Lance roquettes (x/x)
+Obusier (x/x)
+VTB/Génie (x/x)
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Submersible (x/x)
+Cuirassé (x/x)
+Bombardier (x/x)
+Hélico transport (x/x)
+
+
+
+	Hélicoptère :
+
+A+
+Infanterie (75/8)
+Artillerie (65/x)
+Canon de campagne (75/20)
+Lance roquettes (75/x)
+Obusier (80/x)
+VTB/Génie (65/x)
+Hélico transport (85/x)
+
+A
+Bazooka (70/12)
+Motard (70/12)
+Recon (70/18)
+Fusée éclairante (65/18)
+Tank (55/18)
+Char d'assaut (63/12)
+VTA (65/12)
+Vedette (35/x)
+Lance torpilles (40/x)
+
+A-
+Medium tank (35/24)
+Barge (25/x)
+Submersible (25/x)
+Cuirassé (25/x)
+Hélicoptère (65/65)
+
+B
+Porte étendard (25/35)
+Neotank (25/30)
+Mégatank (15/30)
+Canon défensif (20/30)
+Mur de défense (22/12)
+
+C
+Missiles AA (55/120)
+Croiseur (25/75)
+ARA (x/70)
+
+C-
+Tank AA (20/105)
+Destroyer (15/120)
+Porte-avion (25/100)
+Avion de chasse (x/85)
+Chasseur/ASA (x/120)
+Intercepteur (x/85)
+Furtif (x/85)
+
+0
+Bombardier (x/x)
+
+
+
+	ARA :
+
+S
+Hélico transport (90/x)
+
+A+
+Hélicoptère (70/x)
+
+A
+Infanterie (50/x)
+Bazooka (40/x)
+Motard (40/x)
+Bombardier (45/x)
+
+A-
+Recon (18/x)
+Fusée éclairante (15/x)
+Artillerie (15/x)
+Canon de campagne (20/x)
+Canon défensif (20/x)
+Lance roquettes (25/x)
+Obusier (30/x)
+VTA (15/x)
+VTB/Génie (15/x)
+Mur de défense (18/x)
+ARA (50/50)
+Avion de chasse (65/60)
+Furtif (60/40)
+
+B
+Intercepteur (45/55)
+
+C+
+Chasseur/ASA (35/85)
+
+C-
+Tank AA (5/90)
+Missiles AA (15/105)
+Destroyer (x/95)
+Porte-avion (x/80)
+
+0
+Tank (8/x)
+Char d'assaut (10/x)
+Medium tank (5/x)
+Porte étendard (4/x)
+Neotank (1/x)
+Mégatank (1/x)
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Submersible (x/x)
+Croiseur (x/x)
+Cuirassé (x/x)
+
+
+
+	Avion de chasse :
+
+S
+Hélico transport (100/x)
+
+A+
+Infanterie (70/x)
+Bazooka (65/x)
+Motard (65/x)
+Obusier (65/x)
+Hélicoptère (85/x)
+
+A
+Recon (60/x)
+Fusée éclairante (50/x)
+Artillerie (55/x)
+Canon de campagne (55/x)
+Lance roquettes (60/x)
+VTA (55/x)
+VTB/Génie (55/x)
+Bombardier (60/x)
+Furtif (75/60)
+
+A-
+Tank (20/x)
+Char d'assaut (25/x)
+Medium tank (15/x)
+Canon défensif (30/x)
+Mur de défense (25/x)
+Vedette (20/x)
+ARA (60/65)
+Avion de chasse (50/50)
+Intercepteur (50/65)
+
+B
+Chasseur/ASA (45/65)
+
+C
+Missiles AA (60/120)
+
+C-
+Tank AA (15/95)
+Destroyer (5/110)
+Porte-avion (15/120)
+
+0
+Porte étendard (10/x)
+Neotank (10/x)
+Mégatank (5/x)
+Barge (12/x)
+Lance torpilles (6/x)
+Submersible (10/x)
+Croiseur (5/x)
+Cuirassé (10/x)
+
+
+
+	Bombardier :
+
+S
+Infanterie (115/x)
+Bazooka (110/x)
+Motard (110/x)
+Recon (105/x)
+Fusée éclairante (105/x)
+Tank (105/x)
+Char d'assaut (110/x)
+Medium tank (95/x)
+Artillerie (100/x)
+Canon de campagne (105/x)
+Lance roquettes (105/x)
+Obusier (120/x)
+VTA (105/x)
+VTB/Génie (105/x)
+Mur de défense (95/x)
+Vedette (105/x)
+Barge (95/x)
+Submersible (95/x)
+
+A+
+Porte étendard (80/x)
+Neotank (75/x)
+Canon défensif (80/x)
+Lance torpilles (85/x)
+Croiseur (75/x)
+Cuirassé (75/x)
+
+A
+Mégatank (60/x)
+
+A-
+Tank AA (80/75)
+Missiles AA (95/100)
+Porte-avion (80/85)
+
+B
+Destroyer (50/105)
+
+C+
+ARA (x/45)
+Intercepteur (x/55)
+
+C
+Avion de chasse (x/60)
+Chasseur/ASA (x/75)
+Furtif (x/70)
+
+0
+Hélico transport (x/x)
+Hélicoptère (x/x)
+Bombardier (x/x)
+
+
+
+	Chasseur/ASA :
+
+S
+Hélico transport (120/x)
+Hélicoptère (120/x)
+
+A+
+ARA (85/35)
+Bombardier (75/x)
+
+A
+Furtif (85/45)
+
+A-
+Avion de chasse (65/45)
+Chasseur/ASA (55/55)
+Intercepteur (65/45)
+
+C
+Tank AA (x/65)
+Porte-avion (x/60)
+
+C-
+Missiles AA (x/100)
+Destroyer (x/105)
+
+0
+Infanterie (x/x)
+Bazooka (x/x)
+Motard (x/x)
+Recon (x/x)
+Fusée éclairante (x/x)
+Tank (x/x)
+Char d'assaut (x/x)
+Medium tank (x/x)
+Porte étendard (x/x)
+Neotank (x/x)
+Mégatank (x/x)
+Artillerie (x/x)
+Canon de campagne (x/x)
+Canon défensif (x/x)
+Lance roquettes (x/x)
+Obusier (x/x)
+VTA (x/x)
+VTB/Génie (x/x)
+Mur de défense (x/x)
+Vedette (x/x)
+Barge (x/x)
+Lance torpilles (x/x)
+Submersible (x/x)
+Croiseur (x/x)
+Cuirassé (x/x)
+
+
+
+	Intercepteur :
+
+S
+Infanterie (90/x)
+Obusier (90/x)
+Vedette (90/x)
+Lance torpilles (90/x)
+Hélico transport (95/x)
+
+A+
+Bazooka (85/x)
+Motard (85/x)
+Recon (80/x)
+Fusée éclairante (80/x)
+Tank (75/x)
+Char d'assaut (82/x)
+Medium tank (65/x)
+Artillerie (70/x)
+Canon de campagne (80/x)
+Lance roquettes (80/x)
+VTA (75/x)
+VTB/Génie (75/x)
+Barge (85/x)
+Hélicoptère (85/x)
+
+A
+Porte étendard (55/x)
+Neotank (55/x)
+Mégatank (45/x)
+Canon défensif (50/x)
+Mur de défense (60/x)
+Submersible (55/x)
+Croiseur (55/x)
+Cuirassé (45/x)
+Bombardier (55/x)
+
+A-
+Porte-avion (65/70)
+ARA (55/45)
+Avion de chasse (65/50)
+Intercepteur (55/55)
+Furtif (65/50)
+
+B
+Tank AA (45/75)
+Missiles AA (70/110)
+Chasseur/ASA (45/65)
+
+C
+Destroyer (40/105)
+
+
+
+	Furtif :
+
+S
+Infanterie (90/x)
+Bazooka (90/x)
+Obusier (100/x)
+Hélico transport (95/x)
+
+A+
+Motard (85/x)
+Recon (85/x)
+Fusée éclairante (80/x)
+Tank (77/x)
+Char d'assaut (85/x)
+Medium tank (70/x)
+Artillerie (75/x)
+Canon de campagne (75/x)
+Lance roquettes (85/x)
+VTA (85/x)
+VTB/Génie (85/x)
+Vedette (70/x)
+Barge (65/x)
+Hélicoptère (85/x)
+Bombardier (70/x)
+
+A
+Porte étendard (60/x)
+Neotank (60/x)
+Mégatank (50/x)
+Canon défensif (55/x)
+Mur de défense (57/x)
+Lance torpilles (50/x)
+Submersible (55/x)
+Croiseur (55/x)
+Cuirassé (45/x)
+
+A-
+Tank AA (50/65)
+Missiles AA (85/100)
+Avion de chasse (60/75)
+Intercepteur (50/65)
+Furtif (55/55)
+
+B
+Porte-avion (45/60)
+ARA (40/60)
+Chasseur/ASA (45/85)
+
+C
+Destroyer (35/100)
+

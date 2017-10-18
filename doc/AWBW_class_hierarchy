@@ -1,0 +1,308 @@
+°Liste des classes
+
+__UNITS__ [Data]
+__ID
+Name
+Division
+Cost
+Range
+Movement
+MovementType
+Vision
+MaxAmmoFirstWeapon //Contrôle le nombre de munitions max. de l'arme primaire. 0 s'il n'en a pas.
+MaxFuel
+Properties
+
+
+__COS__ [Data]
+__ID
+Name
+COZoneType {Croissante, Fixe, Infinie} //TODO : Solution pour Klaus qui remplit à partir des bâtiments
+COZoneSize //Ne mettre que la taille minimum. Optionnel si TypeCOZone == Infinie car considéré à un nombre très grand, plus grand que la longueur max d'une map.
+Effect
+HasCOPower
+COPower //Optionnel car certains COs n'en ont pas
+HasSUPERCOPower
+SUPERCOPower
+
+
+__TERRAIN__ [Data]
+__ID
+Name
+Type {Soldat, Vehicule, NavireTransport, Navire, Avion} //Indique uniquement la praticabilité du terrain, pour interdire à certaines unités de la traverser ???????
+Coverage
+Hideout
+
+
+__CLIMATE__
+__ID
+Name
+Effects
+//Tous les climats hostiles ont deux effets ici ; le brouillard de guerre / FOW n'est pas considéré comme un climat à part entière mais comme un effet. Le FOW est également contrôlé dans la classe CURRENTMAP.
+
+
+__CHARTS__
+DamageChart [x:UNIT.Name] [y:UNIT.Name]
+MovementChart [x:TERRAIN.Name] [y:UNIT.MovementType]
+DamageChartIndexes : list of String [UNIT.Name]
+MovementChartIndexes : list of String [TERRAIN.Name]
+MovementTypeList : list of String [UNIT.MovementType]
+
+ -y012345...
+ x----------
+ 0-
+ 1-
+ 2- 	[*] <- x=2, y=5 (troisième ligne et sixième colonne)
+ .-
+ .-
+ .-
+
+
+
+
+__CALCULATOR__
+//Sera calculé tout ce qu'il faut au niveau théorique
+
+
+__ARMY1__
+__Army
+CurrentCO
+
+
+__ARMY2__
+__Army
+CurrentCO
+
+
+__CURRENTUNIT__
+__ID
+[Name .. Properties] //Hérités de __UNITS__ [Data]
+COOwner //Pour faire le lien entre CURRENTUNIT et CURRENTCO ?
+Health //Pour retrouver les HP : Diviser par 10, approcher à la valeur sup.
+Ammo (Current)
+Fuel (Current)
+Rank //{0,1,2,3}
+IsCOUnit
+...
+
+
+__CURRENTCO__
+__ID
+[Name .. SUPERCOPower] //Hérités de __COS__ [Data]
+Player //N° Joueur
+Army?
+COZoneJauge
+COPowerStatus
+Funds
+...
+...
+...
+
+
+
+__CURRENTMAP__
+[Map data probably loaded from file]
+Height
+Length
+TerrainList
+
+TerrainList est une liste de Terrain (1d) interprété comme un tableau 2d grâce aux dimensions.
+
+
+__RNG__
+//Sera organisé à partir d'une liste qui retient les ~10 derniers nombres tirés.
+//Lorsque le pointeur arrive au bout de la liste, on calcule la moyenne des nombres tirés et on réorganise les valeurs limites du luck si besoin.
+//L'objectif est de maintenir une moyenne entre ~3 et ~7 (modification possible des min. et max. au cours d'une partie)
+List [,,,,,,,,,]
+*ptr_list
+
+RNG10() //Retourne le RN par rapport à 10 selon le RN suivant du générateur.
+RNG100() //Retourne le RN par rapport à 100 selon le RN suivant du générateur.
+RNGn() //Retourne le RN par rapport à n selon le RN suivant du générateur.
+place(List) //Le dernier RN tiré et utilisé se place dans la liste à la fin, selon la convention d'une file.
+mean(List) //Appelé à chaque fois que la liste est pleine
+adapt_luck()
+
+MIN_RN_ALLOWED
+MAX_RN_ALLOWED
+
+
+-----------------------------------------
+°Règles du jeu
+
+Toute classe sera signalée comme ceci : [NomDeLaClasse] //CamelCase
+Toute méthode d'une classe (+ autres fonctions) : [nomDeLaMethode()] //CamelCase with one leading lowercase
+Tout attribut d'une classe (+ autres variables) : [nom_de_l_attribut] //lowercase with underscores
+Toute constante (globale) : [NOM_DE_LA_CONSTANTE] //UPPERCASE with underscores
+Certains noms comme "CO" seront toujours en majuscule quel que soit la convention utilisée.
+
+
+Le jeu [Game] consiste en une bataille stratégique au tour par tour, sur une carte à dimensions finies [Map (fichier)]. De deux à quatre personnes peuvent s'affronter en tant que commandant [CO] d'une armée d'unités [Unit].
+
+Les données d'une unité [Unit] : Chaque unité possède un nom, une division (par exemple Terrestre), un coût, une portée minimale et maximale, un déplacement maximal, un type de déplacement, une vision, un nombre de munitions pour l'arme primaire (maximal), un nombre d'unités de carburant (maximal), et quelques propriétés supplémentaires si besoin.
+Les données d'un commandant [CO] : Chaque CO possède un nom, un type de COZone (Fixe, Croissante, Infinie...), la taille minimum de la COZone, une liste d'effets lorsque le général est embarqué, est-ce que le CO possède une rupture basique puis sa liste d'effets, même chose pour la SUPER rupture.
+Les données d'une carte [Map (fichier)] : Chaque carte doit spécifier le nom, les dimensions (hauteur, largeur), une liste de terrains qui indique le contenu de cette carte case par case.
+
+Beaucoup de données peuvent aussi être générées à partir d'un fichier que donne l'utilisateur, qui peut ainsi créer sa propre "balance" de jeu. Les fichiers Unitbalance, CObalance génèrent des classes [Unit] et [CO] respectivement, tandis que Gamebalance fixera d'autres données ainsi que les classes [Terrain], [Climate], [Charts].
+Unitbalance (et CObalance ?) doivent être chargés APRES Gamebalance car leur données dépendent de ce qui est contenu dans Gamebalance.
+
+[Terrain] : Un terrain possède un nom, un type, sa valeur de couverture, puis est-ce que ce terrain constitue une cachette ou non.
+[Climate] : Un climat possède un nom, et une liste d'effets représentant des commandes. Voir AWBW_command_list.
+Les mécaniques du brouillard de guerre (FoW) sont déjà implantées dans le jeu.
+[Charts] : Les chartes décrivant la balance actuelle du jeu. Contient la damage_chart (x=Unit.name ; y=Unit.name) tableau 2d carrée dont les repères sont dans damage_chart_indexes la liste de Unit.name, ainsi que le movement_chart (x=Terrain.name ; y=Unit.movement_type) tableau 2d dont les repères sont dans movement_chart_indexes la liste de Terrain.name ainsi que dans movement_type_list la liste de Unit.movement_type.
+
+Pour éviter des problèmes d'accessibilité aux données, ainsi que le fait que l'on peut faire affonter deux CO identiques sur la même carte, toutes les données du jeu / d'une partie actuel(le) sont une copie des données par défaut. Ainsi des sous-classes [CurrentUnit], [CurrentCO], [CurrentMap] sont créées à partir de leurs classes parents respectives. Ils contiennent les mêmes données que leurs classes parents mais avec quelques attributs en plus.
+
+[CurrentUnit] : Chaque unité en jeu possède aussi une valeur de santé (différent des PV, les PV représentent un arrondi à l'unité supérieure de la santé), le nombre de munitions actuel, le nombre d'unités de carburant actuel, un rang (0;1;2;3), est-ce que l'unité est l'unité du général ou non, (et peut-être une référence au CO actuel qui l'utilise ?)
+[CurrentCO] : Chaque CO en jeu possède aussi un numéro de joueur, (une affectation à une armée ?), le niveau de jauge de rupture actuel, le statut de jauge de rupture actuel. ...
+[CurrentMap] : Chaque carte en jeu possède aussi le tour actuel, ...
+
+
+Dans une partie : Chaque partie dure un certain nombre de tours, limité ou non dans ce nombre.
+
+
+-----------------------------------------
+
+°Interface + Exemples
+
+[Loading before title screen]
+**Load code
+**Load default balancing data (AWDS or AWDoR or Custom or user-based)
+**Load ressource directories : Pics of Units and COs
+**Draw title screen
+
+GAME
+[D'abord réussir la partie simulateur]
+
+SIMULATOR -> 1Px2, 2P god mode
+***Interface
+
+**Gérer tout ça en netplay
+
+
+BALANCING -> Pouvoir créer sa propre balance
+***Customisation TOTALE : Unités et groupements d'unités, Damage chart entre unités, COs (syntaxe propre à chacun)
+***Créer, importer, exporter un fichier BDD sur son propre format
+*Pour les pouvoirs des COs : Tous les mécanismes préinstallés seront disponibles mais à voir si on peut en créer de nouveaux ?
+
+OPTIONS -> 
+*Résolution variable et adaptative
+*Musiques, son ON/OFF (gérer les modules de musique d'abord)
+**Informations (stats offensives etc...) SIMPLE/COMPLET
+***Sélection fichiers de balancing (fenêtre avec sélection de Gamebalance, Unitbalance, CObalance) + choisir balance au démarrage (doit être valide)
+**Sélection dossier images pour unités [attention aux noms !]
+
+
+EASTER EGG
+*Un secret sera disponible dès l'écran titre si l'on effectue une certaine action : Débloque tous les éléments debug jusqu'à fermeture du programme
+
+
+
+Exemple de fichier balance pour CO : //Note : Le format pour read/write (TextParser) et le format lisible (compréhensible pour l'utilisateur) seront différents. Le format lisible s'approchera le plus possible de celui qui a été fait dans AWBW matchups
+
+***
+Misc
+Effet ; 0+ ; bonus : +0/+0 all
+COP ; bonus : +10/+10 all
+SCOP ; bonus : +20/+20 all
+***
+
+CO_balance //1ere ligne obligatoire pour reperer le bon fichier
+*** //Séparateur entre COs : Introduit un CO à la ligne suivante
+Andy //Seuls les caractères ASCII sont autorisés. A voir pour les accents ?
+Mécano : 2+ ; increase_HP : 1 ALL
+// + pour COzone croissante, = pour une fixe, * (avec un chiffre ou non) pour une globale. A côté : un $ indique qu'il affecte les bâtiments (Klaus).
+Réparafond : increase_HP : 2 ALL ; bonus : +10/+0 ALL
+Génie logistique : increase_HP : 5 ALL ; bonus : +10/+0 ALL ; increase_movement : 1 ALL
+// Syntaxe d'un effet : Nom de l'effet, quantité de l'effet, unité ou groupe d'unités séparés par des virgules, tags supplémentaires si besoin (ex. bonus conditionnel). Chaque effet se sépare par un ';' et leurs arguments sont séparés par des espaces ' '.
+//Note : TOUT l'effet est sur une ligne. TOUTE la rupture basique est sur une autre ligne, ainsi que TOUTE la SR.
+***
+Max
+Attaque frontale : 1+ ; bonus : +30/+0 direct_units
+Max en force : increase_movement : 1 direct_units
+Puissance max : increase_movement : 1 direct_units ; bonus : +20/+0 direct_units
+***
+Drake
+Loup de mer : 2+ ; bonus : +20/+10 naval_units ; in_rain_vision effect="Global" : = = ALL ; in_storm_vision effect="Global" : = = ALL
+Tsunami : set_climate : rain 1 ; decrease_fuel : half ALL_foe
+Typhon : set_climate : storm 1 ; decrease_fuel : half ALL_foe ; decrease_HP : 2 ALL_foe
+***
+
+
+Unit_balance
+
+***
+Unit_name
+Division cost movement movement_type fuel[+x_per_turn] vision weapon_code
+Weapon_1_name : ammo weapon_type(D|I) fire_range(1|(min,max)) [max_movement_to_fire] [counter_range]
+(Weapon_2_name : weapon_type(D|I) fire_range(min,max) [max_movement_to_fire] [counter_range])
+(List of special properties
+on several
+lines)
+***
+Note : Weapon type is deduced from fire_range. Direct is max=1, Indirect is max>1 (If min is omitted, its default value is 1)
+ANY weapon which can attack from >1 space is considered Indirect type regardless of allowed movement before the shot. (1 space only is Direct).
+A unit which have both Direct and Indirect weapons may not have bonuses on both weapons (ex. boost on indirect units will only boost the Indirect weapon)
+
+
+***
+Infanterie
+1500 1 direct 3 Infantry 99 2 2
+// Syntaxe : Division Coût Déplacement Type_déplacement Fuel+x_par_tour Vision Code_armes\n
+//Code_armes : 3 pour deux armes, 1 ou 2 s'il n'a que cette arme-là, 0 pour aucune arme. ATTENTION l'arme 1 a forcément des munitions limitées, l'arme 2 les a à l'infini.
+Mitraillette
+can_capture Properties
+increased_vision_in "Mountain" 3
+// Syntaxe (selon le Code_armes) Nom_arme_1? Munitions_arme_1? Type_attaque_arme_1? Portée_arme_1? \n Nom_arme_2? Type_attaque_arme_2? Portée_arme_2? \n notes_supp ?
+***
+Bazooka
+Terrestre 2500 3 Mech 70 2 3
+Bazooka : 3 direct 1
+Mitraillette : direct 1
+can_capture "Properties" ; increased_vision_in "Mountain" 3
+***
+Fusée éclairante
+Terrestre 5000 5 Tread 60 3 3
+Fusée éclairante : 3 indirect 1~5
+Mitrailleuse légère : direct 1
+special_weapon weapon=1 range=5 effect_range=2
+***
+-----------------------------------------
+° Algorithmes
+°Calcul d'une offensive
+
+Boosts et events avant attaque
+Armée 1 attaque
+Calcul des dégâts sur armée 2 (EXCEPTION : Retardé d'une étape si la contre-attaque est anticipée)
+Armée 2 attaque (Side-note pour les animations : L'armée 2 attaquera dès qu'elle se fera toucher, au contraire des jeux précédents où seule une partie de l'armée contre-attaquait avant de se faire toucher. Comment les autres savent-t'ils qu'ils allaient mourir ?!)
+Calcul des dégâts sur armée 1
+
+
+
+°Evénements communs
+
+[A chaque passage à un autre joueur] 
+Dès qu'un joueur sélectionne Fin de tour :
+Joueur actuel <- (Joueur actuel + 1) % (Nombre joueurs) 
+Joueur actuel devient l'allié, les autres joueurs deviennent les ennemis (parties à 3 ou 4 en coop pas considérés pour l'instant)
+Remise des bonus de stats de base à Joueur Actuel (i.e perte des ruptures)
+
+Si joueur actuel = 1, lancer l'event suivant :
+[A chaque changement de tour, i.e passage au joueur 1]
+
+
+
+[Lorsque le joueur x déclanche une rupture]
+Chargement des bonus de la rupture pour le joueur (puis pour les adversaires)
+Tous les effets sont pris en compte instantanément donc toute unité créée ensuite durant ce tour n'aura pas les bonus !
+
+
+Le rang de l'unité actuelle est séparé du flag "IsCOUnit". Il était envisagé au début de considérer le CO unit (général embarqué) comme un rang As spécial vu que les bonus sont les mêmes qu'un rang As, mais le rang de l'unité n'est pas prise en compte.
+L'ajout d'une nouvelle mécanique (débarquement volontaire du général sans destruction de l'unité)   pourrait changer la donne et cette méthode serait alors prise. Ainsi on peut garder le rang d'une unité donnée en mémoire sans l'"écraser" par le COUnit.
+
+
+A vérifier :
+http://forums.warsworldnews.com/viewtopic.php?f=28&t=11968
+Le luck de l'allié est aussi influencé par la défense de l'ennemi ??
+
+
